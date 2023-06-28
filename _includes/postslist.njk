@@ -7,8 +7,10 @@
       description: post.data.description,
       tags: post.data.tags,
       date: post.date,
-      imagePath: post.data.image.path | resolvePath(post),
-      imageAlt: post.data.image.alt,
+      image: {
+        path: post.data.image.path,
+        alt: post.data.image.alt
+      }
       badges: post.data.badges,
       orientation: "horizontal"
     } %}
