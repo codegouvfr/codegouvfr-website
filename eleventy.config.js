@@ -100,6 +100,10 @@ module.exports = function (eleventyConfig) {
         return (tags || []).filter(tag => ["all", "nav", "post", "posts", "bluehats_post", "bluehats_posts"].concat(addTags).indexOf(tag) === -1);
     });
 
+    eleventyConfig.addFilter("stripTags", str => {
+        return (str || "").replace(/<[^>]*>/g, '');
+    });
+
     // Customize Markdown library settings:
     eleventyConfig.amendLibrary("md", mdLib => {
         mdLib.use(markdownItAnchor, {

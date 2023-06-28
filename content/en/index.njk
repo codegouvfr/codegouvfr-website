@@ -1,30 +1,30 @@
 ---
+title: Home
 layout: layouts/home.njk
 eleventyNavigation:
   key: Home
   order: 1
-numberOfLatestPostsToShow: 3
 ---
-<div class="fr-container fr-py-8v">
-  {% set postsCount = collections.posts | length %}
-  {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-  <h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
-
-  {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
-  {% set postslistCounter = postsCount %}
-  {% include "postslist.njk" %}
-
-  {% set morePosts = postsCount - numberOfLatestPostsToShow %}
-  {% if morePosts > 0 %}
-    <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/en/blog/">the archive</a>.</p>
-  {% endif %}
-
-  {# List every content page in the project #}
-  {#
-  <ul>
-    {%- for entry in collections.all %}
-    <li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-    {%- endfor %}
-  </ul>
-  #}
+<div class="banner-primary">
+  <div class="fr-container fr-pt-8w fr-pb-6w fr-mb-6w">
+    <div class="fr-grid-row">
+      <div class="fr-col-offset-md-1 fr-col-12 fr-col-sm-12 fr-col-md-6">
+        <h1>French Free Software Unit</h1>
+      </div>
+      <div class="fr-col-md-4 fr-hidden fr-unhidden-md col-center">
+        <img src="/icons/binaire-256.png" alt="">
+      </div>
+    </div>
+  </div>
+</div>
+<div class="fr-container">
+  <div class="fr-grid-row">
+    <div class="fr-col-12">
+      <h2>Action plan for Free Software and Digital Commons</h2>
+      <p>
+        <a class="fr-link fr-fi-arrow-right-line fr-link--icon-right"
+           href="/en/action-plan-for-free-software-and-digital-commons">See</a>
+      </p>
+    </div>
+  </div>
 </div>

@@ -1,28 +1,33 @@
 module.exports = {
-    title: "Nom du site / service",
-    url: "https://url_du_site.gouv.fr/",
+    title: "Mission logiciels libres et communs numériques",
+    url: "https://code.gouv.fr/",
     newsletter: [
         {
-            url: "",
-            title: "",
-            description: ""
+            url: "https://code.gouv.fr/newsletters/subscribe/bluehats@mail.etalab.studio",
+            title: "Gazette BlueHats",
+            description: "Votre lettre d'information sur les logiciels libres par et pour les administrations."
+        },
+        {
+            url: "https://code.gouv.fr/newsletters/subscribe/logiciels-libres-dsi@mail.etalab.studio",
+            title: "Gazette DSI Libre",
+            description: "Lettre d'information sur les logiciels libres pour les DSI du secteur public."
         }
     ],
     facebook_url: "",
-    mastodon_url: "",
-    twitter_url: "",
+    mastodon_url: "https://mastodon.social/@CodeGouvFr",
+    twitter_url: "https://twitter.com/codegouvfr",
     instagram_url: "",
     linkedin_url: "",
     youtube_url: "",
-    peertube_url: "",
-    github_url: "",
-    sourcehut_url: "",
+    peertube_url: "https://tube.numerique.gouv.fr/a/logicielslibres/",
+    github_url: "https://github.com/codegouvfr/",
+    sourcehut_url: "https://man.sr.ht/~codegouvfr/",
     language: "fr",
-    description: "baseline - précisions sur l‘organisation",
+    description: "Recourir et contribuer aux logiciels libres et aux communs numériques",
     author: {
-        name: "Nom du service",
-        email: "contact@nom_du_service.gouv.fr",
-        url: "https://url_du_service.gouv.fr/"
+        name: "Mission logiciels libres de la DINUM",
+        email: "contact@code.gouv.fr",
+        url: "https://code.gouv.fr/mission/"
     },
-    service: "Nom de l’entité (ministère, secrétariat d‘état, gouvernement)"
+    service: "Direction interministérielle du numérique"
 }

@@ -1,9 +1,9 @@
 ---js
 {
-  title: "Documentation",
+  title: "Actualités",
   pagination: {
     data: "collections.posts",
-    size: 6,
+    size: 10,
     reverse: true,
     before: function(paginationData, fullData) {
       return this.filterCollectionLang(paginationData, fullData.lang);
@@ -12,8 +12,8 @@
   layout: "layouts/page.njk",
   permalink: "/{{ lang }}/blog/{% if pagination.pageNumber %}{{ pagePrefix }}{{ pagination.pageNumber + 1 }}/{% endif %}",
   eleventyNavigation: {
-    key: "Documentation",
-    order: 2
+    key: "Actualités",
+    order: 5
   }
 }
 ---

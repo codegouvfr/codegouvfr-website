@@ -1,47 +1,37 @@
-![build](https://img.shields.io/github/actions/workflow/status/codegouvfr/eleventy-dsfr/11ty-gh-pages.yml?label=deployed%20to%20gh-pages)
+[![Software License](https://img.shields.io/badge/Licence-MIT%2C%20Licence%20Ouverte-orange.svg?style=flat-square)](https://git.sr.ht/~codegouvfr/code.gouv.fr/tree/main/item/LICENSES)
 
-# eleventy-dsfr
+![build-preprod](https://img.shields.io/github/actions/workflow/status/codegouvfr/codegouv-website/preproduction.yml?label=Deploiement%20en%20préprod)
+![build-prod](https://img.shields.io/github/actions/workflow/status/codegouvfr/codegouv-website/production.yml?label=Deploiement%20en%20prod)
 
-Un dépôt pour démarrer un site statique au [DSFR](https://www.systeme-de-design.gouv.fr/) avec le
-générateur [Eleventy](https://www.11ty.dev/).
+**Note** : Le dépôt de référence est [github.com/codegouvfr/codegouv-website](https://github.com/codegouvfr/codegouv-website). Il existe un mirroir [git.sr.ht/~codegouvfr/codegouv-website](https://git.sr.ht/~codegouvfr/codegouv-website) qui peut être utilisé pour les développements, mais il faut dans ce cas configurer votre remote pour push dans les deux dépôts à la fois. Soit :
+```bash
+git remote set-url origin --push --add git@github.com:codegouvfr/codegouv-website.git
+git remote set-url origin --push --add git@git.sr.ht:~codegouvfr/codegouv-website
+```
 
-## Fonctionnalités
+# Site code.gouv.fr
 
-- **Style** :
-    - DSFR :
-        - Installation et mise à jour automatique via `npm`.
-        - [Voir les composants déjà implémentés](_includes/components)
-    - [Voir les mises en pages déjà implémentées](_includes/layouts)
-- **a11y et responsivity** : Respecte les recommandations du DSFR.
-- **i18n** : Prise en charge de l'internationalisation des textes et contenus via plusieurs filtres et le [système d'i18n d'Eleventy](https://www.11ty.dev/docs/i18n/).
-- **Navigation** : Utilise le [système de navigation d'Eleventy](https://www.11ty.dev/docs/plugins/navigation/) et gère la navigation de second niveau.
-- **Syntaxe markdown** : Améliorée via l'ajout de [conteneurs personnalisés](./markdown-custom-containers.js).
-- **Images** : Utilise l'[utilitaire d'image d'Eleventy](https://www.11ty.dev/docs/plugins/image/) pour traiter les images (par défaut pour certains composants, par exemple le composant [`card.njk`](_includes/components/card.njk)).
-- **Recherche** : Utilise [pagefind](https://pagefind.app/) pour la recherche.
-- **Pagination** : Utilise le [système de pagination d'Eleventy](https://www.11ty.dev/docs/pagination/) et gère la pagination de second niveau.
-- **Flux RSS** : Utilise le [plugin RSS d'Eleventy](https://www.11ty.dev/docs/plugins/rss/).
-- **Mesure d'audience** : Intègre la solution [matomo](public/js/matomo.js).
-- **Pages déjà générées** :
-    - Pages d'accueil, À propos, section Blog (en français et en anglais).
-    - Flux RSS pour Atom et JSON
-    - Plan du site et `sitemap.xml`
-    - Page non trouvée (404)
-    - Les pages obligatoires liées aux obligations légales : “accessibilité : non/partiellement/totalement conforme”, mentions légales, données personnelles et gestion des cookies.
-    
-## Documentation
+Ce dépôt contient les éléments nécessaires à la publication du site [code.gouv.fr](https://code.gouv.fr/).
 
-La documentation est disponible dans [`content/fr/blog/posts`](content/fr/blog/posts) ou directement sur le [site de démonstration](https://codegouvfr.github.io/eleventy-dsfr/fr/blog).
+Il a été construit à partir de [ce site modèle](https://github.com/codegouvfr/eleventy-dsfr/).
 
-Commencer par l'article [Prise en main](https://codegouvfr.github.io/eleventy-dsfr/fr/blog/prise-en-main/) (ou [`prise-en-main.md`](content/fr/blog/posts/prise-en-main.md)).
+## Installation et lancement
 
-## Démonstration et réutilisations
+- Installer les dépendances : `npm install`
+- Publier le site : `npm run build`
+- Publier et rendre le site disponible localement : `npm start`
 
-- Pour une démonstration, voir la [GitHub Pages](https://codegouvfr.github.io/eleventy-dsfr/fr/) correspondante.
-- `eleventy-dsfr` est utilisé pour le site [code.gouv.fr](https://code.gouv.fr).
+## Déploiement
 
-## Licence
+Le site est déployé automatiquement en préproduction sur [preprod.codegouv.studio](http://preprod.codegouv.studio/fr/) depuis la branche `main` et en production sur [code.gouv.fr](https://code.gouv.fr/) depauis la branche `production`.
 
-Le dépôt est publié sous licence MIT pour le code et sous licence
-Etalab 2.0 pour les autres contenus.
+# Contributions
 
-Il est maintenu par la [mission logiciels libres](https://code.gouv.fr/) de la DINUM.
+Pour discuter d'évolutions éditoriales ou pour des retours devant rester confidentiels, écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
+
+## Licences
+
+Le contenu rédactionnel du site est une publication DINUM, 20 avenue de Ségur, 75019, publié sous [licence Ouverte 2.0](LICENSES/LICENSE.Etalab-2.0.md).
+
+Les codes sources de ce dépôt sont publiés sous [licence
+MIT](LICENSES/LICENSE.MIT.md).
