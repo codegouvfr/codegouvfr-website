@@ -4,14 +4,14 @@ description: "L'OSPO de la DINUM a participé à l'événement OSPO for Good en 
 date: 2024-09-27
 image:
   path: ./UNwebTV.jpg
-  alt: "UN Web TV, montrant la salle ECOSOC chamber et les participants au début de la conférence"
+  alt: "UN Web TV, montrant la salle ECOSOC chamber et les participants au début de la conférences participants de l'édition OSPOs for Good 2024"
 tags: OSPO
 ---
 
 En juillet dernier, notre équipe a participé à l'événement [OSPOs for
 Good](https://www.un.org/techenvoy/content/ospos-good-2024) organisé
-par le bureau de l'envoyé du Secrétaire général pour les technologies
-des Nations Unies.
+par le Bureau des Nations Unies pour l'information et la
+communication, L'Allemagne, le Kenya, Open Forum Europe et OSPO++.
 
 La mission logiciels libres de la DINUM, qui lui tient lieu d'OSPO
 (pour *Open Source Programme Office*), avait déjà participé à distance
@@ -38,8 +38,6 @@ administrations publiques, soucieuses de mener leur transformation
 numérique de façon plus efficace et plus souveraine, mais aussi de
 contribuer à l'écosystème des logiciels libres pour le bénéfice de
 tous.
-
-{% imageContent "./oss_2023.jpg", "Les participants de l'édition OSPOs for Good 2023" %}
 
 # Des OSPOs pour le bien
 
@@ -79,6 +77,8 @@ trouver et mettre en oeuvre les logiciels libres dont elles ont besoin
 et les accompagner dans la publication de nouveaux projets libres ou
 dans la contribution à des projets existants. 
 
+{% imageContent "./ospo-2024-panel.jpg", "Le panel avec les OSPOs gouvernementaux" %}
+
 Il a aussi présenté la façon dont la DINUM s'est plus récemment
 engagée dans la construction de [La
 Suite](https://lasuite.numerique.gouv.fr), un ensemble d'outils
@@ -110,7 +110,9 @@ nous ont frappé :
   Chaque OSPO gagne beaucoup à interagir avec d'autres structures
   similaires, que ce soit pour coopérer, pour apprendre ou pour créer
   plus de liens avec l'écosystème Open Source au sens large.
-  
+
+{% imageContent "./ospo-2024-conf.jpg", "Avec Philip Thigo, envoyé spécial pour la technologie de la République du Kenya" %}
+
 Nous avons aussi constaté que chaque OSPO cherchait **les bons
 équilibres** entre ses activités :
 
@@ -129,8 +131,6 @@ Nous avons aussi constaté que chaque OSPO cherchait **les bons
   construire et déployer des outils, il manque les enjeux
   d'acculturation.
 
-{% imageContent "./ospo-2023-bluehats.png", "Un bonjour des participants de l'édition 2023, avec un BlueHats 🧢 parmi eux !" %}
-
 # Où est votre OSPO ?
 
 Côté DINUM, nous souhaitons que la mission logiciels libres continue
@@ -144,9 +144,13 @@ Si vous avez connaissance d'entités dédiées aux logiciels libres dans
 une administration, n'hésitez pas à [nous contacter](mailto:contact@code.gouv.fr) pour enrichir cette
 base !
 
+{% imageContent "./ospo-2023-bluehats.png", "Un bonjour des participants de l'édition 2023, avec un BlueHats 🧢 parmi eux !" %}
+
 # Revoir la conférence
 
 La conférence est intégralement disponible en vidéo.
 
 - Premier jour : [première](https://webtv.un.org/en/asset/k1m/k1ma4k9rff) et [deuxième](https://webtv.un.org/en/asset/k1u/k1uvv0xd6d) parties
 - Deuxième jour : [première](https://webtv.un.org/en/asset/k1q/k1qmxhno3c) et [deuxième](https://webtv.un.org/en/asset/k15/k1517v486n) parties
+
+{% imageContent "./ospo-2024-start.jpg", "Écran montrant « Welcome to OSPOs for Good 2024 »" %}
