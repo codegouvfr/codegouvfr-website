@@ -69,6 +69,8 @@ priorité à l'Open Source en tant que clé de la coopération numérique
 mondiale pour et entre les États membres, au service d'un avenir qui,
 pour ce qui est de la technologie, ne laisse personne de côté.
 
+`>>` Lire le [Pacte pour le futur (PDF en anglais)](https://www.un.org/pga/wp-content/uploads/sites/109/2024/09/The-Pact-for-the-Future-final.pdf)
+
 # Qu'avons-nous partagé ?
 
 Bastien Guerry est intervenu lors d'une table ronde pour présenter les
