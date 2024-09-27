@@ -5,7 +5,7 @@ description: L'atelier présentera AboutCode, une solution libre et open source 
 ---
 - Date : 8 novembre 2024
 - Heure : De 11h à 12h30
-- Intervenant : Philippe Ombrédanne, Mainteneur principal chez AboutCode.org, une association sans but lucratif Belge et Software, et une personne de Software Heritage
+- Intervenant : Philippe Ombrédanne, Mainteneur principal chez AboutCode.org, une association sans but lucratif Belge, et une personne de Software Heritage
 - Visio : [Salon BlueHats](https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf)
 
 <br/>
