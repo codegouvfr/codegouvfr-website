@@ -64,12 +64,12 @@ Les OSPOs répondent donc à une exigence à la fois technique et
 
 Un pas vient d'être franchi : le 22 septembre, les 193 États membres
 de l'assemblée générale des Nations unies ont approuvé le *Pacte
-mondial pour le numérique*, lequel engage les Nations unies à donner
-priorité à l'Open Source en tant que clé de la coopération numérique
-mondiale pour et entre les États membres, au service d'un avenir qui,
-pour ce qui est de la technologie, ne laisse personne de côté.
-
-`>>` [The Pact for the Future (PDF)](https://www.un.org/pga/wp-content/uploads/sites/109/2024/09/The-Pact-for-the-Future-final.pdf)
+numérique mondial*
+([PDF](https://www.un.org/pga/wp-content/uploads/sites/109/2024/09/The-Pact-for-the-Future-final.pdf)),
+lequel engage les Nations unies à donner priorité à l'Open Source en
+tant que clé de la coopération numérique mondiale pour et entre les
+États membres, au service d'un avenir qui, pour ce qui est de la
+technologie, ne laisse personne de côté.
 
 # Qu'avons-nous partagé ?
 
