@@ -109,8 +109,9 @@ Le [marché interministériel de logiciels libres](https://code.gouv.fr/fr/utili
 
 ## 📅 Les événements à venir
 
-- [LibreOffice and OpenSource conférence 2024](https://events.documentfoundation.org/libreoffice-conference-2024/schedule/#) au Luxembourg.
 - [Forgeathon 2024](https://framaforms.org/forgeathon-2024-1720612146) : L'AEIF et ses partenaires, la Direction du numérique pour l'éducation et Prologin, vous convient à un week-end de contribution au service des communautés et des projets de la forge des communs numériques éducatifs, les 5/6 octobre 2024 à Paris.
+- [Conférence LibreOffice et OpenSource 2024](https://events.documentfoundation.org/libreoffice-conference-2024/schedule/#) au Luxembourg du 10 au 12 octobre.
+- [Les cafés Guix](https://hpc.guix.info/events/2022/caf%C3%A9-guix/) reprennent cette année avec une première session qui aura lieu le mardi 15 Octobre à 13h [sur ce lien](https://meet.univ-grenoble-alpes.fr/b/cel-dyj-m93-arv): « Installer et utiliser facilement et de façon reproductible ses logiciels avec Guix" animé par Pierre-Antoine Bouttier (GRICAD) ».
 - [Campus du libre](https://www.campus-du-libre.org/cfp.php) : La 7ème édition du Campus du Libre se déroulera le samedi 23 novembre 2024 au campus de la Manufacture des Tabacs à l'Université Jean-Moulin Lyon3.
 - Alpes Open Source Software organise [AlpOSS](https://alposs.fr), l’événement Isérois de l’écosystème Open Source le 20 Février 2025, à la Mairie d'Échirolles.
 
