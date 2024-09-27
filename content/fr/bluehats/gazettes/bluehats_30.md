@@ -23,22 +23,22 @@ Toujours au niveau européen, Stéphanie Schaer, directrice interministérielle 
 ## 🇺🇳 Le pacte mondial pour le numérique soutient l'Open Source
 
 Le 22 septembre, à New York, les 193 États membres de l'Assemblée
-générale des Nations unies ont approuvé le **Pacte pour l'avenir**,
-une déclaration historique promettant des actions concrètes en faveur
-d'un monde plus sûr, plus pacifique, plus durable et plus inclusif
-pour les générations de demain. 
+générale des Nations unies ont approuvé le *Pacte pour l'avenir*, une
+déclaration historique promettant des actions concrètes en faveur d'un
+monde plus sûr, plus pacifique, plus durable et plus inclusif pour les
+générations de demain.
 
-Ce Pacte inclut le Pacte mondial pour le numérique, un engagement
+Ce pacte inclut le *Pacte mondial pour le numérique*, un engagement
 mondial visant à garantir que les technologies numériques contribuent
 au développement durable et aux droits de l'homme, tout en s'attaquant
 à des risques tels que les fractures numériques, la cybersécurité et
 l'utilisation abusive de la technologie.
 
 Les clauses 14 à 17 du Pacte numérique mondial engagent spécifiquement
-les Nations unies à donner la priorité à l'Open Source en tant que clé
-de la coopération numérique mondiale pour et entre les États membres,
-au service d'un avenir qui ne laisse personne de côté en ce qui
-concerne la technologie.
+les Nations unies à donner priorité à l'Open Source en tant que clé de
+la coopération numérique mondiale pour et entre les États membres, au
+service d'un avenir qui, pour ce qui est de la technologie, ne laisse
+personne de côté.
 
 `>>` Lire [The Pact for the Future (PDF)](https://www.un.org/pga/wp-content/uploads/sites/109/2024/09/The-Pact-for-the-Future-final.pdf)
 

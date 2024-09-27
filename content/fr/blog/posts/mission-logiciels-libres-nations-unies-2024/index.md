@@ -43,8 +43,6 @@ tous.
 
 # Des OSPOs pour le bien
 
-Les OSPOs répondent à une exigence à la fois technique et éthique.
-
 En 2023, l'événement était intitulé : « Construire et concevoir une
 infrastructure numérique coopérative » (*Building & Designing
 Cooperative Digital Infrastructure*). Le terme « infrastructure »
@@ -60,6 +58,16 @@ Sustainable Development Through Open Source*). La collaboration n'est
 pas seulement une méthode de développement plus efficace, c'est aussi,
 combinée à la publication des codes sources sous licences libres, une
 façon d'avancer ensemble vers le bien commun.
+
+Les OSPOs répondent donc à une exigence à la fois technique et
+éthique.
+
+Un pas vient d'être franchi : le 22 septembre, les 193 États membres
+de l'assemblée générale des Nations unies ont approuvé le *Pacte
+mondial pour le numérique*, lequel engage les Nations unies à donner
+priorité à l'Open Source en tant que clé de la coopération numérique
+mondiale pour et entre les États membres, au service d'un avenir qui,
+pour ce qui est de la technologie, ne laisse personne de côté.
 
 # Qu'avons-nous partagé ?
 
@@ -101,8 +109,8 @@ nous ont frappé :
   similaires, que ce soit pour coopérer, pour apprendre ou pour créer
   plus de liens avec l'écosystème Open Source au sens large.
   
-Nous avons aussi constaté que chaque OSPO tâchait de **trouver les
-bons équilibres** pour ses activités :
+Nous avons aussi constaté que chaque OSPO cherchait **les bons
+équilibres** entre ses activités :
 
 - Entre faire de l'open source pour soi et en faire pour les autres :
   s'il s'agit seulement d'optimiser des coûts de possession grâce à
