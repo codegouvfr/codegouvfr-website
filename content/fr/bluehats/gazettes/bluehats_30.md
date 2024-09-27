@@ -5,16 +5,16 @@ date: 2024-09-27
 
 ## 📢 Nous avons besoin de vous !
 
-- La mission logiciels libres souhaite mettre en valeur les OSPO ("Open Source Programme Offices") du secteur public et commence à consolider des informations dans [un fichier](https://git.sr.ht/~codegouvfr/codegouvfr-data/tree/main/item/fr-public-sector-ospo.yml).  Vous connaissez une entitée dédiée aux logiciels libres dans votre administration ?  [Dites-le nous](mailto:contact@code.gouv.fr) !
-- Nous préparons une mise à jour de notre inventaire des codes sources.  N'hésitez pas à vous inscrire à [ce sondage](https://framadate.org/LOGzGWVpxGvg75zz) pour rejoindre les webinaires où nous prendrons vos retours.  Voir aussi notre [appel à contributions sur la liste publique #BlueHats](https://lists.sr.ht/~codegouvfr/bluehats/%3C878qvys1rl.fsf@bzg.fr%3E).
+- Suite à [notre participation à l'événement OSPO for Good aux Nations Unies](https://preprod.codegouv.fr/fr/blog/mission-logiciels-libres-nations-unies-2024/), nous souhaitons mettre en valeur les autres *Open Source Programme Offices* du secteur public.  Nous consolidons des informations dans [ce fichier .yml](https://git.sr.ht/~codegouvfr/codegouvfr-data/tree/main/item/fr-public-sector-ospo.yml).  Vous connaissez une entitée dédiée aux logiciels libres dans votre administration ?  [Dites-le nous](mailto:contact@code.gouv.fr) !
+- Nous préparons une mise à jour de notre [inventaire des codes sources publiés par des organismes publics](https://code.gouv.fr/sources/).  N'hésitez pas à vous inscrire à [ce sondage](https://framadate.org/LOGzGWVpxGvg75zz) pour rejoindre les webinaires où nous écouterons vos suggestions.  Voir aussi notre [appel à contributions sur la liste publique #BlueHats](https://lists.sr.ht/~codegouvfr/bluehats/%3C878qvys1rl.fsf@bzg.fr%3E).
 
 <br/>
 
 ## 🇪🇺 Nous étions au sommet européen de l'Open Source
 
-Nous étions au [sommet européen de l'Open Source](https://events.linuxfoundation.org/open-source-summit-europe/) organisé à Vienne par la [Linux Foundation](https://www.linuxfoundation.org/).  Nous y avons présenté [La Suite](https://speakerdeck.com/bluehats/building-a-digital-workplace-for-civil-servants) et [les prix #BlueHats](https://speakerdeck.com/bluehats/code-dot-gouv-dot-fr-presenting-the-bluehats-awards) 🧢
+La mission a participé au [sommet européen de l'Open Source](https://events.linuxfoundation.org/open-source-summit-europe/) organisé à Vienne par la [Linux Foundation](https://www.linuxfoundation.org/).  Nous y avons présenté [La Suite](https://speakerdeck.com/bluehats/building-a-digital-workplace-for-civil-servants) et [les prix #BlueHats 🧢](https://speakerdeck.com/bluehats/code-dot-gouv-dot-fr-presenting-the-bluehats-awards).
 
-La session dédiée à la présentation de [La Suite](https://lasuite.numerique.gouv.fr/) fut l'occasion de revenir sur l'initiative de coopération franco-allemande nommée « 100 days challenges », initiative qui permet de porter le projet à l'échelle européenne. Les acteurs présents, une cinquantaine, issus tant d'administrations européennes que d'ONG ou d'entreprises, furent particulièrement curieux de la dimension européenne de l'initiative et surpris de la vision souveraine portant nos "digital workplace", en France comme en Allemagne.
+La session dédiée à la présentation de [La Suite](https://lasuite.numerique.gouv.fr/) fut l'occasion de revenir sur l'initiative de coopération franco-allemande nommée *100 days challenges*, initiative qui permet de porter le projet à l'échelle européenne. Les acteurs présents, une cinquantaine, issus tant d'administrations européennes que d'ONG ou d'entreprises, furent particulièrement intéressés par la dimension européenne de l'initiative et surpris par la vision souveraine qui soutient nos *digital workplaces*, en France comme en Allemagne.
 
 Toujours au niveau européen, Stéphanie Schaer, directrice interministérielle du numérique, a présenté le pourquoi et le comment de [La Suite](https://lasuite.numerique.gouv.fr/) lors de l'événement [Towards European Digital Independence: Building the Euro Stack](https://digitalindependenceeu.wordpress.com/), organisé par un groupe multipartite de membres du Parlement européen (PPE, S&D, Renew et les Verts).
 
@@ -22,12 +22,12 @@ Toujours au niveau européen, Stéphanie Schaer, directrice interministérielle 
 
 ## 🧢 Les ateliers #BlueHats ont repris
 
-Les ateliers #BlueHats reprennent du service ! Deux passés à revisionner et quatre à venir :
+Les ateliers #BlueHats reprennent du service ! Deux à revisionner et quatre à voir bientôt :
 
 - 29 novembre : [Migration de l’application COBOL MedocDB de GCOS à GnuCOBOL sur GNU/Linux](https://code.gouv.fr/fr/bluehats/de-GCOS-a-gnucobol/)
 - 8 novembre : [AboutCode : outils et données libres et ouvertes pour automatiser la sécurisation de la chaîne d'approvisionnement logicielle](https://code.gouv.fr/fr/bluehats/aboutcode/)
 - 18 octobre : [La collaboration MENJS / Code Lutin](https://code.gouv.fr/fr/bluehats/menjs-publication-by-design/)
-- 15 octobre : [The road to green code (with Sonar) + live demo](https://code.gouv.fr/fr/bluehats/ecocode/)
+- 15 octobre : [La route vers le « green code » (avec Sonar)](https://code.gouv.fr/fr/bluehats/ecocode/)
 - 20 septembre : [Présentation du portail métier de l'éducation nationale](https://code.gouv.fr/fr/bluehats/portail-metier-education-nationale/)
 - 13 septembre : [De quelques forges moins connues : Forgejo, Fordj et SourceHut](https://code.gouv.fr/fr/bluehats/autres-forges/)
 
@@ -51,7 +51,7 @@ le 13 septembre 2024.
 ## 🚀 Autres actualités de la mission logiciels libres
 
 - Notre [proposition](https://github.com/publicodes/publicodes/pull/563) d'ajouter des informations de financement au standard `publiccode.yml` a été acceptée.
-- La [mission numérique écoresponsable](https://ecoresponsable.numerique.gouv.fr/) publie le podcast d'une rencontre à laquelle la mission logiciels libres a participé.  Le thème ?  « Innovation et empreinte environnementale ». [À écouter](https://ecoresponsable.numerique.gouv.fr/posts/lancement-podcast-juillet2024/) !
+- La [mission numérique écoresponsable](https://ecoresponsable.numerique.gouv.fr/) publie un podcast d'une rencontre à laquelle la mission logiciels libres a participé.  Le thème ?  « Innovation et empreinte environnementale ». [À écouter](https://ecoresponsable.numerique.gouv.fr/posts/lancement-podcast-juillet2024/) !
 - La mission publie un jeu de données sur [les structures proposant des formations aux logiciels libres](https://www.data.gouv.fr/fr/datasets/structures-proposant-des-formations-aux-logiciels-libres/) : pour enrichir ce jeu de données, [écrivez-nous](mailto:contact@code.gouv.fr) ou [contribuez directement](https://git.sr.ht/~codegouvfr/codegouvfr-data/tree/main/item/CONTRIBUTING.md).
 
 <br/>
@@ -59,15 +59,15 @@ le 13 septembre 2024.
 ## 🏆 Acteurs du libre 2024 : prix de la collaboration public-privé
 
 Vous êtes une administration centrale ou déconcentrée et vous
-collaborez activement avec l'écosystème open source?  Nous vous
-invitons à participer au concours des Acteurs du Libre organisé à
-l'occasion du salon Open Source Experience, dans la catégorie "Prix de
-la collaboration public-privé".
+collaborez activement avec l'écosystème open source?  Vous êtes
+invités à participer au concours des Acteurs du Libre organisé à
+l'occasion du salon Open Source Experience, dans la catégorie « Prix
+de la collaboration public-privé ».
 
 Pourquoi participer ? Parce que ce concours est une des rares
 occasions de mettre en lumière les succès de l'open source en France
 et notamment dans ses régions. En remportant ce trophée, vous
-profiterez de nos actions de communication (communiqué de presse,
+profiterez d'actions de communication (communiqué de presse,
 publications, etc.) créant ainsi une belle visibilité au niveau
 national, touchant non seulement l’écosystème open source mais aussi
 un public plus large.
@@ -75,23 +75,22 @@ un public plus large.
 Ce prix de la collaboration public-privé vise à récompenser les
 administrations qui incitent leurs services à renforcer l’utilisation
 de logiciels libres et qui s’appuient sur l’écosystème open source
-professionnel par exemple via l’achat de la solution entreprise ou
+professionnel, par exemple via l’achat de la solution entreprise ou
 commerciale d’un éditeur Open Source ou par la délégation d’un projet
 complet à une ESN Open Source. Les récits de collaboration solide et
 pérenne seront particulièrement appréciés, ainsi que l'existence d'une
 communauté.
 
-La cérémonie de remise des prix aura lieu lors de la première journée du salon Open Source Experience à Paris, le 4 décembre.
+La cérémonie de remise des prix aura lieu lors de la première journée
+du salon Open Source Experience à Paris, le 4 décembre.
 
 `>>` Inscrivez vous des maintenant sur [lesacteursdulibre.com](https://lesacteursdulibre.com) pour recevoir le dossier de participation
 
 ## 🗳️ La campagne 2024 du Label Territoire Numérique Libre est lancée
 
 La campagne 2024 du Label Territoire Numérique Libre est actuellement
-lancée, jusqu'au 08 novembre 2024.
-
-Depuis 2016, plus d'une soixantaine de collectivités ont déjà été
-récompensées.
+lancée, jusqu'au 08 novembre 2024. Depuis 2016, plus d'une soixantaine
+de collectivités ont déjà été récompensées.
 
 Le label Territoire Numérique Libre est un label indépendant et
 gratuit proposé par l'ADULLACT et soutenu par un Comité d'Orientation
