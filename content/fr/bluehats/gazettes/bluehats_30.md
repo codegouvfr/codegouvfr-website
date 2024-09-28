@@ -169,6 +169,8 @@ Le [marché interministériel de logiciels libres](https://code.gouv.fr/fr/utili
 - [Le fonds d’investissement K1 confirme l’achat de MariaDB](https://next.ink/brief_article/le-fonds-dinvestissement-k1-confirme-lachat-de-mariadb/), next.ink, Septembre 2024
 - [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/), techcrunch.com, Septembre 2024
 - [Free software in the EU needs your help! Join the international effort before September 20](https://www.fsf.org/blogs/community/free-software-in-the-eu-needs-your-help), fsf.org, Septembre 2024
+- [Inspect, the UK government backed open source AI testing platform](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/inspect-uk-government-backed-open-source-ai-testing-platform), joinup.ec.europa.eu, Septembre 2024
+- [Open Source tools unlock the potential of EU Data Spaces](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/simpl-platform-and-open-high-value-datasets-public-sector), joinup.ec.europa.eu, Septembre 2024
 - [Calling All Security Researchers: Help Make Our Digital Infrastructure Safer](https://www.sovereigntechfund.de/news/calling-all-security-researchers/), sovereigntechfund.de, Août 2024
 - [Progress and trends in the national open source policies and legal frameworks](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-publication-progress-and-trends-oss-policies), joinup.ec.europa.eu, Juillet 2024
 - [The European NGI fund must be renewed](https://sourcehut.org/blog/2024-07-18-ngi-must-be-renewed/), Juillet 2024
