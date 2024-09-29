@@ -12,7 +12,7 @@ date: 2024-05-22
 - Qu'on se le dise : les [ateliers BlueHats](https://code.gouv.fr/fr/bluehats/tags/atelier/) reprennent !
 - La mission logiciels libres a été distinguée par la [Free Software Foundation](https://www.fsf.org) en recevant son [prix pour les projets d'utilité sociale](https://www.fsf.org/news/free-software-awards-winners-announced-bruno-haible-french-free-software-unit-nick-logozzo) : une bonne nouvelle pour tous les OSPO du secteur public !
 
-<br>
+<br/>
 
 ## 🧢 Une nouvelle forge pour l'éducation nationale
 
@@ -57,7 +57,7 @@ Afin d'accompagner l'expansion de l'archive et le lancement de nouveaux projets,
 - [Développeur⸱se Backend](https://www.softwareheritage.org/2023/11/13/developpeur%e2%b8%b1se-backend/?lang=fr)
 - [Ingénieur⸱e Big Data](https://www.softwareheritage.org/2024/03/01/ingenieur%e2%b8%b1e-architecture-et-developpement-big-data/?lang=fr).
 
-<br>
+<br/>
 
 ## 📅 Les événements à venir
 ### 24 mai : présentation de la mission logiciels libres via OSPO Alliance
@@ -88,7 +88,7 @@ Lors de ce webinaire organisé par le programme Transformation numérique des te
 - 26 et 27 juin : [GeoNature, les rencontres nationales 2024 à Aix-en-Provence](https://geonature.fr/rencontres-2024.html)
 - 9 et 10 juillet : [OSPOs for Good 2024 à New York](https://www.un.org/techenvoy/content/ospos-good-2024)
 
-<br>
+<br/>
 
 ## 🎥 Les événements à revivre
 
@@ -96,7 +96,7 @@ Lors de ce webinaire organisé par le programme Transformation numérique des te
 - [Alpes Open Source Software](https://alposs.fr), l’événement Isérois de l’écosystème Open Source : voir [le programme](https://alposs.fr/wp-content/uploads/2024/03/Programme-AlpOSS-2024.pdf) et [les vidéos](https://video.echirolles.fr/w/p/q7Hrt74jyS1M64NXffCdfz).
 - [Les journées Esup Pod](https://www.linkedin.com/posts/nicolas-can-a6bb7869_esupabrpod-activity-7180903481040351232-qLnX/), où furent fêtés les 10 ans du projet.
 
-<br>
+<br/>
 
 ## 📰 La revue de presse
 ### En français
@@ -112,7 +112,7 @@ Lors de ce webinaire organisé par le programme Transformation numérique des te
 - [La suite collaborative numérique de l’État dans les starting-blocks](https://acteurspublics.fr/articles/la-suite-collaborative-numerique-de-letat-dans-les-starting-blocks), avril 2024
 - [Le CNLL se mobilise pour les élections européennes](https://cnll.fr/news/le-cnll-se-mobilise-pour-les-%C3%A9lections-europ%C3%A9ennes/), cnll.fr, mars 2024
 
-<br>
+<br/>
 
 ### En anglais
 

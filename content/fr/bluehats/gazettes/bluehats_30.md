@@ -134,6 +134,7 @@ Le [marché interministériel de logiciels libres](https://code.gouv.fr/fr/utili
 - [Conférence LibreOffice et OpenSource 2024](https://events.documentfoundation.org/libreoffice-conference-2024/schedule/#) au Luxembourg du 10 au 12 octobre.
 - [Les cafés Guix](https://hpc.guix.info/events/2022/caf%C3%A9-guix/) reprennent cette année avec une première session qui aura lieu le mardi 15 Octobre à 13h [sur ce lien](https://meet.univ-grenoble-alpes.fr/b/cel-dyj-m93-arv): « Installer et utiliser facilement et de façon reproductible ses logiciels avec Guix" animé par Pierre-Antoine Bouttier (GRICAD) ».
 - [Campus du libre](https://www.campus-du-libre.org/cfp.php) : La 7ème édition du Campus du Libre se déroulera le samedi 23 novembre 2024 au campus de la Manufacture des Tabacs à l'Université Jean-Moulin Lyon3.
+- [FOSDEM 2025](https://fosdem.org/2025/), les 1 et 2 février 2025 : [l'appel à communication est ouvert](https://fosdem.org/2025/news/2024-09-23-devrooms-cfp)
 - Alpes Open Source Software organise [AlpOSS](https://alposs.fr), l’événement Isérois de l’écosystème Open Source le 20 Février 2025, à la Mairie d'Échirolles.
 
 <br/>
