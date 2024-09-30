@@ -134,6 +134,7 @@ Le [marché interministériel de logiciels libres](https://code.gouv.fr/fr/utili
 - [Conférence LibreOffice et OpenSource 2024](https://events.documentfoundation.org/libreoffice-conference-2024/schedule/#) au Luxembourg du 10 au 12 octobre.
 - [Les cafés Guix](https://hpc.guix.info/events/2022/caf%C3%A9-guix/) reprennent cette année avec une première session qui aura lieu le mardi 15 Octobre à 13h [sur ce lien](https://meet.univ-grenoble-alpes.fr/b/cel-dyj-m93-arv): « Installer et utiliser facilement et de façon reproductible ses logiciels avec Guix" animé par Pierre-Antoine Bouttier (GRICAD) ».
 - [Campus du libre](https://www.campus-du-libre.org/cfp.php) : La 7ème édition du Campus du Libre se déroulera le samedi 23 novembre 2024 au campus de la Manufacture des Tabacs à l'Université Jean-Moulin Lyon3.
+- [FOSDEM 2025](https://fosdem.org/2025/), les 1 et 2 février 2025 : [l'appel à communication est ouvert](https://fosdem.org/2025/news/2024-09-23-devrooms-cfp)
 - Alpes Open Source Software organise [AlpOSS](https://alposs.fr), l’événement Isérois de l’écosystème Open Source le 20 Février 2025, à la Mairie d'Échirolles.
 
 <br/>
@@ -156,6 +157,7 @@ Le [marché interministériel de logiciels libres](https://code.gouv.fr/fr/utili
 - [Panoramax : le projet citoyen initié par l'Institut national de l'information géographique et forestière (IGN) pour ne plus dépendre de Google Street View](https://www.radiofrance.fr/franceinfo/podcasts/nouveau-monde/panoramax-le-projet-citoyen-initie-par-l-institut-national-de-l-information-geographique-et-forestiere-ign-pour-ne-plus-dependre-de-google-street-view-9690514), radiofrance.fr, Septembre 2024
 - [Open Source Summit : Proxmox se dévoile aux clients de VMware](https://www.lemagit.fr/actualites/366611314/Open-Source-Summit-Proxmox-se-devoile-aux-clients-de-VMware), lemagit.fr, Septembre 2024
 - [L'apprentissage automatique et la reproductibilité - avec Pascal Monasse (LIGM)](https://codeforthought.buzzsprout.com/1326658/episodes/15649531-fr-l-apprentissage-automatique-et-la-reproductibilite-avec-pascal-monasse-ligm), codeforthought.buzzsprout.com, Septembre 2024
+- [Le fonds d’investissement K1 confirme l’achat de MariaDB](https://next.ink/brief_article/le-fonds-dinvestissement-k1-confirme-lachat-de-mariadb/), next.ink, Septembre 2024
 - [Nantes Métropole mise sur l'open source pour son archivage numérique](https://www.lemondeinformatique.fr/actualites/lire-nantes-metropole-mise-sur-l-open-source-pour-son-archivage-numerique-94373.html), lemondeinformatique.fr, Juillet 2024
 - [L'Occitanie se libère petit à petit de sa dépendance aux Gafam](https://www.cio-online.com/actualites/lire-l-occitanie-se-libere-petit-a-petit-de-sa-dependance-aux-gafam-15777.html), cio-online.com, Juillet 2024
 - [Les communs numériques et les logiciels libres, patrimoine de l’humanité](https://www.telecom-paris.fr/fr/ideas/communs-numeriques-logiciels-libres), telecom-paris.fr, Juin 2024
@@ -165,8 +167,8 @@ Le [marché interministériel de logiciels libres](https://code.gouv.fr/fr/utili
 
 ### En anglais
 
+- [Best Practices Guide for Digital Commons](https://dcpc.info/publications/best-practices-guide-for-digital-commons-government-relations/), dcpc.info, 2024
 - [OSPOs for Good 2024: Advancing Sustainable Development Through Open Source](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/ospos-good-2024-highlights), joinup.ec.europa.eu, Juillet 2024
-- [Le fonds d’investissement K1 confirme l’achat de MariaDB](https://next.ink/brief_article/le-fonds-dinvestissement-k1-confirme-lachat-de-mariadb/), next.ink, Septembre 2024
 - [Some startups are going ‘fair source’ to avoid the pitfalls of open source licensing](https://techcrunch.com/2024/09/22/some-startups-are-going-fair-source-to-avoid-the-pitfalls-of-open-source-licensing/), techcrunch.com, Septembre 2024
 - [Free software in the EU needs your help! Join the international effort before September 20](https://www.fsf.org/blogs/community/free-software-in-the-eu-needs-your-help), fsf.org, Septembre 2024
 - [Inspect, the UK government backed open source AI testing platform](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/inspect-uk-government-backed-open-source-ai-testing-platform), joinup.ec.europa.eu, Septembre 2024

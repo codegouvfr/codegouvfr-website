@@ -11,7 +11,7 @@ date: 2024-07-27
 - Voici un nouveau [guide interactif pour déterminer le *awesome score* de votre projet libre](https://code.gouv.fr/guides/awesome/)
 - Le prochain atelier #BlueHats du 13 septembre présentera des forges peu connues : [Forgejo, Fordj et SourceHut](https://code.gouv.fr/fr/bluehats/autres-forges/)
 
-<br>
+<br/>
 
 ## 📻 L'émission « Libre à vous ! » et les collectivités
 
@@ -122,7 +122,7 @@ Le [Muséum national d'Histoire naturelle](https://www.mnhn.fr/fr) cherche son [
 - [Retour sur les premières rencontres nationales GeoNature](https://www.ecrins-parcnational.fr/actualite/retour-premieres-rencontres-nationales-geonature), ecrins-parcnational.fr, juillet 2024
 - [L’open source se fait une place parmi les outils de visioconférence utilisés par les établissements](https://www.campusmatin.com/numerique/equipements-systemes-informations/l-open-source-se-fait-une-place-parmi-les-outils-de-visioconference-utilises-par-les-etablissements.html), campusmatin.com, juillet 2024
 
-<br>
+<br/>
 
 ### En anglais
 
@@ -139,7 +139,7 @@ Le [Muséum national d'Histoire naturelle](https://www.mnhn.fr/fr) cherche son [
 - [Switzerland now requires all government software to be open source](https://www.zdnet.com/article/switzerland-now-requires-all-government-software-to-be-open-source/), zdnet.com, juillet 2024
 - [Rewatch SEMIC 2024: All Recordings Now Available on YouTube](https://joinup.ec.europa.eu/interoperable-europe/news/rewatch-semic-2024-all-recordings-now-available-youtube), joinup.ec.europa.eu, juillet 2024
 
-<br>
+<br/>
 
 ### En allemand
 
