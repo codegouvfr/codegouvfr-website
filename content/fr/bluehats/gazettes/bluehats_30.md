@@ -5,7 +5,7 @@ date: 2024-09-27
 
 ## 📢 Nous avons besoin de vous !
 
-- Suite à [notre participation à l'événement OSPO for Good aux Nations Unies](https://preprod.codegouv.fr/fr/blog/mission-logiciels-libres-nations-unies-2024/), nous souhaitons mettre en valeur les autres *Open Source Programme Offices* du secteur public.  Nous consolidons des informations dans [ce fichier .yml](https://git.sr.ht/~codegouvfr/codegouvfr-data/tree/main/item/fr-public-sector-ospo.yml).  Vous connaissez une entitée dédiée aux logiciels libres dans votre administration ?  [Dites-le nous](mailto:contact@code.gouv.fr) !
+- Suite à [notre participation à l'événement OSPO for Good aux Nations Unies](https://code.gouv.fr/fr/blog/mission-logiciels-libres-nations-unies-2024/), nous souhaitons mettre en valeur les autres *Open Source Programme Offices* du secteur public.  Nous consolidons des informations dans [ce fichier .yml](https://git.sr.ht/~codegouvfr/codegouvfr-data/tree/main/item/fr-public-sector-ospo.yml).  Vous connaissez une entitée dédiée aux logiciels libres dans votre administration ?  [Dites-le nous](mailto:contact@code.gouv.fr) !
 - Nous préparons une mise à jour de notre [inventaire des codes sources publiés par des organismes publics](https://code.gouv.fr/sources/).  N'hésitez pas à vous inscrire à [ce sondage](https://framadate.org/LOGzGWVpxGvg75zz) pour rejoindre les webinaires où nous écouterons vos suggestions.  Voir aussi notre [appel à contributions sur la liste publique #BlueHats](https://lists.sr.ht/~codegouvfr/bluehats/%3C878qvys1rl.fsf@bzg.fr%3E).
 
 <br/>
