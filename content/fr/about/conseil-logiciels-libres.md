@@ -66,7 +66,7 @@ que soient indiquant les noms.
   l'installation d'un système d'exploitation libre augmente la
   durabilité des ordinateurs (portables ou non) et des smartphones ? »
 
-  Avis positif à la majorité des membres du conseil.
+  Avis positif à la majorité des membres du conseil, soutenu par la DINUM.
 
 ## Publications
 
