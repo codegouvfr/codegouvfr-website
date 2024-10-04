@@ -142,6 +142,7 @@ Le [marché interministériel de logiciels libres](https://code.gouv.fr/fr/utili
 ## 👷‍♀️ Quelques offres d'emploi et de formation
 
 - [Le CNRS recrute](https://emploi.cnrs.fr/Offres/CDD/UMR7161-GOVVAN-006/Default.aspx) un·e ingénieur·e de recherche en ingénierie logicielle pour développer un service collaboratif d'édition dans le logiciel libre GNU TeXmacs (H/F)
+- Le CNRS propose [une formation à Git pour la gestion de documents textuels](https://formation.ifsem.cnrs.fr/training/1376/3837) et [une autre à GitHub](https://formation.ifsem.cnrs.fr/training/1410/3943) comme cadre de développement et d'automatisation pour l'open source.
 - Le CNRS propose [une formation à GitHub](https://formation.ifsem.cnrs.fr/training/1410/3943) comme cadre de développement et automatisation pour l'open source.
 - [Le Parc national des Écrins recrute](https://www.ecrins-parcnational.fr/contractuel-cat-chargee-mission-open-data-outdoor-biodiversite) un·e chargé·e de mission open data, outdoor et biodiversité.
 
