@@ -46,3 +46,9 @@ Grâce aux 2 premiers axe, nous avons identifié et outillé une architecture p�
 * Audit de 2 applications (Affelnet 6e et Affelnet Lycée)
 * Implémentation de scripts d'analyse et refactoring
 * Rédaction d'un guide de remédiation "dev-friendly"
+
+4. Les éléments d’industrialisation qui sont en cours pour le passer à l’échelle
+
+* Plugin AppBuilder – DevSecOps pour instancier un nouveau projet Java depuis notre Forge Education IT avec l’architecture « action24 » + pipeline de publication vers le Mim.libre
+* Plugin [IS Designer LCNC ouvert](https://code.gouv.fr/sill/detail?name=IS%20Designer) pour industrialiser la production d’API respectant l’action 24 (design + reverse Swagger)
+
