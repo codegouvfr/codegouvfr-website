@@ -1,13 +1,13 @@
 ---
-title: Budget et effectifs de la mission logiciels libres et communs numériques
+title: Dépense, effectifs et impact de la mission logiciels libres et communs numériques
 layout: layouts/page.njk
 eleventyNavigation:
-  key: Le budget et les effectifs
+  key: Nos dépenses, nos effectifs et notre impact
   parent: À propos
   order: 4
 segments:
-  - url: /budget-et-effectifs/
-    title: Budget et effectifs
+  - url: /depenses-effectifs-impact/
+    title: Dépense, effectifs et impact
 showBreadcrumb: true
 ---
 
@@ -15,7 +15,7 @@ showBreadcrumb: true
 de la mission logiciels libres et communs numériques depuis l'annonce
 de sa création en novembre 2021.
 
-## Budget
+## Dépenses
 
 ### 2024
 
@@ -42,4 +42,9 @@ Le graphique ci-dessous montre le nombre d'équivalents temps-plein
     <img src="/img/effectifs-2021-2024.png" class="fr-content-media--sm fr-responsive-img" alt="Effectifs mission logiciels libres" />
   </div>
 </figure>
+
+## Impact
+
+Nous publierons ici une évaluation de l'impact de la mission logiciels
+libres depuis sa création.
 
