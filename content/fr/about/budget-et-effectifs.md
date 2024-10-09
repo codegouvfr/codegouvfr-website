@@ -34,4 +34,12 @@ ultérieurement.
 
 ## Effectifs
 
-<img src="/img/effectifs-2021-2024.png" alt="Effectifs mission logiciels libres" class="fr-responsive-img">
+Le graphique ci-dessous montre le nombre d'équivalents temps-plein
+(ETP contractuels) et d'alternants depuis 2021.
+
+<figure class="fr-content-media fr-content-media--sm" role="group" aria-label="Effectifs mission logiciels libres">
+  <div class="fr-content-media__img">
+    <img src="/img/effectifs-2021-2024.png" class="fr-content-media--sm fr-responsive-img" alt="Effectifs mission logiciels libres" />
+  </div>
+</figure>
+
