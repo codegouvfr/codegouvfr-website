@@ -16,16 +16,16 @@ logiciels libres.
 
 ## 2024
 
-| Poste de dépense                           |        |
-|--------------------------------------------|--------|
-| Coût d’infrastructure                      | 5000   |
-| Adhésion Software Heritage sponsor group   | 25000  |
-| Développements sur l'application web SILL  | 40000  |
-| Animation de la communauté BlueHats        | 60000  |
-| Adhésion ADULLACT (en cours)               | 10000  |
-| Soutien à l'utilisation du SILL (en cours) | 30000  |
-|--------------------------------------------|--------|
-| Somme                                      | 170000 |
+| Poste de dépense                              | Montant en euro |
+|-----------------------------------------------|-----------------|
+| Coûts d’infrastructure (hébergement, etc.)    | 5000            |
+| Adhésion au "Software Heritage sponsor group" | 25000           |
+| Développements sur l'application web SILL     | 40000           |
+| Animation de la communauté BlueHats           | 60000           |
+| Adhésion à l'ADULLACT (en cours)              | 10000           |
+| Soutien à l'utilisation du SILL (en cours)    | 30000           |
+|-----------------------------------------------|-----------------|
+| Somme                                         | 170000          |
 
 Les sommes sont arrondies.
 
