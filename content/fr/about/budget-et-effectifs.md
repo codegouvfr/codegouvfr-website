@@ -19,15 +19,15 @@ de sa création en novembre 2021.
 
 ### 2024
 
-| Poste de dépense                              | Montant en euro |
-|-----------------------------------------------|-----------------|
-| Coûts d’infrastructure (hébergement, etc.)    | 5000            |
-| Adhésion au "Software Heritage sponsor group" | 25000           |
-| Développements sur l'application web SILL     | 40000           |
-| Animation de la communauté BlueHats           | 60000           |
-| Adhésion à l'ADULLACT (en cours)              | 10000           |
-| Soutien à l'utilisation du SILL (en cours)    | 30000           |
-| **Total**                                     | **170000**      |
+| Poste de dépense                              | Montant       |
+|-----------------------------------------------|---------------|
+| Coûts d’infrastructure (hébergement, etc.)    | 5 000 €       |
+| Adhésion au "Software Heritage sponsor group" | 25 000 €      |
+| Développements sur l'application web SILL     | 40 000 €      |
+| Animation de la communauté BlueHats           | 60 000 €      |
+| Adhésion à l'ADULLACT (en cours)              | 10 000 €      |
+| Soutien à l'utilisation du SILL (en cours)    | 30 000 €      |
+| **Total TTC**                                 | **170 000 €** |
 
 Les sommes sont arrondies. Les budgets de 2021 à 2023 seront publiés
 ultérieurement.
