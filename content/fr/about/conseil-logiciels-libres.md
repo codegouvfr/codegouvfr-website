@@ -70,15 +70,15 @@ soumettre l'avis pour approbation à la DINUM.
   Avis soutenu par la majorité des membres du conseil « écosystème »
   et **soutenu par la DINUM**.
 
-- 2 octobre 2024 : « Le Conseil Logiciels Libres souligne les succès
-  remarquables du programme Next Generation Internet (NGI) et de son
-  modèle de financement en cascade, qui ont permis de renforcer
-  l’écosystème numérique européen. Il appelle à la poursuite et à
-  l'intensification des efforts en faveur de cet écosystème ouvert,
-  souverain et innovant, en totale cohérence avec les valeurs et
-  priorités stratégiques de l’Union européenne. »
+<!-- - 2 octobre 2024 : « Le Conseil Logiciels Libres souligne les succès -->
+<!--   remarquables du programme Next Generation Internet (NGI) et de son -->
+<!--   modèle de financement en cascade, qui ont permis de renforcer -->
+<!--   l’écosystème numérique européen. Il appelle à la poursuite et à -->
+<!--   l'intensification des efforts en faveur de cet écosystème ouvert, -->
+<!--   souverain et innovant, en totale cohérence avec les valeurs et -->
+<!--   priorités stratégiques de l’Union européenne. » -->
   
-  Avis soutenu par la majorité des membres du conseil « écosystème ».
+<!--   Avis soutenu par la majorité des membres du conseil « écosystème ». -->
 
 ## Publications des avis
 
@@ -88,7 +88,7 @@ dans l'administration, lesquelles ne reflètent pas nécessairement la
 position de tous les membres du conseil.
 
 - *Apports du logiciel libre à la durabilité des équipements (smartphones, ordinateurs, objets connectés, périphériques) : une synthèse*, [PDF](/docs/2023_01_RapportIndiceDurabilite.pdf), 16 janvier 2023, CC BY-SA.
-- *Avis du Conseil Logiciels Libres sur l’avenir du programme Next Generation Internet (NGI)*, [PDF](/docs/cll-avis-ngi-02102024.pdf), 2 octobre 2024, CC BY-SA.
+<!-- - *Avis du Conseil Logiciels Libres sur l’avenir du programme Next Generation Internet (NGI)*, [PDF](/docs/cll-avis-ngi-02102024.pdf), 2 octobre 2024, CC BY-SA. -->
 
 <br/>
 
