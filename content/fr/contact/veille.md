@@ -24,7 +24,7 @@ Pour suivre les contributions de la mission logiciels libres au mouvement [BlueH
 Pour connaître les nouveaux logiciels libres recommandés pour et développés par le secteur public :
 
 - Vous abonner [au flux RSS des mises à jour du socle interministériel de logiciels libres](https://code.gouv.fr/data/latest-sill.xml)
-- Vous abonner [au flux RSS des nouveaux dépôts de code.gouv.fr](https://code.gouv.fr/data/latest.xml)
+- Vous abonner [au flux RSS des nouveaux dépôts de code.gouv.fr](https://code.gouv.fr/data/latest-repositories.xml)
 
 <br/>
 
@@ -37,15 +37,14 @@ Pour suivre les calendrier des réunions des groupes de travail internes :
 
 Pour suivre les dépôts de codes sources de la mission logiciels libres :
 
-- Suivre [les développements du projet logiciels-libres](https://sr.ht/~codegouvfr/logiciels-libres/feed)
-- Suivre [les développements du projet code.gouv.fr](https://sr.ht/~codegouvfr/code.gouv.fr/feed)
-- Suivre [les autres développements sur github.com](https://github.com/codegouvfr/)
+- Suivre [les dépôts code.gouv.fr sur SourceHut](https://sr.ht/~codegouvfr/code.gouv.fr/feed)
+- Suivre [les autres code.gouv.fr sur GitHub](https://github.com/codegouvfr/)
 
 <br/>
 
 Pour nous contacter directement :
 
-- Nous contacter via notre permanence hebdomadaire du lundi 16h-17h dans [le salon #BlueHats](https://web.libera.chat/#bluehats) sur le serveur IRC libera.chat
+- Nous contacter via [le salon #BlueHats](https://web.libera.chat/#bluehats) sur le serveur IRC libera.chat
 - Nous écrire à [contact@code.gouv.fr](mailto:contact@code.gouv.fr)
 
 <br/>
