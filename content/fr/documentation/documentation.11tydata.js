@@ -15,7 +15,7 @@ module.exports = {
             description: `En répondant à quelques questions, faites un point sur vos obligations.`
         }, {
             url: false,
-            externalUrl: "https://code.gouv.fr/guides/awesome/",
+            externalUrl: "https://code.gouv.fr/guides/codegouvfr-score/",
             title: "Guide Awesome CodeGouvFr : votre projet est-il remarquable ?",
             description: `Êtes-vous prêts à intégrer https://code.gouv.fr/fr/awesome/ ?`
         }, {
