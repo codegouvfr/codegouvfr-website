@@ -24,6 +24,8 @@ Le site est déployé automatiquement en préproduction sur [preprod.codegouv.fr
 
 # Contributions
 
+Vous pouvez contribuer via des *issues* et *pull requests* sur ce dépôt GitHub.
+
 Pour discuter d'évolutions éditoriales ou pour des retours devant rester confidentiels, écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
 
 Pour la rédaction des messages de commit :
