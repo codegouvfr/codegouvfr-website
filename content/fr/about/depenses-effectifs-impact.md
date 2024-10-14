@@ -15,9 +15,9 @@ showBreadcrumb: true
 de la mission logiciels libres et communs numériques depuis l'annonce
 de sa création en novembre 2021.
 
-## Dépenses
+## Nos dépenses
 
-### 2024
+### En 2024
 
 | Poste de dépense                              | Montant       |
 |-----------------------------------------------|---------------|
@@ -32,7 +32,7 @@ de sa création en novembre 2021.
 Les sommes sont arrondies. Les budgets de 2021 à 2023 seront publiés
 ultérieurement.
 
-## Effectifs
+## Nos effectifs depuis 2021
 
 Le graphique ci-dessous montre le nombre d'équivalents temps-plein
 (ETP contractuels) et d'alternants depuis 2021.
@@ -43,17 +43,18 @@ Le graphique ci-dessous montre le nombre d'équivalents temps-plein
   </div>
 </figure>
 
-## Impact
+## Notre impact
 
-### Nous développons et publions des codes sources
+#### Nous développons et publions des codes sources
 
 Nos trois produits principaux sont fortement réutilisés :
 
-- [react-dsfr](https://github.com/codegouvfr/react-dsfr)
-- [eleventy-dsfr](https://github.com/codegouvfr/eleventy-dsfr)
-- [sill](https://github.com/codegouvfr/sill)
+- [react-dsfr](https://github.com/codegouvfr/react-dsfr) et [eleventy-dsfr](https://github.com/codegouvfr/eleventy-dsfr) sont utilisés par de nombreux services déployés par les incubateurs du réseau beta.gouv.fr.
+- [sill](https://github.com/codegouvfr/sill), l'application du [socle interministériel de logiciels libres](https://code.gouv.fr/sill/) est en cours de réutilisation par le ministère de l'enseignement supérieur et de la recherche et le réseau des agences régionales de santé.
 
-### Nous accompagnons les administrations autour de leur questions sur l'Open Source
+<br/>
+
+#### Nous accompagnons les administrations autour de leur questions sur l'Open Source
 
 - 3 ministères accompagnés pour leur politique de publication sous licence libre
 - 3 opérateurs accompagnés pour la création de leur Open Source Programme Office
@@ -61,14 +62,18 @@ Nos trois produits principaux sont fortement réutilisés :
 - +20 dépôt accompagnés pour choisir leur licence libre
 - +10 administrations accompagnées pour des questions sur les licences utilisées
 
-### Nous promouvons les logiciels libres via le socle interministériel
+<br/>
+
+#### Nous promouvons les logiciels libres via le socle interministériel
 
 - 494 logiciels libres référencés
 - 1810 utilisateurs inscrits
 - 274 agents publics inscrits comme référents 
 - 183 organismes publics représentés
 
-### Nous contribuons à l'animation du mouvement BlueHats 🧢
+<br/>
+
+#### Nous contribuons à l'animation du mouvement BlueHats 🧢
 
 - 30 gazette BlueHats
 - 54 ateliers BlueHats
