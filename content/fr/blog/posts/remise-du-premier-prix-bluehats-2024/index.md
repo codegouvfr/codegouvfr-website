@@ -3,7 +3,7 @@ title: "Dnsmasq remporte le premier prix BlueHats"
 description: "Le mainteneur du logiciel libre dnsmasq est recompensé pour son implication de longue haleine"
 date: 2024-04-18
 image:
-  path: ./bluehats-logo.png
+  path: ../../../../../public/img/blog/bluehats-logo.png
   alt: "Dnsmasq remporte le premier prix BlueHats"
   hide: True
 tags:
