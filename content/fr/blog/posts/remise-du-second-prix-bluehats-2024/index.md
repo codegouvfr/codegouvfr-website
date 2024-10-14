@@ -3,7 +3,7 @@ title: "node-oidc-provider remporte le deuxième prix BlueHats"
 description: "Le mainteneur du logiciel libre node-oidc-provider est recompensé pour son implication de longue haleine"
 date: 2024-06-10
 image:
-  path: ./bluehats-logo.png
+  path: ../../../../../public/img/blog/bluehats-logo.png
   alt: "node-oicd-provider remporte le deuxième prix BlueHats"
   hide: True
 tags:

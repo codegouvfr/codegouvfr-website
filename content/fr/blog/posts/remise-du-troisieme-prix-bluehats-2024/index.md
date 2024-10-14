@@ -1,9 +1,9 @@
 ---
 title: "Apache Maven remporte le troisième prix BlueHats"
-description: "L’équipe de maintenance d'Apache Maven est recompensée pour son implication de longue haleine"
+description: "L’équipe des mainteneurs d'Apache Maven est recompensée pour son implication de longue haleine"
 date: 2024-06-19
 image:
-  path: ./bluehats-logo.png
+  path: ../../../../../public/img/blog/bluehats-logo.png
   alt: "L’équipe d'Apache Maven remporte le troisième prix BlueHats"
   hide: True
 tags:
