@@ -20,7 +20,9 @@ Le jury, composé d'agents publics de l'ANSSI et de la DINUM, a reconnu l'import
 
 En apprenant qu'il avait gagné, Filip Skokan a déclaré :
 
-> Je suis incroyablement honoré et touché de recevoir le prix BlueHats. Cette reconnaissance signifie beaucoup pour moi personnellement, car elle valide les années de dur labeur et de dévouement que j'ai consacrées au projet node-oidc-provider. Lorsque j'ai commencé ce projet, mon objectif était simplement d'apprendre. Voir que node-oidc-provider a été adopté par des initiatives comme FranceConnect est vraiment gratifiant et ce sont des adoptions comme celles-ci qui renforcent mon engagement à continuer de m’impliquer dans l'open source ainsi que dans les organisations de développement de standards.
+:::quote
+Je suis incroyablement honoré et touché de recevoir le prix BlueHats. Cette reconnaissance signifie beaucoup pour moi personnellement, car elle valide les années de dur labeur et de dévouement que j'ai consacrées au projet node-oidc-provider. Lorsque j'ai commencé ce projet, mon objectif était simplement d'apprendre. Voir que node-oidc-provider a été adopté par des initiatives comme FranceConnect est vraiment gratifiant et ce sont des adoptions comme celles-ci qui renforcent mon engagement à continuer de m’impliquer dans l'open source ainsi que dans les organisations de développement de standards.
+:::
 
 # A propos de `node-oidc-provider`
 
@@ -34,7 +36,9 @@ Après plusieurs années, le dévouement et la précision avec lesquels Filip a 
 
 Tout le monde peut nominer des projets libres et open source pour l'un des prix BlueHats (et les [nominations](https://nlnet.nl/bluehatsprize/2024/) sont encore ouvertes). `node-oidc-provider` a été nominé par Raphaël Dubigny de DINUM. Il a motivé son choix en écrivant :
 
-> La stratégie de la suite logicielle de l'opérateur DINUM s'appuie sur AgentConnect. AgentConnect repose sur les mêmes bases technologiques que FranceConnect. FranceConnect s'appuie sur la bibliothèque node-oidc-provider pour assurer la compatibilité avec le standard OpenId Connect.
+:::quote
+La stratégie de la suite logicielle de l'opérateur DINUM s'appuie sur AgentConnect. AgentConnect repose sur les mêmes bases technologiques que FranceConnect. FranceConnect s'appuie sur la bibliothèque node-oidc-provider pour assurer la compatibilité avec le standard OpenId Connect.
+:::
 
 Le fait que `node-oidc-provider` soit [OpenID Certified&trade;](https://openid.net/certification/) est remarquable. De nombreux projets logiciels ont une trajectoire où tout se passe de manière optimale. Filip aime s'assurer que tous les cas de test négatifs sont également traités correctement, et la suite de tests du programme de certification OpenID y contribue. L'existence d'une suite de tests exhaustive et d'un programme de certification peut donner aux utilisateurs l'assurance que leur logiciel fonctionne comme prévu, et qu'il ne présentera pas de défaillances majeures.
 
@@ -42,7 +46,9 @@ Sans cette certification, la France n'aurait pas choisi une solution de logiciel
 
 Note de Filip :
 
-> Par le passé, j'ai [écrit](https://x.com/_panva/status/1390957409695371264) que « la conformité d'un logiciel aux normes et sa certification n'est pas le pinacle à viser. C'est la barre la plus basse. » La certification n'est généralement pas un processus gratuit ; c'est, à tout le moins, un processus qui prend du temps. Je suis heureux de dire qu'aujourd'hui, après avoir fait pression sur les dirigeants de la Fondation OpenID, la certification OpenID est [gratuite](https://www.openid.net/certification/open-source-project-certification-policy/) pour les projets open source qui remplissent les conditions requises. Si vous maintenez un projet open source OpenID Connect, qu'il soit client ou fournisseur, faites-le certifier.
+:::quote
+Par le passé, j'ai [écrit](https://x.com/_panva/status/1390957409695371264) que « la conformité d'un logiciel aux normes et sa certification n'est pas le pinacle à viser. C'est la barre la plus basse. » La certification n'est généralement pas un processus gratuit ; c'est, à tout le moins, un processus qui prend du temps. Je suis heureux de dire qu'aujourd'hui, après avoir fait pression sur les dirigeants de la Fondation OpenID, la certification OpenID est [gratuite](https://www.openid.net/certification/open-source-project-certification-policy/) pour les projets open source qui remplissent les conditions requises. Si vous maintenez un projet open source OpenID Connect, qu'il soit client ou fournisseur, faites-le certifier.
+:::
 
 # Prix BlueHats pour les mainteneurs de logiciels critiques
 
@@ -53,3 +59,9 @@ Le prix BlueHats vise à mettre en lumière les mainteneurs de logiciels libres 
 # Les nominations sont toujours ouvertes
 
 Deux autres prix BlueHats seront décernés dans les mois à venir. Vous pouvez encore [proposer votre projet préféré](https://nlnet.nl/bluehatsprize/2024/) pour l'un des prix de 10 000 €. Les prix BlueHats sont une initiative de la Direction interministérielle du numérique. La [mission logiciel libre](https://code.gouv.fr/) s'est associée à [NLnet](https://nlnet.nl) pour mettre en lumière quatre projets remarquables et leur décerner les prix BlueHats 2024.
+
+## Les autres prix BlueHats
+
+- [Dnsmasq remporte le premier prix BlueHats](/fr/blog/remise-du-premier-prix-bluehats-2024/)
+- [Apache Maven remporte le troisième prix BlueHats](/fr/blog/remise-du-troisieme-prix-bluehats-2024)
+- [L'équipe de Monitoring Plugins remporte le dernier prix BlueHats](fr/blog/quatrieme-et-dernier-prix-bluehats-2024/)

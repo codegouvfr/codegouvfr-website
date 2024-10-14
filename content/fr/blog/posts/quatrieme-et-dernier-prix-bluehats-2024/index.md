@@ -91,7 +91,7 @@ ce qu'il écrit dans la nomination :
 
 Un représentant de la DINUM déclare :
 
-:::quote /img/bastien_guerry.png
+:::quote
 Nous savons que de nombreuses administrations publiques
 dépendent indirectement des plugins de surveillance. des plugins de
 surveillance : ce projet est typique d'une initiative de niche du qui
@@ -123,3 +123,11 @@ Voici la présentation que nous avons donnée lors de la [Linux Conference à Vi
   comme [NLnet](https://nlnet.nl/) fut un élément très porteur ! Nous
   avons apprécié leur aide sur la communication, la collecte des
   candidatures et les interactions avec les mainteneurs.
+
+<br/>
+
+## Les autres prix BlueHats
+
+- [Dnsmasq remporte le premier prix BlueHats](/fr/blog/remise-du-premier-prix-bluehats-2024/)
+- [node-oidc-provider remporte le deuxième prix BlueHats](/fr/blog/remise-du-second-prix-bluehats-2024)
+- [Apache Maven remporte le troisième prix BlueHats](/fr/blog/remise-du-troisieme-prix-bluehats-2024)
