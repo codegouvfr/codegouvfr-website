@@ -2,6 +2,7 @@
 title: "Appel à interventions pour l'après-midi #BlueHats du 4 décembre 2024 au salon Open Source Experience"
 description: "Appel à interventions pour l'après-midi #BlueHats du 4 décembre 2024 au salon Open Source Experience"
 date: 2024-10-15
+draft: True
 image:
   path: ./appel-a-interventions-bluehats-2024-main.png
   alt: Illustration pour l'événement contenant un titre, une description, la date, le lieu, et l'adresse de la page #BlueHats du site.
