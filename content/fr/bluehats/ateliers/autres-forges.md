@@ -6,8 +6,7 @@ video:
   src: https://tube.numerique.gouv.fr/videos/embed/f42fb725-ba39-43e7-bde4-afd627b1b302
   title: "Atelier BlueHats de présentation de forges moins connues : Forgejo, Fordj et SourceHut"
 ---
-- Date : 13 septembre 2024
-- Heure : De 11h à 12h30
+
 - Intervenants : Milovann Yanatchkov (Ecole Nationale Supérieure d'Architecture de Nancy) et Bastien Guerry (DINUM/MLL)
 
 <br/>
