@@ -7,11 +7,6 @@ video:
   title: "Atelier BlueHats de présentation de Goupile"
 ---
 
-- Date : 14 juin 2024
-- Heure : De 11h à 12h30
-
-<br/>
-
 L’objet de cet atelier est de présenter l’outil de recueil de données
 [Goupile](https://goupile.org/).
 
