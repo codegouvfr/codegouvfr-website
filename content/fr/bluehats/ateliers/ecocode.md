@@ -5,7 +5,7 @@ video:
   src: https://tube.numerique.gouv.fr/videos/embed/c0c43e42-14d6-47da-83d3-ed67922d8409
   title: "Atelier BlueHats : La route vers le « green code » (avec Sonar)"
 slides:
-  src: https://speakerdeck.com/bluehats/the-road-to-green-code-with-sonar
+  src: https://speakerdeck.com/player/1632eaaa3bfc4efa9f09f465472b2bac
   title: "The road to green code (with Sonar) - Olivier Le Goaër"
 ---
 
