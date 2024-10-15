@@ -47,9 +47,9 @@ Le graphique ci-dessous montre le nombre d'équivalents temps-plein
 
 #### Nous développons et publions des codes sources
 
-Nos trois produits principaux sont fortement réutilisés :
+Nos produits principaux sont fortement réutilisés :
 
-- [react-dsfr](https://github.com/codegouvfr/react-dsfr) et [eleventy-dsfr](https://github.com/codegouvfr/eleventy-dsfr) sont utilisés par de nombreux services déployés par les incubateurs du réseau beta.gouv.fr.
+- [react-dsfr](https://github.com/codegouvfr/react-dsfr), [eleventy-dsfr](https://github.com/codegouvfr/eleventy-dsfr) et [docsify-dsfr-template](https://github.com/codegouvfr/docsify-dsfr-template/) sont utilisés par de nombreux services déployés par les incubateurs du réseau beta.gouv.fr.
 - [sill](https://github.com/codegouvfr/sill), l'application du [socle interministériel de logiciels libres](https://code.gouv.fr/sill/) est en cours de réutilisation par le ministère de l'enseignement supérieur et de la recherche et le réseau des agences régionales de santé.
 
 <br/>
