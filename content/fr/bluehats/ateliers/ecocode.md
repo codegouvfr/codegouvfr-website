@@ -1,14 +1,12 @@
 ---
 title: "La route vers le « green code » (avec Sonar)"
 date: 2024-10-15
-description: Intervention d'Olivier Le Goaër, enseignant-chercheur en Informatique à l’Université de Pau et des Pays de l’Adour (UPPA)
 video:
   src: https://tube.numerique.gouv.fr/videos/embed/c0c43e42-14d6-47da-83d3-ed67922d8409
   title: "Atelier BlueHats : La route vers le « green code » (avec Sonar)"
 ---
 
-- Intervenant : Olivier Le Goaër, Responsable de l'équipe Génie Logiciel (UPPA)  [Website](https://olegoaer.perso.univ-pau.fr/)
-- Visio : [Salon BlueHats](https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf)
+Intervention d'Olivier Le Goaër ([site web](https://olegoaer.perso.univ-pau.fr)), responsable de l'équipe Génie Logiciel (UPPA).
 
 <br/>
 
