@@ -19,7 +19,8 @@ Pour en savoir plus sur la communauté BlueHats 🧢 voir [notre page dédiée](
 
 {% imageContent "./bluehats-osx-2023.png", "Venir aux conférences BlueHats lors du salon Open Source Experience avec le code invitation E-DINOSVIP23", [1000] %}
 
-Pour parcourir les programmes des éditions précédentes, voir la page dédiée à nos [rencontres](/rencontres/).
+Pour parcourir les programmes des éditions précédentes, voir la page
+dédiée à nos [rencontres](https://code.gouv.fr/fr/bluehats/tags/rencontre/).
 
 ## Appel à interventions avant le 23 novembre
 
@@ -39,4 +40,5 @@ Pour toute question, n'hésitez pas à [nous écrire](mailto:bluehats@code.gouv.
 
 ## Les éditions passées
 
-Pour parcourir les programmes des éditions précédentes, voir la page dédiée à nos [rencontres](/rencontres/).
+Pour parcourir les programmes des éditions précédentes, voir la page
+dédiée à nos [rencontres](https://code.gouv.fr/fr/bluehats/tags/rencontre/).
