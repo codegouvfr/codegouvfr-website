@@ -15,10 +15,10 @@ Pour la sixième année, la DINUM saisit l'occasion de sa présence au
 salon [Open Source Experience](https://www.opensource-experience.com/)
 pour organiser une conférence #BlueHats, moment privilégié de partage
 d'expériences entre agents publics impliqués autour des logiciels
-libres qu'ils utilisent et/ou développent pour l'administration.
+libres qu'ils utilisent et développent pour l'administration.
 
-L'après-midi de conférence aura lieu le *4 décembre 2024* au palais
-des Congrès de 13h à 18h.
+L'après-midi de conférences aura lieu le *4 décembre 2024* dans la
+salle 124/125M en mezzanine des Congrès de 13h à 18h
 
 Pour en savoir plus sur la communauté #BlueHats voir [notre page dédiée](/fr/bluehats/).
 
