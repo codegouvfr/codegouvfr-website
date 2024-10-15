@@ -37,7 +37,7 @@ d'expériences sur nos travaux, en s'axant autour de 3 sujets :
    Nous avons intégré à la CI du MEN un pipeline de publication : 
 
    * Intégré à la CI de la forge éducation nationale (GitLab, Gitea)
-   * Automatisant la publication sur la forge https//gitlab.mim-[gitlab.mim-Libre.fr][]Libre.fr
+   * Automatisant la publication sur la forge [gitlab.mim-Libre.fr](gitlab.mim-Libre.fr)
    * Avec tous les gardes-fous possibles (détection de secrets, vulénrabilités, qualité de code, etc.), y compris un processus de revue manuelle.
 
 3. Stratégies de remédiation

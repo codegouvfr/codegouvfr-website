@@ -12,7 +12,8 @@ tags: bluehats
 
 Pour la quatrième année, la DINUM accueillera les agents publics impliqués dans le logiciel libre lors du [salon Open Source Experience](https://www.opensource-experience.com/) : vous êtes toutes et tous les bienvenus le **8 novembre en salle 252 B de 9h à 18h au palais des Congrès** !
 
-Pour parcourir les programmes des éditions précédentes, voir la page dédiée à nos [rencontres](/rencontres/).
+Pour parcourir les programmes des éditions précédentes, voir la page
+dédiée à nos [rencontres](https://code.gouv.fr/fr/bluehats/tags/rencontre/).
 
 ## Appel à interventions avant le 17 octobre
 
