@@ -6,6 +6,7 @@ description: "La collaboration MENJS / Code Lutin"
 - Date : 18 octobre 2024
 - Heure : De 11h à 12h30
 - Intervenants : Erwan Garel (MENJS), Alex Morel (Code Lutin) et Jean Couteau (Code Lutin)
+- Visio : [Salon BlueHats](https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf)
 
 <br/>
 
