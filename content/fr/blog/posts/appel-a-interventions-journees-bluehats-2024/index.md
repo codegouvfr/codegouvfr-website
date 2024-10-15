@@ -2,7 +2,6 @@
 title: "Appel à interventions pour l'après-midi #BlueHats du 4 décembre 2024 au salon Open Source Experience"
 description: "Appel à interventions pour l'après-midi #BlueHats du 4 décembre 2024 au salon Open Source Experience"
 date: 2024-10-15
-draft: True
 image:
   path: ./appel-a-interventions-bluehats-2024-main.png
   alt: Illustration pour l'événement contenant un titre, une description, la date, le lieu, et l'adresse de la page #BlueHats du site.
@@ -16,10 +15,10 @@ Pour la sixième année, la DINUM saisit l'occasion de sa présence au
 salon [Open Source Experience](https://www.opensource-experience.com/)
 pour organiser une conférence #BlueHats, moment privilégié de partage
 d'expériences entre agents publics impliqués autour des logiciels
-libres qu'ils utilisent et/ou développent pour l'administration.
+libres qu'ils utilisent et développent pour l'administration.
 
-L'après-midi de conférence aura lieu le *4 décembre 2024* au palais
-des Congrès de 13h à 18h.
+L'après-midi de conférences aura lieu le *4 décembre 2024* dans la
+salle 124/125M en mezzanine des Congrès de 13h à 18h
 
 Pour en savoir plus sur la communauté #BlueHats voir [notre page dédiée](/fr/bluehats/).
 

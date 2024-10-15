@@ -8,7 +8,8 @@ eleventyNavigation:
   order: 1
 ---
 
-:::callout Vous souhaitez suivre les activités de la mission logiciels libres ?
+:::callout
+Vous souhaitez suivre les activités de la mission logiciels libres ?
 Voici des informations pour [organiser votre veille](/fr/contact/veille/).
 :::
 
@@ -31,8 +32,8 @@ Le plan d'action est piloté par la mission logiciels libres de la [direction in
 - [code.gouv.fr/sources](https://code.gouv.fr/sources) vous aide à trouver des codes sources publiés par les administrations.
 - [code.gouv.fr/sill](https://code.gouv.fr/sill) vous aide à trouver des logiciels libres recommandés aux administrations.
 - La [gazette BlueHats](/fr/bluehats/tags/gazette/) vous informe sur les logiciels libres dans l'administration.
-- Les [ateliers BlueHats](/fr/bluehats/tags/atelier/) vous permet de revoir les organisés autour de logiciels libres utilisés par des organismes publics.
-- Les [guides](/fr/doc/) de la mission vous aident à vous approprier tous les sujets autour du libre.
+- Les [ateliers BlueHats](/fr/bluehats/tags/atelier/) liste les wébinaires #BlueHats passés et à venir.
+- Les [guides](/fr/doc/) de la mission vous aident à vous approprier tous les sujets liés aux logiciels libres.
 - Vous pouvez aussi consulter nos [interventions](/fr/doc/ressources/#interventions-de-la-mission-logiciels-libres-en-francais) passées.
 
 <br/>
@@ -43,20 +44,9 @@ Tous les codes sources développés par la direction interministérielle du num�
 
 <br/>
 
-## Les conventions de la DINUM portés par la mission logiciels libres
-
-- Convention 2022 avec l'ADULLACT ([PDF](/docs/Convention_Adullact-Dinum-2022.pdf))
-- Convention 2022 avec l'école CentraleSupélec pour le BlueHats Semester of Code ([PDF](/docs/Convention_CentraleSupelec-Dinum-2021.pdf))
-- Convention 2022 avec l'association OW2 ([PDF](/docs/Convention_OW2_Dinum_2022.pdf))
-- Convention 2023 avec la fondation [NLnet](https://nlnet.nl) ([PDF](/docs/DINUM-NLNET-convention-subvention-23112022.pdf))
-- Convention 2023 avec l'ADULLACT ([PDF](/docs/Convention_DINUM_Adullact_2023.pdf))
-- Convention 2024 avec l'association Descodeuses ([PDF](/docs/Convention_Descodeuses_Dinum_2024.pdf))
-
-<br/>
-
 ## L'offre de services de la mission logiciels libres
 
-La mission logiciels libres de la DINUM aide les administrations publiques sur tous les sujets concernant l'ouverture de leurs codes sources, l'utilisation de logiciels libres et le recrutement de compétences liées au logiciel libre (utilisation et ouverture).
+La mission logiciels libres de la DINUM aide les administrations publiques sur tous les sujets concernant la publication de leurs codes sources, l'utilisation de logiciels libres et le recrutement de compétences liées au logiciel libre (utilisation et publication).
 
 [Voir la page dédiée](/fr/mission/offre-de-services/){.fr-link .fr-fi-arrow-right-line .fr-link--icon-right}
 
@@ -105,7 +95,7 @@ Les BlueHats sont toutes les personnes qui souhaitent montrer qu'elles contribue
 
 ## Les logiciels libres auxquels la mission contribue
 
-Les membres de la mission logiciels libres ont le droit de prendre sur leur temps de travail à hauteur de 20% maximum pour contribuer à des logiciels libres.  Parmi eux:
+Les membres de la mission logiciels libres contribuent à des logiciels libres :
 
 - [git.sr.ht/~bzg/subscribe](https://git.sr.ht/~bzg/subscribe/)
 - [git.sr.ht/~bzg/choices](https://git.sr.ht/~bzg/choices)
@@ -136,7 +126,7 @@ Contributions passées :
 
 Voir la [page dédiée](/fr/doc/ressources/).
 
-## Le programme "BlueHats Semester of Code" (2022-2023)
+## Le programme `BlueHats Semester of Code` (2022-2023)
 
 `BlueHats Semester of Code` est un programme de stages de 6 mois permettant de contribuer à des logiciels libres utilisés dans les administrations.  Il est destiné aux étudiants de CentraleSupélec de 2ème année en césure.
 
