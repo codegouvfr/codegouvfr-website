@@ -38,7 +38,9 @@ par des équipes fiables au fil des années.
 Karl Heinz Marbaise, président du comité de gestion du projet Apache
 Maven, a déclaré en apprenant qu'il avait gagné :
 
-> « C'est un honneur d'accepter le prix en tant que représentant actuel de l'équipe Apache Maven. C'est un grand pas en avant pour sensibiliser le public à l'open source. »
+:::quote
+C'est un honneur d'accepter le prix en tant que représentant actuel de l'équipe Apache Maven. C'est un grand pas en avant pour sensibiliser le public à l'open source.
+:::
 
 # À propos d'Apache Maven
 
@@ -69,13 +71,16 @@ ouvertes). Maven a été proposé par Tamás Cservenák, ancien développeur
 principal de Nexus, un gestionnaire de référentiel pour Maven. Il a
 motivé son choix en écrivant :
 
-> « Il s'agit de l'outil de construction Java essentiel (et le plus populaire), bien qu'il manque cruellement de personnel, l'estimation la plus optimiste indique qu'il y a 10 personnes qui maintiennent activement l'ensemble de l'écosystème Maven (car il ne s'agit pas d'un seul projet, mais de nombreux sous-projets et de tous les modules d'extension, etc.) »
+:::quote
+Il s'agit de l'outil de construction Java essentiel (et le plus populaire), bien qu'il manque cruellement de personnel, l'estimation la plus optimiste indique qu'il y a 10 personnes qui maintiennent activement l'ensemble de l'écosystème Maven (car il ne s'agit pas d'un seul projet, mais de nombreux sous-projets et de tous les modules d'extension, etc.)
+:::
 
-Frédéric Séraphine, du Pôle Usine Logicielle de l'agence de services
-et de paiement , explique :
+Frédéric Séraphine, du Pôle Usine Logicielle de l'agence de services et de paiement , explique :
 
-> « Apache Maven est un composant Open Source crucial au cœur de nos applications java. Il nous permet de construire nos applications dans notre usine logicielle, en assurant une gestion facilitée des dépendances logicielles internes et externes à l'établissement. Il outille près de 300 projets pour plus de 2 millions de lignes de code. »
- 
+:::quote
+Apache Maven est un composant Open Source crucial au cœur de nos applications java. Il nous permet de construire nos applications dans notre usine logicielle, en assurant une gestion facilitée des dépendances logicielles internes et externes à l'établissement. Il outille près de 300 projets pour plus de 2 millions de lignes de code.
+:::
+
 # Prix BlueHats pour les mainteneurs de logiciels critiques
 
 Le prix BlueHats vise à mettre en lumière les mainteneurs de logiciels
@@ -100,3 +105,9 @@ interministérielle du numérique. La [Mission logiciel
 libre](https://code.gouv.fr/) s'est associée à
 [NLnet](https://nlnet.nl) pour mettre en lumière quatre projets
 remarquables et leur décerner les prix BlueHats 2024.
+
+## Les autres prix BlueHats
+
+- [Dnsmasq remporte le premier prix BlueHats](/fr/blog/remise-du-premier-prix-bluehats-2024/)
+- [node-oidc-provider remporte le deuxième prix BlueHats](/fr/blog/remise-du-second-prix-bluehats-2024)
+- [L'équipe de Monitoring Plugins remporte le dernier prix BlueHats](fr/blog/quatrieme-et-dernier-prix-bluehats-2024/)

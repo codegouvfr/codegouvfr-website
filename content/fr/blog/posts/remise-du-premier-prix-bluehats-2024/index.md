@@ -22,7 +22,9 @@ Le jury, composé d'agents publics des ministères de l'éducation nationale et 
 
 En apprenant qu'il avait gagné, Simon Kelley a déclaré :
 
-> *Je suis ravi d'accepter le prix. Comme beaucoup de logiciels libres, dnsmasq a commencé comme une création immédiatement utile, mais est restée en vie et s'est développée pendant un quart de siècle grâce aux retours d'autres utilisateurs et à la reconnaissance, petite et grande, de son utilité. Ce prix est précieux sur le plan financier, mais il l'est encore plus en tant que marque de reconnaissance publique du fait que dnsmasq est toujours quelque chose qui vaut la peine d'être fait.*
+:::quote
+Je suis ravi d'accepter le prix. Comme beaucoup de logiciels libres, dnsmasq a commencé comme une création immédiatement utile, mais est restée en vie et s'est développée pendant un quart de siècle grâce aux retours d'autres utilisateurs et à la reconnaissance, petite et grande, de son utilité. Ce prix est précieux sur le plan financier, mais il l'est encore plus en tant que marque de reconnaissance publique du fait que dnsmasq est toujours quelque chose qui vaut la peine d'être fait.
+:::
 
 ## Au sujet de `dnsmasq`
 
@@ -36,8 +38,10 @@ Il y a de fortes chances que vous utilisiez `dnsmasq` puisqu'il est utilisé dan
 
 Tout le monde peut proposer des projets libres et open source pour l'un des prix BlueHats (et [les nominations sont encore ouvertes](https://nlnet.nl/bluehatsprize/2024/)). Samuel Bizien Filippi, qui a proposé `dnsmasq`, a motivé son choix ainsi :
 
-> *Au PEReN, nous nous efforçons de conserver toute la configuration du réseau et du système sous forme de code dans un système de gestion de versions. Comme dnsmasq est configuré à l'aide de fichiers texte, il nous convient parfaitement. Dans notre configuration, dnsmasq est utilisé pour (1) la configuration réseau des clients via DHCP, (2) l'installation automatisée de systèmes avec DHCP et TFTP (deux fonctionnalités fournies par dnsmasq) et (3) la résolution de noms locaux.*
-	
+:::quote
+Au PEReN, nous nous efforçons de conserver toute la configuration du réseau et du système sous forme de code dans un système de gestion de versions. Comme dnsmasq est configuré à l'aide de fichiers texte, il nous convient parfaitement. Dans notre configuration, dnsmasq est utilisé pour (1) la configuration réseau des clients via DHCP, (2) l'installation automatisée de systèmes avec DHCP et TFTP (deux fonctionnalités fournies par dnsmasq) et (3) la résolution de noms locaux.
+:::
+
 ## Prix BlueHats pour les mainteneurs de logiciels critiques
 
 Les prix BlueHats entendent mettre en lumière les mainteneurs de logiciels libres critiques. Il s'agit d'un problème bien connu dans le monde des logiciels libres : les avantages des logiciels libres sont énormes, mais l'attention et les ressources consacrées à la maintenance et aux mainteneurs sont insuffisantes.
@@ -47,3 +51,9 @@ Dnsmasq est un exemple typique de cette situation. Dnsmasq est un composant util
 ## Les nominations sont encore ouvertes
 
 Trois autres prix BlueHats seront décernés dans les mois à venir. Vous pouvez encore proposer votre projet préféré pour l'un des prix de 10 000 euros. Les prix BlueHats sont une initiative de l'administration publique française. La Cellule française du logiciel libre (un OSPO) s'est associée à NLnet pour mettre en lumière quatre projets remarquables et leur décerner les prix BlueHats 2024.
+
+## Les autres prix BlueHats
+
+- [node-oidc-provider remporte le deuxième prix BlueHats](/fr/blog/remise-du-second-prix-bluehats-2024)
+- [Apache Maven remporte le troisième prix BlueHats](/fr/blog/remise-du-troisieme-prix-bluehats-2024)
+- [L'équipe de Monitoring Plugins remporte le dernier prix BlueHats](fr/blog/quatrieme-et-dernier-prix-bluehats-2024/)
