@@ -6,7 +6,6 @@ image:
   path: ../../../../../public/img/blog/bluehats-logo.png
   alt: "Les mainteneurs de Monitoring Plugins remportent le dernier prix BlueHats"
   hide: True
-draft: True
 tags:
   - bluehats
   - Prix
