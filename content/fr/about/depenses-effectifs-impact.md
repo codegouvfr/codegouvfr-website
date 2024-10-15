@@ -2,12 +2,12 @@
 title: Dépense, effectifs et impact de la mission logiciels libres et communs numériques
 layout: layouts/page.njk
 eleventyNavigation:
-  key: Nos dépenses, nos effectifs et notre impact
+  key: Dépenses, effectifs et impact
   parent: À propos
   order: 4
 segments:
   - url: /depenses-effectifs-impact/
-    title: Dépense, effectifs et impact
+    title: Dépenses, effectifs et impact
 showBreadcrumb: true
 ---
 
