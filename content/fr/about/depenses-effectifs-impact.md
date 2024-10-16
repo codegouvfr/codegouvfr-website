@@ -11,49 +11,21 @@ segments:
 showBreadcrumb: true
 ---
 
-À des fins de transparence, nous publions le budget et les effectifs
-de la mission logiciels libres et communs numériques depuis l'annonce
-de sa création en novembre 2021.
+À des fins de transparence, nous publions les dépenses (à [télécharger en csv](/docs/mission-logiciels-libres-depenses-2021-2024.csv) pour le détail) et les effectifs de la mission logiciels libres de 2021 à 2024.
 
 ## Nos dépenses
 
-| Année | Poste de dépense                              | Montant       |
-|-------|-----------------------------------------------|---------------|
-| 2021  | Développements code.etalab.gouv.fr            | 30 000        |
-|       | Animation de la communauté BlueHats           | 10 000        |
-|       | Adhésion au "Software Heritage sponsor group" | 25 000 €      |
-|       | Adhésion à l'ADULLACT                         | 20 000 €      |
-|       | **Total TTC 2021**                            | **85 000 €**  |
-| 2022  | Animation de la communauté BlueHats           | 20 000 €      |
-|       | Adhésion au "Software Heritage sponsor group" | 25 000 €      |
-|       | Adhésion à l'ADULLACT                         | 20 000 €      |
-|       | Adhésion à OW2 OW                             | 5 000 €       |
-|       | BlueHats Semester of Code                     | 66 000 €      |
-|       | **Total TTC 2022**                            | **136 000 €** |
-| 2023  | Développements algorithmes publics            | 45 000 €      |
-|       | Adhésion au "Software Heritage sponsor group" | 25 000 €      |
-|       | Adhésion à l'ADULLACT                         | 20 000 €      |
-|       | Coûts d’infrastructure (hébergement, etc.)    | 2 500 €       |
-|       | Animation de la communauté BlueHats           | 10 000 €      |
-|       | Développements code.gouv.fr/sill              | 40 000 €      |
-|       | Développements code.gouv.fr/sources           | 30 800 €      |
-|       | **Total TTC 2023**                            | **172 500 €** |
-| 2024  | Coûts d’infrastructure (hébergement, etc.)    | 5 000 €       |
-|       | Adhésion au "Software Heritage sponsor group" | 25 000 €      |
-|       | Développements sur l'application web SILL     | 40 000 €      |
-|       | Animation de la communauté BlueHats           | 60 000 €      |
-|       | Adhésion à l'ADULLACT                         | 10 000 €      |
-|       | Soutien à l'utilisation du SILL (en cours)    | 30 000 €      |
-|       | **Total TTC 2024**                            | **170 000 €** |
+<figure class="fr-content-media fr-content-media--sm" role="group" aria-label="Dépenses de la mission logiciels libres de 2021 à 2024">
+  <div class="fr-content-media__img">
+    <img src="/img/mission-logiciels-libres-depenses-2021-2024.png" class="fr-content-media--sm fr-responsive-img" alt="Dépenses de la mission logiciels libres de 2021 à 2024" />
+  </div>
+</figure>
 
 ## Nos effectifs depuis 2021
 
-Le graphique ci-dessous montre le nombre d'équivalents temps-plein
-(ETP contractuels) et d'alternants depuis 2021.
-
-<figure class="fr-content-media fr-content-media--sm" role="group" aria-label="Effectifs mission logiciels libres">
+<figure class="fr-content-media fr-content-media--sm" role="group" aria-label="Effectifs de la mission logiciels libres de 2021 à 2024">
   <div class="fr-content-media__img">
-    <img src="/img/effectifs-2021-2024.png" class="fr-content-media--sm fr-responsive-img" alt="Effectifs mission logiciels libres" />
+    <img src="/img/mission-logiciels-libres-effectifs-2021-2024.png" class="fr-content-media--sm fr-responsive-img" alt="Effectifs de la mission logiciels libres de 2021 à 2024" />
   </div>
 </figure>
 
