@@ -21,7 +21,7 @@ showBreadcrumb: true
   </div>
 </figure>
 
-## Nos effectifs depuis 2021
+## Nos effectifs
 
 <figure class="fr-content-media fr-content-media--sm" role="group" aria-label="Effectifs de la mission logiciels libres de 2021 à 2024">
   <div class="fr-content-media__img">
