@@ -9,7 +9,7 @@ image:
 tags: bluehats
 ---
 
-## 🧢 La DINUM rassemble les #BlueHats
+## La DINUM rassemble les BlueHats 🧢
 
 Pour la sixième année, la DINUM participe au salon [Open Source
 Experience](https://www.opensource-experience.com/). Vous pourrez nous
@@ -25,7 +25,7 @@ la salle Ada Lovelace en mezzanine du Palais des Congrès de 13h à 18h.
 
 {% imageContent "./bluehats-osx-2024.png", "Venir aux conférences BlueHats lors du salon Open Source Experience", [1000] %}
 
-## 📅 Appel à interventions avant le 15 novembre
+## 📅 Envoyez vos propositions avant le 15 novembre
 
 Un exemple de logiciel libre que vous utilisez dans votre
 administration ? Un déploiement particulièrement réussi ? Une
