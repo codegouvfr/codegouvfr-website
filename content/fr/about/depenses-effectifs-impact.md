@@ -1,5 +1,5 @@
 ---
-title: Dépense, effectifs et impact de la mission logiciels libres et communs numériques
+title: Dépenses, effectifs et impact de la mission logiciels libres
 layout: layouts/page.njk
 eleventyNavigation:
   key: Dépenses, effectifs et impact
@@ -17,20 +17,34 @@ de sa création en novembre 2021.
 
 ## Nos dépenses
 
-### En 2024
-
-| Poste de dépense                              | Montant       |
-|-----------------------------------------------|---------------|
-| Coûts d’infrastructure (hébergement, etc.)    | 5 000 €       |
-| Adhésion au "Software Heritage sponsor group" | 25 000 €      |
-| Développements sur l'application web SILL     | 40 000 €      |
-| Animation de la communauté BlueHats           | 60 000 €      |
-| Adhésion à l'ADULLACT (en cours)              | 10 000 €      |
-| Soutien à l'utilisation du SILL (en cours)    | 30 000 €      |
-| **Total TTC**                                 | **170 000 €** |
-
-Les sommes sont arrondies. Les budgets de 2021 à 2023 seront publiés
-ultérieurement.
+| Année | Poste de dépense                              | Montant       |
+|-------|-----------------------------------------------|---------------|
+| 2021  | Développements code.etalab.gouv.fr            | 30 000        |
+|       | Animation de la communauté BlueHats           | 10 000        |
+|       | Adhésion au "Software Heritage sponsor group" | 25 000 €      |
+|       | Adhésion à l'ADULLACT                         | 20 000 €      |
+|       | **Total TTC 2021**                            | **85 000 €**  |
+| 2022  | Animation de la communauté BlueHats           | 20 000 €      |
+|       | Adhésion au "Software Heritage sponsor group" | 25 000 €      |
+|       | Adhésion à l'ADULLACT                         | 20 000 €      |
+|       | Adhésion à OW2 OW                             | 5 000 €       |
+|       | BlueHats Semester of Code                     | 66 000 €      |
+|       | **Total TTC 2022**                            | **136 000 €** |
+| 2023  | Développements algorithmes publics            | 45 000 €      |
+|       | Adhésion au "Software Heritage sponsor group" | 25 000 €      |
+|       | Adhésion à l'ADULLACT                         | 20 000 €      |
+|       | Coûts d’infrastructure (hébergement, etc.)    | 2 500 €       |
+|       | Animation de la communauté BlueHats           | 10 000 €      |
+|       | Développements code.gouv.fr/sill              | 40 000 €      |
+|       | Développements code.gouv.fr/sources           | 30 800 €      |
+|       | **Total TTC 2023**                            | **172 500 €** |
+| 2024  | Coûts d’infrastructure (hébergement, etc.)    | 5 000 €       |
+|       | Adhésion au "Software Heritage sponsor group" | 25 000 €      |
+|       | Développements sur l'application web SILL     | 40 000 €      |
+|       | Animation de la communauté BlueHats           | 60 000 €      |
+|       | Adhésion à l'ADULLACT                         | 10 000 €      |
+|       | Soutien à l'utilisation du SILL (en cours)    | 30 000 €      |
+|       | **Total TTC 2024**                            | **170 000 €** |
 
 ## Nos effectifs depuis 2021
 
