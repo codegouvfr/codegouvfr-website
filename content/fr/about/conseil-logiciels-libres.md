@@ -94,27 +94,23 @@ position de tous les membres du conseil.
 
 ## Calendrier des réunions du conseil logiciels libres
 
-Les réunions sont privées et ont lieu via [ce lien de visioconférence](https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf).
-
-Vous pouvez télécharger le [calendrier .ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/rdv-conseil-logiciels-libres.ics) de toutes les réunions.
-
 ### Réunions à venir
 
 En construction.
 
 ### Réunions passées
 
-- 12 janvier 2024 14h-17h : Réunion administrations et écosystème (2/2) ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/conseil-logiciels-libres-2023-reunion-administrations-ecosysteme-2.ics))
-- 10 novembre 2023 14h-16h : Réunion écosystème (2/2) ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/conseil-logiciels-libres-2023-reunion-ecosysteme-2.ics))
-- 28 septembre 2023 14h-16h (initialement 15 septembre) : Réunion administrations (2/2) ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/2023/conseil-logiciels-libres-2023-reunion-administrations-2.ics))
-- 16 juin 2023 9h30-12h : Réunion administrations et écosystème (1/2) ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/2023/conseil-logiciels-libres-2023-reunion-administrations-ecosysteme-1.ics))
-- 21 avril 2023 14h-16h : Réunion écosystème (1/2) **ANNULÉE** ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/2023/conseil-logiciels-libres-2023-reunion-ecosysteme-1.ics))
-- 24 février 2023 14h-16h : Réunion administrations (1/2) ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/2023/conseil-logiciels-libres-2023-reunion-administrations-1.ics))
-- 3 juin 2022 14h-16h : Réunion administrations et écosystème ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/2022/conseil-logiciels-libres-2022-reunion-administrations-ecosysteme-1.ics))
-- 8 avril 2022 14h-16h : Réunion écosystème ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/2022/conseil-logiciels-libres-2022-reunion-ecosysteme-1.ics))
-- 11 mars 2022 14h-16h : Réunion administrations ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/2022/conseil-logiciels-libres-2022-reunion-administrations-1.ics))
-- 9 décembre 2022 14h-16h : Réunion administrations et écosystème ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/2022/conseil-logiciels-libres-2022-reunion-administrations-ecosysteme-2.ics))
-- 14 octobre 2022 14h-16h : Réunion écosystème ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/2022/conseil-logiciels-libres-2022-reunion-ecosysteme-2.ics))
-- 7 octobre 2022 14h-16h : Réunion administrations ([.ics](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/main/evenements/2022/conseil-logiciels-libres-2022-reunion-administrations-2.ics))
+- 12 janvier 2024 14h-17h : Réunion administrations et écosystème (2/2) 
+- 10 novembre 2023 14h-16h : Réunion écosystème (2/2) 
+- 28 septembre 2023 14h-16h (initialement 15 septembre) : Réunion administrations (2/2) 
+- 16 juin 2023 9h30-12h : Réunion administrations et écosystème (1/2) 
+- 21 avril 2023 14h-16h : Réunion écosystème (1/2) **ANNULÉE** 
+- 24 février 2023 14h-16h : Réunion administrations (1/2) 
+- 3 juin 2022 14h-16h : Réunion administrations et écosystème 
+- 8 avril 2022 14h-16h : Réunion écosystème 
+- 11 mars 2022 14h-16h : Réunion administrations 
+- 9 décembre 2022 14h-16h : Réunion administrations et écosystème 
+- 14 octobre 2022 14h-16h : Réunion écosystème 
+- 7 octobre 2022 14h-16h : Réunion administrations 
 
 <br/>
