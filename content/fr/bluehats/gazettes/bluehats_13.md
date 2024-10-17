@@ -25,7 +25,7 @@ L'appel à idées a déjà démarré, on compte sur vous !
 `>>` [Toutes les informations et le formulaire de dépôt d'idées](https://www.etalab.gouv.fr/etalab-et-centralesupelec-lancent-le-bluehats-semester-of-code)
 
 
-## Atelier #BlueHats du 22 octobre : les outils développés par le médialab de Sciences Po
+## Atelier BlueHats du 22 octobre : les outils développés par le médialab de Sciences Po
 
 Le médialab de SciencesPo, fondé par Bruno Latour il y a maintenant une dizaine d’année, est un laboratoire de recherche ayant pour objectif de faire travailler ensemble chercheur·se·s en sciences sociales, designers et ingénieur·e·s. Dans le cadre de ses projets, il conçoit et maintient une multitude d’outils Open Source pour la recherche et la société civile. Faisons ensemble une brève visite guidée de ces différents outils, pouvant aller des applications web destinées aux étudiants jusqu’aux outils en ligne de commande pour la collecte de données en ligne ou aux librairies de code bas-niveau servant à optimiser certains calculs.
 

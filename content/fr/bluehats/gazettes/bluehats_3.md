@@ -116,7 +116,7 @@ Dans la continuité des précédentes Rencontres, le Comité de pilotage de [Geo
 
 `>>` [Lire le \*programme en PDF](https://geotrek.ecrins-parcnational.fr/rencontres/2019/Rencontres-Geotrek-2019-Programme.pdf)\* et rendez-vous sur [la page d'inscription](https://framaforms.org/inscription-rencontres-geotrek-2019-1569231468) avant le 22 octobre\*.
 
-### 19 et 20 novembre : Sprint *open source* #BlueHats (Paris)
+### 19 et 20 novembre : Sprint *open source* BlueHats (Paris)
 
 Venez contribuer aux logiciels libres de l'État et rejoignez le mouvement #BlueHats !
 
@@ -130,7 +130,7 @@ Dans le cadre de la semaine de l'innovation, le logiciel libre est à l'honneur 
 
 `>>` [Inscription via ce site](https://www.eventbrite.fr/e/inscription-le-libre-sur-la-place-2019-73282775755).
 
-### 10 et 11 décembre : Paris Open Source Summit et #BlueHats
+### 10 et 11 décembre : Paris Open Source Summit et BlueHats
 
 Le grand rendez-vous européen des innovations et des technologies *open source* est de retour pour une 5e édition.  Associant experts internationaux, entreprises, startups et PME leaders de leur domaine et des communautés emblématiques, le Paris Open Source Summit (POSS) devient cette année le hub *open source* de l'intelligence artificielle, des infrastructures distribuées, de la cybersécurité, de l'embarqué pour deux journées de conférences inédites.
 

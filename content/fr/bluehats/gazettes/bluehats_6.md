@@ -3,7 +3,7 @@ title: Gazette BlueHats 🧢 n°6
 date: 2020-07-16
 ---
 
-## Lancement des ateliers #BlueHats
+## Lancement des ateliers BlueHats
 
 La communauté d'agents publics fédérée autour du [Socle Interministériel de Logiciels Libres](https://code.gouv.fr/sill) se mobilise pour faire connaître les logiciels libres utilisées dans l'administration - et au-delà !
 

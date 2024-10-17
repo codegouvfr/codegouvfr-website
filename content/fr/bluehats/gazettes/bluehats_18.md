@@ -3,7 +3,7 @@ title: Gazette BlueHats 🧢 n°18
 date: 2022-08-31
 ---
 
-## Prochain atelier #BlueHats le 2 septembre 2022
+## Prochain atelier BlueHats le 2 septembre 2022
 
 Un beau programme d'ateliers en perspective !
 

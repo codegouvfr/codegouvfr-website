@@ -3,7 +3,7 @@ title: Gazette BlueHats 🧢 n°8
 date: 2020-11-18
 ---
 
-## Le calendrier des ateliers #BlueHats
+## Le calendrier des ateliers BlueHats
 
 Depuis juillet 2020, et à l'initiative des référents du [Socle Interministériel de Logiciels Libres](https://code.gouv.fr/sill), des wébinaires en ligne sont régulièrement organisés pour présenter des logiciels libres utilisés dans l'administration.
 
@@ -49,7 +49,7 @@ L'association Scenari, qui fédère les utilisateur⋅rice⋅s du logiciel libre
 `>>` Plus de détails en ligne : [scenari.org/rencontres2020](https://scenari.org/rencontres2020)
 
 
-## Clinique #BlueHats pour l'ouverture des codes sources
+## Clinique BlueHats pour l'ouverture des codes sources
 
 Le lundi 23 novembre de 13h30 à 17h30, dans le cadre du mois de l'innovation publique, Etalab organise une « clinique » d'ouverture des codes sources publics.  Besoin d’aide pour ouvrir des codes sources ? Venez posez vos questions et proposer vos codes sources lors de sessions de travail collectives et individuelles.
 
