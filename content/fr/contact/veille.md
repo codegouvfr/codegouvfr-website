@@ -28,13 +28,6 @@ Pour connaître les nouveaux logiciels libres recommandés pour et développés 
 
 <br/>
 
-Pour suivre les calendrier des réunions des groupes de travail internes :
-
-- [Calendrier .ics pour le groupe de travail logiciels libres](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/rdv-gtt-ll.ics) du réseau des AMDAC
-- [Calendrier .ics pour le conseil](https://git.sr.ht/~codegouvfr/logiciels-libres/blob/master/evenements/rdv-conseil-logiciels-libres.ics) d'expertise et de mobilisation logiciels libres
-
-<br/>
-
 Pour suivre les dépôts de codes sources de la mission logiciels libres :
 
 - Suivre [les dépôts code.gouv.fr sur SourceHut](https://sr.ht/~codegouvfr/code.gouv.fr/feed)
