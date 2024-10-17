@@ -3,7 +3,7 @@ title: Gazette BlueHats 🧢 n°4
 date: 2019-12-08
 ---
 
-## La journée `#BlueHats` au Paris Open Source Summit 2019
+## La journée BlueHats au Paris Open Source Summit 2019
 
 Les BlueHats se retrouvent demain 11 décembre au [Paris Open Source Summit](https://www.opensourcesummit.paris/) pour souffler leur première bougie !
 

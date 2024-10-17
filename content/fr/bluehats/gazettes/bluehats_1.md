@@ -21,7 +21,7 @@ TCHAP est le nom de l'application basée sur Riot Matrix.  Une version de TCHAP 
 
 `>>` <https://matrix.org/blog/2019/02/04/matrix-at-fosdem-2019/>
 
-## L'Open Source Observatory évoque `#BlueHats`
+## L'Open Source Observatory évoque BlueHats
 
 L'open Source Observatory (OSOR) cite l'initiative `#BlueHats` dans leur dernière lettre d'information.  Ils incitent les autres pays européens à prendre exemple sur cette démarche communautaire pour renforcer la place du libre dans les administrations publiques.
 

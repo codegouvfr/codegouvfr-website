@@ -80,7 +80,7 @@ Les produits du programme EIG sont [publiés sous licence libre](https://github.
 `>>` Vous pouvez aussi consulter [la liste des défis proposés](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html) et suivre [le compte Twitter du programme](https://twitter.com/eigforever)
 
 
-## Et si vous organisiez le prochain événement #BlueHats ?
+## Et si vous organisiez le prochain événement BlueHats ?
 
 Tout l'écosystème du logiciel libre est invité à organiser des événements #BlueHats.
 
@@ -89,7 +89,7 @@ Que vous soyez une administration, une association ou une entreprise, si vous or
 L'équipe d'[Etalab](https://www.etalab.gouv.fr/accompagnement-logiciels-libres) est à votre disposition pour aider si besoin.
 
 
-## Retour sur les événements #BlueHats passés
+## Retour sur les événements BlueHats passés
 
 
 ### 1er sprint open source de l'administration
@@ -99,7 +99,7 @@ La direction interministérielle du numérique (DINUM) et le 110 bis, le lab d�
 `>>` Lire la suite sur le [site du l'éducation nationale](https://www.education.gouv.fr/retour-sur-le-premier-sprint-open-source-bluehats-de-l-administration-89270) ou le [site de la DINUM](https://www.numerique.gouv.fr/actualites/retour-sur-le-premier-sprint-open-source-bluehats-administration/a)
 
 
-### La journée #BlueHats au Paris Open Source Summit 2019
+### La journée BlueHats au Paris Open Source Summit 2019
 
 Un an après le lancement de 2018, même lieu, même événement, même ferveur : les #BlueHats – les hackers d’intérêt général – se sont réunis en décembre dernier pour une nouvelle journée de rencontres et d’échanges dans le cadre du Paris Open Source Summit, qui l’avait vu naître un an auparavant sous l’impulsion de la DINUM (alors DINSIC).
 

@@ -8,7 +8,7 @@ image:
 tags: bluehats
 ---
 
-## La DINUM rassemble les agents publics #BlueHats
+## La DINUM rassemble les agents publics BlueHats
 
 Pour la quatrième année, la DINUM accueillera les agents publics impliqués dans le logiciel libre lors du [salon Open Source Experience](https://www.opensource-experience.com/) : vous êtes toutes et tous les bienvenus le **8 novembre en salle 252 B de 9h à 18h au palais des Congrès** !
 

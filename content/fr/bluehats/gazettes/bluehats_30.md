@@ -42,7 +42,7 @@ personne de côté.
 
 `>>` Lire [The Pact for the Future (PDF)](https://www.un.org/pga/wp-content/uploads/sites/109/2024/09/The-Pact-for-the-Future-final.pdf) qui contient le pacte numérique mondial en annexe.
 
-## 🧢 Les ateliers #BlueHats ont repris
+## 🧢 Les ateliers BlueHats ont repris
 
 Les ateliers #BlueHats reprennent du service ! Deux à revisionner et quatre à voir bientôt :
 

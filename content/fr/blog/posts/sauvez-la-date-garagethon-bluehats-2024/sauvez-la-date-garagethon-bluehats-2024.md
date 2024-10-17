@@ -9,7 +9,7 @@ image:
 tags: bluehats
 ---
 
-## ⌨️ Un garagethon #BlueHats pour améliorer nos logiciels libres ensemble
+## ⌨️ Un garagethon BlueHats pour améliorer nos logiciels libres ensemble
 
 Vous êtes agent public et développez des logiciels libres pour votre
 administration ?
