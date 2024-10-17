@@ -21,7 +21,9 @@ publics qui développent et utilisent des logiciels libres dans leurs
 administrations.
 
 Cette après-midi de présentations aura lieu le *4 décembre 2024* dans
-la salle Ada Lovelace en mezzanine du Palais des Congrès de 13h à 18h.
+la salle Ada Lovelace en mezzanine du Palais des Congrès de 13h à 18h,
+qui sera librement accessible à tous les visiteurs du salon, agents
+publics ou non.
 
 {% imageContent "./bluehats-osx-2024.png", "Venir aux conférences BlueHats lors du salon Open Source Experience", [1000] %}
 
@@ -41,7 +43,9 @@ doute sur la pertinence de votre proposition, écrivez-nous et nous en
 parlerons.
 
 Nous vous répondrons avant le 22 novembre et publierons le programme
-le 29 novembre.
+le 29 novembre. La DINUM ne peut pas prendre en charge vos éventuels
+frais de transport ou d'hébergement ; si votre présentation est retenue
+et que vous avez besoin d'une invitation officielle, [écrivez-nous](mailto:contact@code.gouv.fr).
 
 {% imageContent "./appel-a-interventions-bluehats-2024.png", "Image relayant l'appel à intervention", [1000] %}
 
@@ -61,4 +65,4 @@ Et pour toute question, n'hésitez pas à [nous écrire](mailto:bluehats@code.go
 
 ## Les éditions passées
 
-Pour parcourir les programmes des éditions précédentes, voir la page dédiée à nos [rencontres](https://code.gouv.fr/fr/bluehats/tags/rencontre/).
+Pour parcourir les programmes des éditions précédentes, voir la page dédiée à nos [rencontres](https://code.gouv.fr/fr/bluehats/tags/rencontre/) et les programmes des journées BlueHats [2023](https://code.gouv.fr/fr/bluehats/journees-2023/) et [2022](https://code.gouv.fr/fr/bluehats/journee-2022/).
