@@ -51,3 +51,5 @@ Grâce aux 2 premiers axe, nous avons identifié et outillé une architecture p�
 
 * Plugin AppBuilder – DevSecOps pour instancier un nouveau projet Java depuis notre Forge Education IT avec l’architecture « action24 » + pipeline de publication vers le Mim.libre
 * Plugin [IS Designer LCNC ouvert](https://code.gouv.fr/sill/detail?name=IS%20Designer) pour industrialiser la production d’API respectant l’action 24 (design + reverse Swagger)
+
+<iframe class="speakerdeck-iframe" style="border: 0px; background: rgba(0, 0, 0, 0.1) padding-box; margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 396;" frameborder="0" src="https://speakerdeck.com/player/caaefc1e936342e7ae90b3431b78f593" title="Publication dès la conception : restitution et perspectives - MENJ / Code Lutin" allowfullscreen="true" data-ratio="1.4141414141414141"></iframe>
