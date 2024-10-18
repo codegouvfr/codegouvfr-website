@@ -1,15 +1,14 @@
 ---
 title: "La collaboration MENJS / Code Lutin"
 date: 2024-10-18
-description: "La collaboration MENJS / Code Lutin"
+description: "La collaboration MENJS / Code Lutin avec les interventions de Erwan Garel (MENJS), Alex Morel (Code Lutin) et Jean Couteau (Code Lutin)"
+video:
+  src: https://tube.numerique.gouv.fr/videos/embed/8104acc6-4d40-4c2a-99c8-d9258d78ef7d
+  title: "Atelier BlueHats : La collaboration MENJS / Code Lutin"
+slides:
+  src: https://speakerdeck.com/player/9f156314755d41459d87b8f62272a4a5
+  title: "Atelier #BlueHats du 18 octobre 2024 : la collaboration MENJS / Code Lutin"
 ---
-- Date : 18 octobre 2024
-- Heure : De 11h à 12h30
-- Intervenants : Erwan Garel (MENJS), Alex Morel (Code Lutin) et Jean Couteau (Code Lutin)
-- Visio : [Salon BlueHats](https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf)
-
-<br/>
-
 Le CRPA demande aux organismes publics de publier les algorithmes mis en œuvre dans le cas de décisions administratives individuelles.
 
 Publier l'intégralité des codes sources des logiciels réalisés par le Ministère de l'Éducation Nationale (MEN) est rédhibitoire. Notamment pour des raisons de :
@@ -52,4 +51,3 @@ Grâce aux 2 premiers axe, nous avons identifié et outillé une architecture p�
 
 * Plugin AppBuilder – DevSecOps pour instancier un nouveau projet Java depuis notre Forge Education IT avec l’architecture « action24 » + pipeline de publication vers le Mim.libre
 * Plugin [IS Designer LCNC ouvert](https://code.gouv.fr/sill/detail?name=IS%20Designer) pour industrialiser la production d’API respectant l’action 24 (design + reverse Swagger)
-
