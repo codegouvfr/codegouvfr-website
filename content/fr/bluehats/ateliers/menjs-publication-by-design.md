@@ -3,7 +3,7 @@ title: "La collaboration MENJS / Code Lutin"
 date: 2024-10-18
 description: "La collaboration MENJS / Code Lutin avec les interventions de Erwan Garel (MENJS), Alex Morel (Code Lutin) et Jean Couteau (Code Lutin)"
 video:
-  src: https://tube.numerique.gouv.fr/videos/embed/8104acc6-4d40-4c2a-99c8-d9258d78ef7d
+  src: https://tube.numerique.gouv.fr/videos/embed/e13e5712-8403-42e9-b362-129b2955daf7
   title: "Atelier BlueHats : La collaboration MENJS / Code Lutin"
 slides:
   src: https://speakerdeck.com/player/9f156314755d41459d87b8f62272a4a5
