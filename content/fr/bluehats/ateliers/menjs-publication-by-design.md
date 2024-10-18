@@ -3,7 +3,7 @@ title: "La collaboration MENJS / Code Lutin"
 date: 2024-10-18
 description: "La collaboration MENJS / Code Lutin avec les interventions de Erwan Garel (MENJS), Alex Morel (Code Lutin) et Jean Couteau (Code Lutin)"
 video:
-  src: https://tube.numerique.gouv.fr/videos/embed/8104acc6-4d40-4c2a-99c8-d9258d78ef7d
+  src: https://tube.numerique.gouv.fr/videos/embed/e13e5712-8403-42e9-b362-129b2955daf7
   title: "Atelier BlueHats : La collaboration MENJS / Code Lutin"
 slides:
   src: https://speakerdeck.com/player/9f156314755d41459d87b8f62272a4a5
@@ -51,3 +51,5 @@ Grâce aux 2 premiers axe, nous avons identifié et outillé une architecture p�
 
 * Plugin AppBuilder – DevSecOps pour instancier un nouveau projet Java depuis notre Forge Education IT avec l’architecture « action24 » + pipeline de publication vers le Mim.libre
 * Plugin [IS Designer LCNC ouvert](https://code.gouv.fr/sill/detail?name=IS%20Designer) pour industrialiser la production d’API respectant l’action 24 (design + reverse Swagger)
+
+<iframe class="speakerdeck-iframe" style="border: 0px; background: rgba(0, 0, 0, 0.1) padding-box; margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 396;" frameborder="0" src="https://speakerdeck.com/player/caaefc1e936342e7ae90b3431b78f593" title="Publication dès la conception : restitution et perspectives - MENJ / Code Lutin" allowfullscreen="true" data-ratio="1.4141414141414141"></iframe>
