@@ -63,22 +63,20 @@ traiter. Les agents publics membres du conseil contribuent avec leur
 expertise individuelle et les membres « écosystème » votent pour
 soumettre l'avis pour approbation à la DINUM.
 
-- 1er février 2023 : « Pensez-vous que de rendre possible
+- **1er février 2023** : « Pensez-vous que de rendre possible
   l'installation d'un système d'exploitation libre augmente la
   durabilité des ordinateurs (portables ou non) et des smartphones ? »
- 
   Avis soutenu par la majorité des membres du conseil « écosystème »
   et **soutenu par la DINUM**.
 
-<!-- - 2 octobre 2024 : « Le Conseil Logiciels Libres souligne les succès -->
-<!--   remarquables du programme Next Generation Internet (NGI) et de son -->
-<!--   modèle de financement en cascade, qui ont permis de renforcer -->
-<!--   l’écosystème numérique européen. Il appelle à la poursuite et à -->
-<!--   l'intensification des efforts en faveur de cet écosystème ouvert, -->
-<!--   souverain et innovant, en totale cohérence avec les valeurs et -->
-<!--   priorités stratégiques de l’Union européenne. » -->
-  
-<!--   Avis soutenu par la majorité des membres du conseil « écosystème ». -->
+- **2 octobre 2024** : « Le Conseil Logiciels Libres souligne les
+  succès remarquables du programme Next Generation Internet (NGI) et
+  de son modèle de financement en cascade, qui ont permis de renforcer
+  l’écosystème numérique européen. Il appelle à la poursuite et à
+  l'intensification des efforts en faveur de cet écosystème ouvert,
+  souverain et innovant, en totale cohérence avec les valeurs et
+  priorités stratégiques de l’Union européenne. » Avis soutenu par la
+  majorité des membres du conseil « écosystème ».
 
 ## Publications des avis
 
