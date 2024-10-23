@@ -84,8 +84,8 @@ pour approbation publique à la DINUM.
 
 ## Publications des avis
 
-- [Apports du logiciel libre à la durabilité des équipements (smartphones, ordinateurs, objets connectés, périphériques) : une synthèse](/docs/2023_01_RapportIndiceDurabilite.pdf), 16 janvier 2023, CC BY-SA.
-<!-- - [Avis du Conseil Logiciels Libres sur l’avenir du programme Next Generation Internet (NGI)](/docs/cll-avis-ngi-02102024.pdf), 2 octobre 2024, CC BY-SA. -->
+- [Apports du logiciel libre à la durabilité des équipements (smartphones, ordinateurs, objets connectés, périphériques) : une synthèse](/docs/2023_01_RapportIndiceDurabilite.pdf), 16 janvier 2023, CC BY-SA 4.0.
+- [Avis du Conseil Logiciels Libres sur l’avenir du programme Next Generation Internet (NGI)](/docs/cll-avis-ngi-02102024.pdf), 2 octobre 2024, CC BY-SA 4.0.
 
 <br/>
 
