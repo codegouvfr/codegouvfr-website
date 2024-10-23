@@ -58,10 +58,13 @@ Le conseil peut se saisir de toute question à l'intersection entre le logiciel 
 
 ## Avis du conseil logiciels libres
 
-Le conseil émet des avis sur des questions précises qu'il accepte de
-traiter. Les agents publics membres du conseil contribuent avec leur
-expertise individuelle et les membres « écosystème » votent pour
-soumettre l'avis pour approbation à la DINUM.
+Le conseil publie des avis sur des questions dont il se saisit.
+
+Les agents publics membres du conseil à titre individuel peuvent y
+contribuer avec leur expertise. Les membres « écosystème » votent pour
+adopter ou non l'avis. Si l'avis est soutenu par au moins une majorité
+de membres « écosystème » du conseil logiciels libres, il est soumis
+pour approbation publique à la DINUM.
 
 - **1er février 2023** : « Pensez-vous que de rendre possible
   l'installation d'un système d'exploitation libre augmente la
@@ -76,17 +79,13 @@ soumettre l'avis pour approbation à la DINUM.
   l'intensification des efforts en faveur de cet écosystème ouvert,
   souverain et innovant, en totale cohérence avec les valeurs et
   priorités stratégiques de l’Union européenne. » Avis soutenu par la
-  majorité des membres du conseil « écosystème ».
+  majorité des membres du conseil « écosystème » et **soumis pour
+  approbation à la DINUM**.
 
 ## Publications des avis
 
-À leur initiative, des membres du conseil logiciels libres proposent
-des publications en lien avec les questions liées aux logiciels libres
-dans l'administration, lesquelles ne reflètent pas nécessairement la
-position de tous les membres du conseil.
-
-- *Apports du logiciel libre à la durabilité des équipements (smartphones, ordinateurs, objets connectés, périphériques) : une synthèse*, [PDF](/docs/2023_01_RapportIndiceDurabilite.pdf), 16 janvier 2023, CC BY-SA.
-<!-- - *Avis du Conseil Logiciels Libres sur l’avenir du programme Next Generation Internet (NGI)*, [PDF](/docs/cll-avis-ngi-02102024.pdf), 2 octobre 2024, CC BY-SA. -->
+- [Apports du logiciel libre à la durabilité des équipements (smartphones, ordinateurs, objets connectés, périphériques) : une synthèse](/docs/2023_01_RapportIndiceDurabilite.pdf), 16 janvier 2023, CC BY-SA.
+<!-- - [Avis du Conseil Logiciels Libres sur l’avenir du programme Next Generation Internet (NGI)](/docs/cll-avis-ngi-02102024.pdf), 2 octobre 2024, CC BY-SA. -->
 
 <br/>
 
@@ -98,17 +97,17 @@ En construction.
 
 ### Réunions passées
 
-- 12 janvier 2024 14h-17h : Réunion administrations et écosystème (2/2) 
-- 10 novembre 2023 14h-16h : Réunion écosystème (2/2) 
-- 28 septembre 2023 14h-16h (initialement 15 septembre) : Réunion administrations (2/2) 
-- 16 juin 2023 9h30-12h : Réunion administrations et écosystème (1/2) 
-- 21 avril 2023 14h-16h : Réunion écosystème (1/2) **ANNULÉE** 
-- 24 février 2023 14h-16h : Réunion administrations (1/2) 
-- 3 juin 2022 14h-16h : Réunion administrations et écosystème 
-- 8 avril 2022 14h-16h : Réunion écosystème 
-- 11 mars 2022 14h-16h : Réunion administrations 
-- 9 décembre 2022 14h-16h : Réunion administrations et écosystème 
-- 14 octobre 2022 14h-16h : Réunion écosystème 
-- 7 octobre 2022 14h-16h : Réunion administrations 
+- 12 janvier 2024 14h-17h : Réunion administrations et écosystème (2/2)
+- 10 novembre 2023 14h-16h : Réunion écosystème (2/2)
+- 28 septembre 2023 14h-16h (initialement 15 septembre) : Réunion administrations (2/2)
+- 16 juin 2023 9h30-12h : Réunion administrations et écosystème (1/2)
+- 21 avril 2023 14h-16h : Réunion écosystème (1/2) **ANNULÉE**
+- 24 février 2023 14h-16h : Réunion administrations (1/2)
+- 3 juin 2022 14h-16h : Réunion administrations et écosystème
+- 8 avril 2022 14h-16h : Réunion écosystème
+- 11 mars 2022 14h-16h : Réunion administrations
+- 9 décembre 2022 14h-16h : Réunion administrations et écosystème
+- 14 octobre 2022 14h-16h : Réunion écosystème
+- 7 octobre 2022 14h-16h : Réunion administrations
 
 <br/>
