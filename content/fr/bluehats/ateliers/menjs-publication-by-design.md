@@ -13,14 +13,14 @@ Le CRPA demande aux organismes publics de publier les algorithmes mis en œuvre 
 
 Publier l'intégralité des codes sources des logiciels réalisés par le Ministère de l'Éducation Nationale (MEN) est rédhibitoire. Notamment pour des raisons de :
 
-* vulnérabilité : on divulge les technologies d'infrastructure
+* vulnérabilité : on divulgue les technologies d'infrastructure
   utilisées (et les failles de sécurité liées : Struts, Spring, etc.)
 * Sécurité : divulgations de secrets (mots de passe, token, etc.)
 * RGPD : on expose le nom des développeurs
 
 Les équipes du ministère, accompagnés par l'entreprise Code Lutin, ont travaillé autour de la problématique suivante :
 
-**Comment respecter l’exigence de transparence des algortihmes tout en conservant une opacité sur les composants logiciels en exploitation dans le SI du ministère ?**
+**Comment respecter l’exigence de transparence des algorithmes tout en conservant une opacité sur les composants logiciels en exploitation dans le SI du ministère ?**
 
 L'objet de l'atelier est de présenter un résumé et un retour
 d'expériences sur nos travaux, en s'axant autour de 3 sujets :
@@ -37,11 +37,11 @@ d'expériences sur nos travaux, en s'axant autour de 3 sujets :
 
    * Intégré à la CI de la forge éducation nationale (GitLab, Gitea)
    * Automatisant la publication sur la forge [gitlab.mim-Libre.fr](gitlab.mim-Libre.fr)
-   * Avec tous les gardes-fous possibles (détection de secrets, vulénrabilités, qualité de code, etc.), y compris un processus de revue manuelle.
+   * Avec tous les gardes-fous possibles (détection de secrets, vulnérabilités, qualité de code, etc.), y compris un processus de revue manuelle.
 
 3. Stratégies de remédiation
 
-Grâce aux 2 premiers axe, nous avons identifié et outillé une architecture péreine pour les futurs projets. Mais reste à identifier des stratégies de remédiation pour faire évoluer les projets déjà existants. 
+Grâce aux 2 premiers axe, nous avons identifié et outillé une architecture pérenne pour les futurs projets. Mais reste à identifier des stratégies de remédiation pour faire évoluer les projets déjà existants. 
 
 * Audit de 2 applications (Affelnet 6e et Affelnet Lycée)
 * Implémentation de scripts d'analyse et refactoring
