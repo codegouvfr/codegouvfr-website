@@ -52,9 +52,9 @@ Nos produits principaux sont fortement réutilisés :
 
 #### Nous promouvons les logiciels libres via le socle interministériel
 
-- 494 logiciels libres référencés
+- 494 logiciels libres référencés dans le [code.gouv.fr/sill](https://code.gouv.fr/sill)
 - 1810 utilisateurs inscrits
-- 274 agents publics inscrits comme référents 
+- 274 agents publics inscrits comme référents
 - 183 organismes publics représentés
 
 <br/>
