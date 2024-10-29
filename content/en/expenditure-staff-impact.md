@@ -26,7 +26,7 @@ In the interests of transparency, we are publishing the expenditure (to be [down
 
 ## Impact
 
-#### We develop and publish source code
+#### We develop and publish source code for public administrations
 
 Our main products are widely reused:
 
@@ -35,7 +35,7 @@ Our main products are widely reused:
 
 <br/>
 
-#### We support government departments in their Free Software issues
+#### We support ministries and public organisations with legal and technical aspects of Free Software
 
 - 3 ministries supported in their Open Source publishing policy
 - 3 agencies supported in the creation of their Open Source Office Programme
@@ -45,11 +45,11 @@ Our main products are widely reused:
 
 <br/>
 
-#### We promote open source software via the interministerial platform
+#### We gather open source expertise around the catalog of recommended open source solutions
 
-- 494 Free Software products referenced
+- 494 Free Software products referenced on [code.gouv.fr/sill](https://code.gouv.fr/sill)
 - 1810 registered users
-- 274 public servants registered as referents 
+- 274 public servants registered as referents
 - 183 public bodies represented
 
 <br/>
