@@ -45,13 +45,7 @@ Le Point d’Accès National aux données de transport a pour but de rassembler 
 Référencer l’intégralité des adresses du territoire et les rendre utilisables par tous : que vous soyez une commune, une entreprise ou un simple citoyen, vous pouvez contribuer.`,
             imagePath: "./bal.jpg"
         }, {
-            url: "https://datagir.ademe.fr",
-            title: "datagir.ademe.fr",
-            description: `
-Datagir vous accompagne dans la compréhension et l’intégration de données environnementales avec des ressources libres d’utilisation, pour que communs numériques riment avec accélération de la transition écologique.`,
-            imagePath: "./datagir.jpg"
-        },{
-            url: "https://rnb.beta.gouv.fr/",
+            url: "https://rnb.beta.gouv.fr",
             title: "rnb.beta.gouv.fr",
             description: `
 Rendre efficace et commune l'identification des bâtiments et l'échange d'informations les concernant.`,
