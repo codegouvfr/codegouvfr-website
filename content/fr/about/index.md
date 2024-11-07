@@ -42,8 +42,6 @@ Le plan d'action est piloté par la mission logiciels libres de la [direction in
 
 Tous les codes sources développés par la direction interministérielle du numérique sont, dans la mesure du possible, publiés sous licence libre.
 
-<br/>
-
 ## L'offre de services de la mission logiciels libres
 
 La mission logiciels libres de la DINUM aide les administrations publiques sur tous les sujets concernant la publication de leurs codes sources, l'utilisation de logiciels libres et le recrutement de compétences liées au logiciel libre (utilisation et publication).
@@ -124,15 +122,13 @@ Contributions passées :
 
 ## Les interventions de la mission logiciels libres
 
-Voir la [page dédiée](/fr/doc/ressources/).
+[Voir la page dédiée](/fr/doc/ressources/){.fr-link .fr-fi-arrow-right-line .fr-link--icon-right}.
 
 ## Le programme `BlueHats Semester of Code` (2022-2023)
 
 `BlueHats Semester of Code` est un programme de stages de 6 mois permettant de contribuer à des logiciels libres utilisés dans les administrations.  Il est destiné aux étudiants de CentraleSupélec de 2ème année en césure.
 
 [Voir la page dédiée](/fr/bluehats/bluehats-semester-of-code/){.fr-link .fr-fi-arrow-right-line .fr-link--icon-right}
-
-<br/>
 
 ## La politique de contribution aux logiciels libres de l'Etat (2018-2021)
 
