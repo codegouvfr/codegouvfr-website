@@ -2,11 +2,17 @@
 title: "AboutCode : outils et données libres et ouvertes pour automatiser la sécurisation de la chaîne d'approvisionnement logicielle"
 date: 2024-11-08
 description: L'atelier présentera AboutCode, une solution libre et open source dédiée à l'automatisation de l’analyse de la composition logicielle et à la détermination de l'origine, de la licence et des problèmes de sécurité présents dans un arbre de dépendances logicielles
+video:
+  src: https://tube.numerique.gouv.fr/videos/embed/182f3feb-782b-4ffa-82fa-30b95b2baf65
+  title: "AboutCode : outils et données libres et ouvertes pour automatiser la sécurisation de la chaîne d'approvisionnement logicielle"
+slides:
+  src: https://speakerdeck.com/player/a142fd21717a4649b7ece6b5fbdb7905
+  title: "AboutCode : outils et données libres et ouvertes pour automatiser la sécurisation de la chaîne d'approvisionnement logicielle"
 ---
+
 - Date : 8 novembre 2024
-- Heure : De 11h à 12h30
-- Intervenant : Philippe Ombredanne, Mainteneur principal chez [AboutCode](https://aboutcode.org/), une association sans but lucratif Belge, et [Stefano Zacchiroli](https://upsilon.cc/~zack/) de [Software Heritage](https://www.softwareheritage.org/)
-- Visio : [Salon BlueHats](https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf)
+- Intervenants : Philippe Ombredanne, mainteneur principal chez [AboutCode](https://aboutcode.org/), une association sans but lucratif belge, et [Stefano Zacchiroli](https://upsilon.cc/~zack/) de [Software Heritage](https://www.softwareheritage.org/)
+- Les diapositives de Philippe Ombredanne ([lien](https://speakerdeck.com/bluehats/aboutcode-stack-outils-et-donnees-libres-et-ouverts-securisation-de-la-chaine-dapprovisionnement-logicielle)) et celles de Stefano Zacchiroli ([PDF](https://upsilon.cc/~zack/talks/2024/2024-11-08-bluehats-compliance.pdf))
 
 <br/>
 
