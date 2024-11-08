@@ -17,11 +17,14 @@ eleventyNavigation:
   <div class="fr-grid-row fr-grid-row--gutters">
     {% asyncAll ospo in ospos %}
     <div class="fr-col-12 fr-col-md-3">
-      {{ component("card", {
+      {{ component("card_ospo", {
 	url: false,
+	date: ospo.created,
         externalUrl: ospo.url,
         title: ospo.name,
-	description: ospo.description
+	description: ospo.description,
+	email: ospo.email,
+	pso_id: ospo.pso_id
       }) }}
     </div>
     {% endall %}

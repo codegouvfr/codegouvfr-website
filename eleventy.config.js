@@ -87,15 +87,23 @@ module.exports = function (eleventyConfig) {
     });
 
     eleventyConfig.addFilter("readableDate", function readableDate(dateObj, format, zone) {
-        // Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
-        return DateTime.fromJSDate(dateObj, {zone: zone || "utc"})
-            .setLocale(this.page.lang)
-            .toFormat(format || "dd LLLL yyyy");
+	// Handle both Date objects and ISO strings
+	const dt = typeof dateObj === 'string'
+	      ? DateTime.fromISO(dateObj, { zone: zone || "utc" })
+	      : DateTime.fromJSDate(dateObj, { zone: zone || "utc" });
+
+	return dt
+	    .setLocale(this.page.lang)
+	    .toFormat(format || "dd LLLL yyyy");
     });
 
     eleventyConfig.addFilter("htmlDateString", (dateObj) => {
-        // dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-        return DateTime.fromJSDate(dateObj, {zone: "utc"}).toFormat("yyyy-LL-dd");
+	// Handle both Date objects and ISO strings
+	const dt = typeof dateObj === 'string'
+	      ? DateTime.fromISO(dateObj, { zone: "utc" })
+	      : DateTime.fromJSDate(dateObj, { zone: "utc" });
+
+	return dt.toFormat("yyyy-LL-dd");
     });
 
     eleventyConfig.addFilter("getYear", (dateObj) => {
