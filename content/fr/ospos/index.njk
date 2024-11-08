@@ -1,0 +1,29 @@
+---
+title: "OSPOs du secteur public"
+description: La liste des Open Source Programme Offices du secteur public.
+layout: layouts/page.njk
+eleventyNavigation:
+  key: "OSPOs du secteur public"
+  parent: Ressources
+  order: 4
+---
+
+{% from "components/component.njk" import component with context %}
+{{ component("callout", {
+  title: "Qu'est-ce qu'un OSPO ?",
+  description: 'Consultez la <a class="fr-link fr-text--lead" href="https://code.gouv.fr/fr/blog/definition-ospo/" target="_blank">proposition de définition d\'un OSPO</a> et <a class="fr-link fr-text--lead" href="mailto:contact@code.gouv.fr">sollicitez-nous pour être référencés</a>.' | safe
+}) }}
+<div class="fr-my-6w">
+  <div class="fr-grid-row fr-grid-row--gutters">
+    {% asyncAll ospo in ospos %}
+    <div class="fr-col-12 fr-col-md-3">
+      {{ component("card", {
+	url: false,
+        externalUrl: ospo.url,
+        title: ospo.name,
+	description: ospo.description
+      }) }}
+    </div>
+    {% endall %}
+  </div>
+</div>
