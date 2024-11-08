@@ -1,5 +1,5 @@
 ---
-title: Dépenses, effectifs et impact de la mission logiciels libres
+title: Dépenses, effectifs et impact de la mission
 layout: layouts/page.njk
 eleventyNavigation:
   key: Dépenses, effectifs et impact
