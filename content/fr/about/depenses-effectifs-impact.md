@@ -73,6 +73,6 @@ Nos produits principaux sont fortement réutilisés :
 #### Nous contribuons à l'animation du mouvement BlueHats 🧢
 
 - 30 gazette BlueHats
-- 54 ateliers BlueHats
+- 55 ateliers BlueHats
 - 8 rencontres BlueHats
 - 5 journées BlueHats au salon Open Source Experience
