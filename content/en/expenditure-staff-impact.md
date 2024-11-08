@@ -1,5 +1,5 @@
 ---
-title: Expenditure, staff and impact of the Free Software unit
+title: Expenditure, staff and impact
 layout: layouts/page.njk
 eleventyNavigation:
   key: Expenditure, staff and impact
