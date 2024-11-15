@@ -29,9 +29,9 @@ Appuyons-nous sur la définition proposée par le *think tank* [OpenForum Europe
 
 ## Une construction étape par étape
 
-Un OSPO, c'est une **équipe** qui est garante d'une **stratégie** *open source*.  Elle crée et diffuse des **ressources**, pour la mise en œuvre de cette stratégie, qui s'adressent à une **communauté** et qui permettent un dialogue avec l'**écosystème élargi** du logiciel libre.
+Un OSPO, c'est une **entité** ou une **équipe** garante de la **stratégie** *open source* d'une structure. Elle crée et diffuse des **ressources**, pour la mise en œuvre de cette stratégie, qui s'adressent à une **communauté** et qui permettent un dialogue avec l'**écosystème élargi** du logiciel libre.
 
-1. **L'équipe** : elle est constituée d'une à plusieurs personnes à temps plein au sein d'une organisation. Cette équipe est idéalement pluridisciplinaire, car elle doit traiter de questions techniques, légales, promotionnelles, ce dernier aspect pouvant impliquer de l'animation de communautés.
+1. **L'équipe** ou **l'entité** : elle est constituée d'une à plusieurs personnes à temps plein au sein d'une organisation. Cette équipe est idéalement pluridisciplinaire, car elle doit traiter de questions techniques, légales, promotionnelles, ce dernier aspect pouvant impliquer de l'animation de communautés.
 2. **La stratégie** : l'équipe définit la stratégie *open source* (le quoi et le pourquoi) ainsi que sa mise en œuvre (le comment).
 3. **Les ressources** : l'équipe développe et partage des outils et de la documentation sur les logiciels libres, les licences libres, les bonnes pratiques de publication de code source, de développement, de mise en place d'une gouvernance, etc.
 4. **La communauté** : un OSPO répond aux besoins d'une communauté au sein de l'organisation, communauté qui peut rassembler des profils aux compétences variées.  Cette communauté est essentielle à la mise en œuvre de la stratégie *open source* définie par l'OSPO.
