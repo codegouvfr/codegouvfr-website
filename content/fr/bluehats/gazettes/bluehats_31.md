@@ -15,7 +15,7 @@ date: 2024-11-18
 
 <br/>
 
-## 🚀 Au salon Open Source Experience les 4 et 5 décembre
+## 🚀 Open Source Experience les 4 et 5 décembre
 
 La mission logiciels libres animera un « village secteur public » durant les deux jours du [salon OSXP](https://www.opensource-experience.com/ "https://www.opensource-experience.com").
 
@@ -40,15 +40,17 @@ Les ateliers #BlueHats reprennent du service ! Un à voir bientôt et trois à 
 
 ## 👷‍♀️ Focus : écoresponsabilité et logiciels libres
 
+Un sujet qui nous tient à coeur, les liens entre écoresponsabilité et logiciels libres :
+
 - [La route vers le « green code » avec Sonar](https://code.gouv.fr/fr/bluehats/ecocode)
 - [La parole d'expert de la mission interministérielle numérique écoresponsable](https://www.linkedin.com/posts/mission-interministerielle-numerique-ecoresponsable_open-source-et-num%C3%A9rique-responsable-cest-activity-7249376867864969217-lT7Y)
 - [Closing the Gap: Accelerating environmental Open Source](https://opensource.net/closing-the-gap-accelerating-environmental-open-source)
 
 <br/>
 
-## 🤖 À explorer : IA et Open Source
+## 🤖 Focus : Intelligence artificielle et Open Source
 
-Cette période a été marquée par la publication d'une définition officielle de l'IA Open Source.
+Cette période a été marquée par la publication d'une définition officielle de l'IA Open Source, voici quelques ressources pour vous faire une idée :
 
 - [The Open Source Initiative Announces the Release of the Industry’s First Open Source AI Definition](https://opensource.org/blog/the-open-source-initiative-announces-the-release-of-the-industrys-first-open-source-ai-definition), opensource.org, octobre 2024
 - [We finally have an ‘official’ definition for open source AI](https://techcrunch.com/2024/10/28/we-finally-have-an-official-definition-for-open-source-ai/), techcrunch.com, octobre 2024
@@ -58,6 +60,8 @@ Cette période a été marquée par la publication d'une définition officielle 
 - [Open Source AI Definition Erodes the Meaning of “Open Source”](https://sfconservancy.org/blog/2024/oct/31/open-source-ai-definition-osaid-erodes-foss/), sfconservancy.org, octobre 2024
 - [EuroLLM: Pioneering European Open Source AI](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/eurollm-pioneering-european-open-source-ai#main-content), ec.europa.eu, octobre 2024
 - [Comparateur d'ouverture de modèles d'IAG](https://www.peren.gouv.fr/compare-os-iag/), peren.gouv.fr, novembre 2024.
+
+<br/>
 
 ## ✏️ Contributions de l'ESR à l'écosystème du libre
 
