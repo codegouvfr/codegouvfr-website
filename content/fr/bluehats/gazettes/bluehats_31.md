@@ -38,6 +38,21 @@ Les ateliers #BlueHats reprennent du service ! Un à voir bientôt et trois à 
 
 <br/>
 
+## 🔍 Les études de veille du marché logiciels libres
+
+Dans le cadre du [marché d'expertise logiciels libres](https://code.gouv.fr/fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/), la DGFiP publie des [études de veille](https://gitlab.adullact.net/marche-sll/etudes-de-veille). Chaque étude se présente sous la forme d'un document au format bureautique ODT sous licence creative commons Attribution - Partage dans les Mêmes Conditions 2.0 France (CC BY-SA 2.0 FR).
+
+Voici la liste de celles publiées depuis septembre :
+
+- [Gestion de miroirs et de dépôts Linux](https://gitlab.adullact.net/marche-sll/etudes-de-veille#gestion-de-miroirs-et-de-d%C3%A9p%C3%B4ts-linux)
+- [Alternatives à l'ETL Talend](https://gitlab.adullact.net/marche-sll/etudes-de-veille#alternatives-%C3%A0-letl-talend)
+- [Les éditeurs PDF](https://gitlab.adullact.net/marche-sll/etudes-de-veille#les-%C3%A9diteurs-pdf)
+- [Haute disponibilité des bases de données relationnelles](https://gitlab.adullact.net/marche-sll/etudes-de-veille#haute-disponibilit%C3%A9-des-bases-de-donn%C3%A9es-relationnelles)
+- [Fiabilité des dépots logiciels](https://gitlab.adullact.net/marche-sll/etudes-de-veille#fiabilit%C3%A9-des-d%C3%A9pots-logiciels)
+- [Tests automatisés](https://gitlab.adullact.net/marche-sll/etudes-de-veille#tests-automatis%C3%A9s)
+
+<br/>
+
 ## 👷‍♀️ Focus : écoresponsabilité et logiciels libres
 
 Un sujet qui nous tient à coeur, les liens entre écoresponsabilité et logiciels libres :
