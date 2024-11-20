@@ -60,6 +60,7 @@ Un sujet qui nous tient à coeur, les liens entre écoresponsabilité et logicie
 - [La route vers le « green code » avec Sonar](https://code.gouv.fr/fr/bluehats/ecocode)
 - [La parole d'expert de la mission interministérielle numérique écoresponsable](https://www.linkedin.com/posts/mission-interministerielle-numerique-ecoresponsable_open-source-et-num%C3%A9rique-responsable-cest-activity-7249376867864969217-lT7Y)
 - [Closing the Gap: Accelerating environmental Open Source](https://opensource.net/closing-the-gap-accelerating-environmental-open-source)
+- Revoir la vidéo « [Les logiciels libres contre l'obsolescence programmée](https://tube.numerique.gouv.fr/w/wCyvx5RNXQrwBj6J378WTF) » de juin 2022
 
 <br/>
 
