@@ -7,7 +7,7 @@ tags: OSXP
 
 Le salon Open Source Experience se tient **au palais des congrès les 4 et 5 décembre 2024**. N'oubliez pas de vous [inscrire](https://www.opensource-experience.com/creer-mon-badge/?payment_promo_code=E-DINUMOSXP24&utm_source=email&utm_medium=email&utm_campaign=dinum) !
 
-## Ils animeront le « village du secteur public » aux stands A12-A14
+## Retrouvez ces administrations dans le « village du secteur public »
 
 Les 4 et 5 décembre, retrouvez ces organismes publics au « village du
 secteur public » sur les stands A12 et A14 :
@@ -22,11 +22,11 @@ secteur public » sur les stands A12 et A14 :
 - Ministère de l'Éducation nationale ([MENJ](https://www.education.gouv.fr/))
 - Ville de Paris ([OSPO](https://opensource.paris.fr))
 
-## Le 4 décembre : des démos et des présentations #BlueHats 🧢
+## Le 4 décembre : des démos de La Suite et des présentations #BlueHats 🧢
 
 La journée du 4 décembre lors du [salon Open Source Experience](https://www.opensource-experience.com/), les agents publics #BlueHats seront en salle **Ada Lovelace** en mezzanine pour partager leurs expérience d'utilisation ou de développement de logiciels libres dans l'administration.
 
-### 4 décembre de 10h à 12h30 en salle Ada Lovelace
+### 10h à 12h30 en salle Ada Lovelace : démos de *La Suite*
 
 La matinée est consacrée à des **démonstrations** de [La Suite](https://lasuite.numerique.gouv.fr).
 
@@ -42,7 +42,7 @@ La matinée est consacrée à des **démonstrations** de [La Suite](https://lasu
 | OpenDesk & La Suite + Demo OpenTalk               | S. Paccoud               |
 | OpenXchange                                       | TBA                      |
 
-### 4 décembre de 13h30 à 17h en salle Ada Lovelace
+### 13h30 à 17h30 en salle Ada Lovelace : présentations #BlueHats
 
 L'après-midi seront données des **présentations** d'agents publics de plusieurs ministères et opérateurs.
 
