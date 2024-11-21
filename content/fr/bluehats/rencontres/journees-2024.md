@@ -12,7 +12,7 @@ N'oubliez pas de vous [inscrire](https://www.opensource-experience.com/creer-mon
 ## Les administrations à retrouver au « village du secteur public »
 
 Les 4 et 5 décembre, retrouvez ces organismes publics au « village du
-secteur public » sur les stands A12 et A14 :
+secteur public » stands A12-A14 :
 
 - Agence nationale de la sécurité des systèmes d'information ([ANSSI](https://cyber.gouv.fr/))
 - Direction générale des Finances publiques ([DGFiP](https://www.economie.gouv.fr/dgfip), Nubo)
@@ -23,6 +23,8 @@ secteur public » sur les stands A12 et A14 :
 - Ministère de l'enseignement supérieur et de la recherche ([MESR](https://www.enseignementsup-recherche.gouv.fr/fr))
 - Ministère de l'Éducation nationale ([MENJ](https://www.education.gouv.fr/))
 - Ville de Paris ([OSPO](https://opensource.paris.fr))
+
+<br/>
 
 ## 4 décembre : des démos de *La Suite* et des présentations #BlueHats
 
