@@ -1,17 +1,34 @@
 ---
-title: "Présentations de la journée BlueHats 🧢 2024 - Open Source Experience"
+title: "Les journées BlueHats 🧢 au salon Open Source Experience 2024"
 date: 2024-11-22
-description: Programme des présentations pour la journée BlueHats du 4 décembre 2024 lors du salon Open Source Experience
+description: Voici le programme des journées BlueHats des 4 et 5 décembre 2024 au salon Open Source Experience.
 tags: OSXP
 ---
 
-La journée du 4 décembre lors du [salon Open Source Experience](https://www.opensource-experience.com/), les agents publics BlueHats 🧢 seront en salle **Ada Lovelace** en mezzanine pour partager leurs expérience d'utilisation ou de développement de logiciels libres dans l'administration.
+Le salon Open Source Experience se tient **au palais des congrès les 4 et 5 décembre 2024**. N'oubliez pas de vous [inscrire](https://www.opensource-experience.com/creer-mon-badge/?payment_promo_code=E-DINUMOSXP24&utm_source=email&utm_medium=email&utm_campaign=dinum) !
 
-La matinée sera consacrée à des **démonstrations** de [La Suite](https://lasuite.numerique.gouv.fr) et l'après-midi à des présentations d'agents publics de toute l'administration.
+## Ils animeront le « village du secteur public » aux stands A12-A14
 
-Retrouvez-nous au « Village du secteur public » sur les stands A12 et A14 et [inscrivez-vous](https://www.opensource-experience.com/creer-mon-badge/?payment_promo_code=E-DINUMOSXP24&utm_source=email&utm_medium=email&utm_campaign=dinum) !
+Les 4 et 5 décembre, retrouvez ces organismes publics au « village du
+secteur public » sur les stands A12 et A14 :
 
-## 4 décembre de 10h à 12h30
+- Agence nationale de la sécurité des systèmes d'information ([ANSSI](https://cyber.gouv.fr/))
+- Direction générale des Finances publiques ([DGFiP](https://www.economie.gouv.fr/dgfip), Nubo)
+- Direction interministérielle du numérique ([DINUM](https://www.numerique.gouv.fr/), La Suite, code.gouv.fr)
+- France Travail ([francetravail.io](https://francetravail.io/))
+- Institut national de l'information géographique et forestière ([IGN](https://www.ign.fr/))
+- Ministère de l'Intérieur ([MI](https://www.interieur.gouv.fr), Cloud PI)
+- Ministère de l'enseignement supérieur et de la recherche ([MESR](https://www.enseignementsup-recherche.gouv.fr/fr))
+- Ministère de l'Éducation nationale ([MENJ](https://www.education.gouv.fr/))
+- Ville de Paris ([OSPO](https://opensource.paris.fr))
+
+## Le 4 décembre : des démos et des présentations #BlueHats 🧢
+
+La journée du 4 décembre lors du [salon Open Source Experience](https://www.opensource-experience.com/), les agents publics #BlueHats seront en salle **Ada Lovelace** en mezzanine pour partager leurs expérience d'utilisation ou de développement de logiciels libres dans l'administration.
+
+### 4 décembre de 10h à 12h30 en salle Ada Lovelace
+
+La matinée est consacrée à des **démonstrations** de [La Suite](https://lasuite.numerique.gouv.fr).
 
 | Présentation / démo                               | Intervenant·e·s          |
 |---------------------------------------------------|--------------------------|
@@ -25,7 +42,9 @@ Retrouvez-nous au « Village du secteur public » sur les stands A12 et A14 et [
 | OpenDesk & La Suite + Demo OpenTalk               | S. Paccoud               |
 | OpenXchange                                       | TBA                      |
 
-## 4 décembre de 13h30 à 17h
+### 4 décembre de 13h30 à 17h en salle Ada Lovelace
+
+L'après-midi seront données des **présentations** d'agents publics de plusieurs ministères et opérateurs.
 
 | Horaire     | Présentation                                                                                          | Intervenant·e·s                                                                                                           |
 |-------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -37,5 +56,6 @@ Retrouvez-nous au « Village du secteur public » sur les stands A12 et A14 et [
 | 15h40-16h   | Usage de la chaîne éditoriale scenari pour produire un document académique                            | J.-S. Barboteu - [Académie de Versailles](https://www.ac-versailles.fr/)                                                  |
 | 16h20-17h   | iTowns / Panoramax / cartes.gouv.fr / Géoplateforme / Cartes IGN (mobile)                             | TBA - [IGN](https://www.ign.fr/)                                                                                          |
 | 17h-17h20   | Les nouveautés de code.gouv.fr                                                                        | B. Guerry - [code.gouv.fr](https://code.gouv.fr/fr/) (DINUM)                                                              |
+
 
 
