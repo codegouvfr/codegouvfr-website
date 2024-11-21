@@ -34,17 +34,13 @@ La journée du 4 décembre lors du [salon Open Source Experience](https://www.op
 
 La matinée est consacrée à des **démonstrations** de [La Suite](https://lasuite.numerique.gouv.fr) en salle Ada Lovelace (mezzanine).
 
-| Présentation / démo                               | Intervenant·e·s          |
-|---------------------------------------------------|--------------------------|
-| Et vous, ça Tchap ?                               | R. Allouche              |
-| Grist: the spreadsheet that goes beyond the grid! | V. Viers & A. Conception |
-| Visio                                             | A. Robin                 |
-| ProConnect                                        | A. Robin                 |
-| Docs                                              | V. Deville               |
-| Démarches simplifiées                             | P. Vrignaud              |
-| L'accessibilité dans La Suite                     | E. Pelletier             |
-| OpenDesk & La Suite + Demo OpenTalk               | S. Paccoud               |
-| OpenXchange                                       | TBA                      |
+| Présentation / démo                                                                                | Intervenant·e·s              |
+|----------------------------------------------------------------------------------------------------|------------------------------|
+| Et vous, ça Tchap ?                                                                                | R. Allouche                  |
+| Grist: the spreadsheet that goes beyond the grid!                                                  | V. Viers & A. Conception     |
+| Docs : la prise de notes collaborative qui vous aide à rester concentré sur l'essentiel            | V. Deville                   |
+| Démarches Simplifiées : un commun numérique au service de la dématérialisation des démarches       | P. Vrignaud                  |
+| OpenDesk & La Suite : how 2 countries contribute to the same digital common for collaborative work | S. Paccoud et A. Smolianiski |
 
 ### 4/12 de 13h30 à 17h30 : présentations #BlueHats
 
