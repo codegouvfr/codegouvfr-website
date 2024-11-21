@@ -50,7 +50,7 @@ L'après-midi seront données des **présentations** d'agents publics de plusieu
 
 | Horaire     | Présentation                                                                                        | Intervenant·e·s                                                                                                           |
 |-------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| 13h40-14h   | OpenNebula: un hyperviseur alternatif libre, 10 années d'usage au PCLL                              | G. Grandgerard - [PCLL](https://pcll.ac-dijon.fr/pcll/) (MENJS)                                                           |
+| 13h40-14h   | OpenNebula: un hyperviseur alternatif libre, 10 années d'usage au PCLL                              | G. Grandgérard, D. Dehennin - [PCLL](https://pcll.ac-dijon.fr/pcll/) (MENJS)                                              |
 | 14h-14h20   | De TradEmploi vers TradOpen                                                                         | A. Kourlaiev, E. Disdero, S. Chaize - [France Travail](https://francetravail.io/)                                         |
 | 14h20-14h40 | Grist, votre compagnon open-source pour la donnée et pour réaliser des apps en low-code             | F. Fayolle ([ANCT](https://incubateur.anct.gouv.fr/)) et V. Viers ([DINUM](https://www.numerique.gouv.fr))                |
 | 15h-15h20   | Des logiciels libres utiles à tous conçus dans la forge des communs numériques de apps.education.fr | A. Kauffmann, B. Piedallu - [DNE](https://www.education.gouv.fr/direction-du-numerique-pour-l-education-dne-9983) (MENJS) |
