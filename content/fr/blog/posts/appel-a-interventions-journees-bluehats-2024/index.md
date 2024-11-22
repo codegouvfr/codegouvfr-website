@@ -9,6 +9,8 @@ image:
 tags: bluehats
 ---
 
+*L'appel est clos depuis le 15 novembre, vous pouvez consulter [le programme de ces journées BlueHats](/fr/bluehats/journee-2024/) !*
+
 ## La DINUM rassemble les BlueHats 🧢
 
 Pour la sixième année, la DINUM participe au salon [Open Source
