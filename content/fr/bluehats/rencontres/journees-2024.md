@@ -41,10 +41,8 @@ La matinée est consacrée à des **démonstrations** de [La Suite](https://lasu
 | Docs : la prise de notes collaborative qui vous aide à rester concentré sur l'essentiel            | V. Deville                   |
 | Démarches Simplifiées : un commun numérique au service de la dématérialisation des démarches       | P. Vrignaud                  |
 | OpenDesk & La Suite : how 2 countries contribute to the same digital common for collaborative work | S. Paccoud et A. Smolianiski |
-
-
-<!-- | Building the Next-Gen Visio: How LiveKit and AI Transform Collaboration                            |                              | -->
-<!-- | ProConnect: Redefining Government Interoperability with SSO                                        |                              | -->
+| Building the Next-Gen Visio: How LiveKit and AI Transform Collaboration                            | A. Robin                     |
+| ProConnect: Redefining Government Interoperability with SSO                                        | A. Robin                     |
 
 ### 4/12 de 13h30 à 17h30 : présentations #BlueHats
 
