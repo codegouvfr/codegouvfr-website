@@ -37,7 +37,7 @@ La matinée est consacrée à des **démonstrations** de [La Suite](https://lasu
 | Présentation / démo                                                                                | Intervenant·e·s              |
 |----------------------------------------------------------------------------------------------------|------------------------------|
 | Et vous, ça Tchap ?                                                                                | R. Allouche                  |
-| Grist: the spreadsheet that goes beyond the grid!                                                  | V. Viers, A. Conception     |
+| Grist: the spreadsheet that goes beyond the grid!                                                  | V. Viers et A. Conception    |
 | Docs : la prise de notes collaborative qui vous aide à rester concentré sur l'essentiel            | V. Deville                   |
 | Démarches Simplifiées : un commun numérique au service de la dématérialisation des démarches       | P. Vrignaud                  |
 | OpenDesk & La Suite : how 2 countries contribute to the same digital common for collaborative work | S. Paccoud et A. Smolianiski |
@@ -50,16 +50,16 @@ La matinée est consacrée à des **démonstrations** de [La Suite](https://lasu
 
 L'après-midi seront données des **présentations** d'agents publics de plusieurs ministères et opérateurs.
 
-| Horaire     | Présentation                                                                                        | Intervenant·e·s                                                                                                           |
-|-------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| 13h40-14h   | OpenNebula: un hyperviseur alternatif libre, 10 années d'usage au PCLL                              | G. Grandgérard, D. Dehennin - [PCLL](https://pcll.ac-dijon.fr/pcll/) (MENJS)                                              |
-| 14h-14h20   | De TradEmploi vers TradOpen                                                                         | A. Kourlaiev, E. Disdero, S. Chaize - [France Travail](https://francetravail.io/)                                         |
-| 14h20-14h40 | Grist, votre compagnon open-source pour la donnée et pour réaliser des apps en low-code             | F. Fayolle ([ANCT](https://incubateur.anct.gouv.fr/)), R. Serdoun et V. Viers ([DINUM](https://www.numerique.gouv.fr))    |
-| 15h-15h20   | Des logiciels libres utiles à tous conçus dans la forge des communs numériques de apps.education.fr | A. Kauffmann, B. Piedallu - [DNE](https://www.education.gouv.fr/direction-du-numerique-pour-l-education-dne-9983) (MENJS) |
-| 15h20-15h40 | De Lutece à CiteLibre, l'engagement de la Ville de Paris continue                                   | P. Bareille - [OSPO de la Ville de Paris](https://opensource.paris.fr/)                                                   |
-| 15h40-16h   | Usage de la chaîne éditoriale scenari pour produire un document académique                          | J.-S. Barboteu - [DRANE IDF, site de Versailles](https://drane-versailles.region-academique-idf.fr)                       |
-| 16h20-17h   | iTowns / Panoramax / cartes.gouv.fr / Géoplateforme / Cartes IGN (mobile)                           | TBA - [IGN](https://www.ign.fr/)                                                                                          |
-| 17h-17h20   | Les nouveautés de code.gouv.fr                                                                      | B. Guerry - [code.gouv.fr](https://code.gouv.fr/fr/) (DINUM)                                                              |
+| Horaire     | Présentation                                                                                        | Intervenant·e·s                                                                                                             |
+|-------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 13h40-14h   | OpenNebula: un hyperviseur alternatif libre, 10 années d'usage au PCLL                              | G. Grandgérard et D. Dehennin - [PCLL](https://pcll.ac-dijon.fr/pcll/) (MENJS)                                              |
+| 14h-14h20   | De TradEmploi vers TradOpen                                                                         | A. Kourlaiev, E. Disdero et S. Chaize - [France Travail](https://francetravail.io/)                                         |
+| 14h20-14h40 | Grist, votre compagnon open-source pour la donnée et pour réaliser des apps en low-code             | F. Fayolle ([ANCT](https://incubateur.anct.gouv.fr/)), R. Serdoun et V. Viers ([DINUM](https://www.numerique.gouv.fr))      |
+| 15h-15h20   | Des logiciels libres utiles à tous conçus dans la forge des communs numériques de apps.education.fr | A. Kauffmann et B. Piedallu - [DNE](https://www.education.gouv.fr/direction-du-numerique-pour-l-education-dne-9983) (MENJS) |
+| 15h20-15h40 | De Lutece à CiteLibre, l'engagement de la Ville de Paris continue                                   | P. Bareille - [OSPO de la Ville de Paris](https://opensource.paris.fr/)                                                     |
+| 15h40-16h   | Usage de la chaîne éditoriale scenari pour produire un document académique                          | J.-S. Barboteu - [DRANE IDF, site de Versailles](https://drane-versailles.region-academique-idf.fr)                         |
+| 16h20-17h   | iTowns / Panoramax / cartes.gouv.fr / Géoplateforme / Cartes IGN (mobile)                           | *TBA* - [IGN](https://www.ign.fr/)                                                                                          |
+| 17h-17h20   | Les nouveautés de code.gouv.fr                                                                      | B. Guerry - [code.gouv.fr](https://code.gouv.fr/fr/) (DINUM)                                                                |
 
 
 
