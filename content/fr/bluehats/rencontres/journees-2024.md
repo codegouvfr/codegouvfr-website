@@ -12,6 +12,8 @@ Le salon Open Source Experience se tient au palais des congrès les 4 et 5 déce
 
 N'oubliez pas de vous [inscrire](https://www.opensource-experience.com/creer-mon-badge/?payment_promo_code=E-DINUMOSXP24&utm_source=email&utm_medium=email&utm_campaign=dinum) !
 
+{% imageContent "./bluehats-osx-2024.png", "Rendez-vous au salon Open Source Experience pour retrouver les BlueHats !" %}
+
 ## Les administrations à retrouver au « village du secteur public »
 
 Les 4 et 5 décembre, retrouvez ces organismes publics au « village du
