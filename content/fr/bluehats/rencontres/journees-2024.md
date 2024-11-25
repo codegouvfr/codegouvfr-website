@@ -2,6 +2,9 @@
 title: "Journées BlueHats au salon Open Source Experience 2024"
 date: 2024-11-22
 description: Voici le programme des journées BlueHats des 4 et 5 décembre 2024 au salon Open Source Experience.
+image:
+  path: ./bluehats-osx-2024.png
+  alt: "Rendez-vous au salon Open Source Experience pour retrouver les BlueHats !"
 tags: OSXP
 ---
 
