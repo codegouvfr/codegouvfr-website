@@ -30,7 +30,7 @@ Depuis un an, les développements se poursuivent avec un objectif principal : *
 
 Techniquement, nous avons rassemblé tous les développements sur un seul dépôt de code (nous sommes passés en « monorepo »), nous avons implémenté le stockage des données avec PostgreSQL plutôt que dans un dépôt Git privé (une option toujours disponible) et nous avons rendu plus facile le déploiement de l'application (même si des efforts côté documentation nous attendent encore.)
   
-Nous vous invitons à suivre les développements via [notre dépôt Git](https://github.com/codegouvfr/sill).
+Nous vous invitons à suivre les développements via [notre dépôt Git](https://github.com/codegouvfr/sill) et à y contribuer : c'est un logiciel libre !
   
 {% imageContent "./sill-github.png", "Capture d'écran du dépôt GitHub de l'application web du SILL", [1000] %}
 
