@@ -14,7 +14,7 @@ Le socle interministériel de logiciels libres, c'est le catalogue de référenc
 
 Au début, c'était une liste qui orientait dans la jungle du libre : il fallait aider les ministères à choisir, MySQL vs PostgreSQL, Drupal vs Wordpress, etc. Au fur et à mesure que les usages se sont développés, cette approche devint contre-productive : des administrations, ne voyant pas certains logiciels libres dans le catalogue, en concluaient à tort qu'ils n'étaient pas autorisés.  
 
-{% imageContent "./sill-2019-tableur.png", "Pour les nostalgiques : une capture d'écran du SILL 2019, encore géré sous forme de tableur via la collaboration des groupes MIM", [1000] %}
+{% imageContent "./sill-2019-tableur.png", "Pour les nostalgiques : une capture d'écran du SILL 2019, encore géré sous forme de tableur via la collaboration des groupes Mutualisation Inter Ministériels (MIM)", [1000] %}
 
 En 2019, en même temps que nous avons élargi les publics du SILL aux collectivités territoriales et à la fonction hospitalière, nous avons voulu en faire **un radar des usages effectifs des logiciels libres dans l'administration**, qu'ils soient déployés par les DSI ou installés par les agents eux-mêmes.
 
