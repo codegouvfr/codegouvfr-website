@@ -68,6 +68,6 @@ Vous pouvez notamment explorer l'[API principale](https://ecosystem.code.gouv.fr
 
 {% imageContent "./code-gouv-fr-stats-112024.png", "Quelques statistiques pour se faire une idée", [1000] %}
 
-*Last but not least*, nous avons rendu les [statistiques un peu plus parlantes](https://code.gouv.fr/sources/#/stats)... bien sûr, vous en voudrez d'autres : toutes les données présentées via l'interface web sont publiées dans ce [jeu de données data.gouv.fr](https://www.data.gouv.fr/fr/datasets/inventaire-des-codes-sources-de-logiciels-publies-par-des-organismes-publics/).
+*Last but not least*, nous avons rendu les [statistiques un peu plus parlantes](https://code.gouv.fr/sources/#/stats) : si vous en voulez d'autres, toutes les données présentées via l'interface web sont publiées dans ce [jeu de données data.gouv.fr](https://www.data.gouv.fr/fr/datasets/inventaire-des-codes-sources-de-logiciels-publies-par-des-organismes-publics/).
 
-Pour nous remonter des problèmes ou des suggestions, vous pouvez envoyer un mail à [cette liste de discussion](https://lists.sr.ht/~codegouvfr/dev) ou à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
+Pour nous remonter des problèmes ou des suggestions, publiez un mail via [cette liste de discussion](https://lists.sr.ht/~codegouvfr/dev) ou écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
