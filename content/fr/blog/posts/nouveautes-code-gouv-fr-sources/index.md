@@ -1,7 +1,7 @@
 ---
 title: "Quoi de neuf sur l'inventaire des codes sources ?"
 description: "Une interface plus efficace, des données plus complètes"
-date: 2024-11-30
+date: 2024-11-29
 image:
   path: ./code-gouv-fr-home-112024.png
   alt: "Capture d'écran de l'inventaire des codes sources effectuée le 30 novembre 2024."
