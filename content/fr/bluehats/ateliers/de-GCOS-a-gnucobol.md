@@ -2,11 +2,13 @@
 title: Migration de l’application COBOL MedocDB de GCOS à GnuCOBOL sur GNU/Linux
 date: 2024-11-29
 description: Intervention d'Olivier Blanc (DGFiP) et Fabrice Le Fessant (OCamlPro)
+video:
+  src: https://tube.numerique.gouv.fr/videos/embed/fa220861-359b-4877-9ca7-4f2557bf2e1d
+  title: "Atelier BlueHats : Migration de l’application COBOL MedocDB de GCOS à GnuCOBOL sur GNU/Linux"
 ---
+
 - Date : 29 novembre 2024
-- Heure : De 11h à 12h30
 - Intervenants : Olivier Blanc (DGFiP) et Fabrice Le Fessant (OCamlPro)
-- Visio : [Salon BlueHats](https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf)
 
 <br/>
 
