@@ -28,10 +28,7 @@ Pour connaître les nouveaux logiciels libres recommandés pour et développés 
 
 <br/>
 
-Pour suivre les dépôts de codes sources de la mission logiciels libres :
-
-- Suivre [les dépôts code.gouv.fr sur SourceHut](https://sr.ht/~codegouvfr/code.gouv.fr/feed)
-- Suivre [les autres code.gouv.fr sur GitHub](https://github.com/codegouvfr/)
+Vous pouvez suivre les dépôts de codes sources de la mission logiciels libres via [notre compte GitHub](https://github.com/codegouvfr/).
 
 <br/>
 
