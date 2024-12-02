@@ -81,7 +81,7 @@ Cette période a été marquée par la publication d'une définition officielle 
 
 ## ✏️ Contributions de l'ESR à l'écosystème du libre
 
-Si vous travaillez dans l'enseignement supérieur et la recherche, ne manquez pas l'occasion de participer à une enquête sur les [contributions à l'écosystème des logiciels "Open Source" dans l'Enseignement Supérieur et la Recherche ](https://gricad-limesurvey.univ-grenoble-alpes.fr/index.php/943547?lang=fr).
+Si vous travaillez dans l'enseignement supérieur et la recherche, ne manquez pas l'occasion de participer à une enquête sur les [contributions à l'écosystème des logiciels "Open Source" dans l'Enseignement Supérieur et la Recherche ](https://gricad-limesurvey.univ-grenoble-alpes.fr/index.php/943547?lang=fr).  Voir [cet article du Comité pour la science ouverte](https://www.ouvrirlascience.fr/lancement-de-lenquete-sur-les-contributions-de-lenseignement-superieur-et-la-recherche-a-lecosysteme-des-logiciels-open-source/) pour les objectifs et le contexte.
 
 <br/>
 
