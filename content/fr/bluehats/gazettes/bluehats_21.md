@@ -9,7 +9,7 @@ La mission logiciels libres rassemble désormais ses publications sur le site [c
 
 Nous en avons aussi profité pour créer deux espaces : l'un consacré aux projets libres que la mission maintient, seule ou avec d'autres administrations (voir [code.gouv.fr/devs/](/fr/devs/) et l'autre consacré à toute notre documentation (voir [code.gouv.fr/doc/](/fr/doc/).
 
-Si vous êtes développeurs, les deux espaces de référence pour suivre nos travaux sont nos comptes [SourceHut](https://sr.ht/~codegouvfr/) et [GitHub](https://github.com/codegouvfr/).
+Si vous êtes développeur, l'espace de référence pour suivre nos travaux est le compte [GitHub](https://github.com/codegouvfr/).
 
 Notre adresse de contact a changé aussi, vous pouvez nous joindre pour toute question à `contact@code.gouv.fr`.
 
