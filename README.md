@@ -14,9 +14,9 @@ Il a été construit à partir de [ce site modèle](https://github.com/codegouvf
 
 Vous devrez utiliser `nodejs` >= 20.
 
-- Installer les dépendances : `npm install`
-- Publier le site : `npm run build`
-- Publier et rendre le site disponible localement : `npm start`
+- Pour installer les dépendances : `npm install`
+- Pour publier le site : `npm run build`
+- Pour publier et rendre le site disponible localement : `npm start`
 
 ## Déploiement
 
