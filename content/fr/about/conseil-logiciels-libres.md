@@ -79,8 +79,8 @@ pour approbation publique à la DINUM.
   l'intensification des efforts en faveur de cet écosystème ouvert,
   souverain et innovant, en totale cohérence avec les valeurs et
   priorités stratégiques de l’Union européenne. » Avis soutenu par la
-  majorité des membres du conseil « écosystème » et **soumis pour
-  approbation à la DINUM**.
+  majorité des membres du conseil « écosystème » et **soumis par la
+  DINUM**.
 
 ## Publications des avis
 
