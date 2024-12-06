@@ -11,9 +11,6 @@ Cette personne sera notamment en charge d'aider les projets publics qui le souha
 
 Retrouvez la [description complète du poste](/fr/mission/recrutement-communautes-contributions/) et n'hésitez pas à envoyer vos CV et lettres de motivation à candidatures-DINUM@pm.gouv.fr.
 
-`>>` Aidez-nous à [relayer l'annonce de @codegouvfr](https://twitter.com/codegouvfr/status/1473212075883352064)
-
-
 ## Annonces
 
 
@@ -28,8 +25,6 @@ Il est porté par la direction interministérielle du numérique et piloté par 
 Le site du plan d'action : [communs.numerique.gouv.fr](/fr/)
 
 Ce lancement s'accompagne d'une refonte du portail [code.gouv.fr](/fr/), autrefois accessible via `code.etalab.gouv.fr`, qui liste les codes sources publiés dans le secteur public.
-
-Pour suivre les annonces liées au plan d'action : [codegouvfr](https://twitter.com/codegouvfr)
 
 `>>` Lire [le communiqué de presse (PDF)](https://www.transformation.gouv.fr/files/presse/Discours_a_de_montchalin_plan_action_gouvernement_logiciels_libres_communs_numeriques_administration.pdf)
 
@@ -46,9 +41,6 @@ Dans le cadre de ce programme, un partenariat a été signé entre la DINUM et l
 
 Ce programme est ouvert : si vous travaillez dans une formation universitaire ou une école publique proposant des stages pour des contributions à des logiciels libres, n'hésitez pas à nous écrire !
 
-`>>` Retrouvez [l'annonce via @codegouvfr](https://twitter.com/codegouvfr/status/1471448756931514373)
-
-
 ### Les licences EUPL et EPL sont désormais utilisables par les administrations
 
 La liste des licences libres autorisées pour les publications de codes sources du secteur public inclut désormais les licences *European Union Public Licence* et *Eclipse Public License*, deux licences libres à réciprocité faible.
@@ -60,15 +52,9 @@ La liste des licences libres autorisées pour les publications de codes sources 
 
 Un atelier #BlueHats aura lieu [le 25 février à 11h](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#25-f%C3%A9vrier--pr%C3%A9sentation-de-la-licence-european-union-public-licence) pour présenter la licence EUPL, ce sera l'occasion de venir poser vos questions !
 
-`>>` Retrouvez [l'annonce via @codegouvfr](https://twitter.com/codegouvfr/status/1467759081817616395)
-
-
 ### Ouverture des codes sources de FranceConnect+
 
 FranceConnect+ est la nouvelle solution proposée par l’État, plus sécurisée, pour accéder à des services en ligne sensibles.  Comme elle s'y était engagée, l'équipe a publié [ses codes sources](https://github.com/france-connect/sources).
-
-`>>` Retrouvez [l'annonce via @codegouvfr](https://twitter.com/codegouvfr/status/1465213941957607426)
-
 
 ### Les nouveautés du socle interministériel de logiciels libres
 
