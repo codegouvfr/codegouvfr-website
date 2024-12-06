@@ -12,7 +12,7 @@ Le 8 novembre 2022, les BlueHats se sont retrouvés lors du salon Open Source Ex
 
 ## Revoir les deux derniers ateliers BlueHats
 
-Le 9 décembre a eu lieu [un atelier sur @codegouvfr/react-dsfr](/fr/bluehats/react-dsfr/).  Cette bibliothèque, publiée par la mission logiciels libres, facilite l'adoption du système de design de l'État et vient d'être annoncée publiquement sur [Mastodon](https://mastodon.social/@CodeGouvFr/109552721184450656) et [Twitter](https://twitter.com/codegouvfr/status/1605607912117772304).
+Le 9 décembre a eu lieu [un atelier sur @codegouvfr/react-dsfr](/fr/bluehats/react-dsfr/).  Cette bibliothèque, publiée par la mission logiciels libres, facilite l'adoption du système de design de l'État et vient d'être annoncée publiquement sur [Mastodon](https://mastodon.social/@CodeGouvFr/109552721184450656).
 
 Le 28 octobre a eu lieu [un atelier BlueHats sur Trunk Data Platform](/fr/bluehats/tdp/).  La construction de cette distribution libre d'Hadoop a pour objectif d’assurer l’autonomie et la souveraineté dans le domaine du Big Data et de réaliser des économies considérables par rapport aux solutions existantes.
 

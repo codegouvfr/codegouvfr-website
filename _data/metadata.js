@@ -15,7 +15,6 @@ module.exports = {
     ],
     facebook_url: "",
     mastodon_url: "https://social.numerique.gouv.fr/@CodeGouvFr",
-    twitter_url: "https://twitter.com/codegouvfr",
     instagram_url: "",
     linkedin_url: "",
     youtube_url: "",
