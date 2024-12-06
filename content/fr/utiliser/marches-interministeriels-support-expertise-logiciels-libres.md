@@ -29,7 +29,7 @@ Ces activités sont menées en échange constant avec les communautés des logic
 
 ## Le marché support
 
-Depuis octobre 2024, Linagora est titulaire du marché interministériel de support à l’usage des logiciels libres. D’une durée de 12 mois reconductible 3 fois, le marché devrait donc se terminer en septembre 2024.
+Depuis octobre 2024, Linagora est titulaire du marché interministériel de support à l’usage des logiciels libres. D’une durée de 12 mois reconductible 3 fois, le marché devrait donc se terminer en septembre 2028.
 
 L’objet de ce marché est de procurer aux entités bénéficiaires sur un mode forfaitaire, des prestations d’assistance en matière de logiciels libres recouvrant :
 
