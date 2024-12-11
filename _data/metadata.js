@@ -1,16 +1,11 @@
 module.exports = {
     title: "Mission logiciels libres et communs numériques",
-    url: "https://code.gouv.fr/",
+    url: "https://code.gouv.fr",
     newsletter: [
         {
-            url: "https://code.gouv.fr/newsletters/subscribe/bluehats@mail.codegouv.fr",
+            url: "https://code.gouv.fr/newsletters",
             title: "Gazette BlueHats",
             description: "Votre lettre d'information sur les logiciels libres par et pour les administrations."
-        },
-        {
-            url: "https://code.gouv.fr/newsletters/subscribe/logiciels-libres-dsi@mail.codegouv.fr",
-            title: "Gazette DSI Libre",
-            description: "Lettre d'information sur les logiciels libres pour les DSI du secteur public."
         }
     ],
     facebook_url: "",
