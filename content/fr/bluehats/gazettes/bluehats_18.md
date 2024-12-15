@@ -40,7 +40,7 @@ Trois nouveautés pour [code.gouv.fr](https://code.gouv.fr/sources/) :
 - La page consacrée au [socle interministériel de logiciels libres](https://code.gouv.fr/sources/#/sill) permet, lorsqu'on clique sur le lien "Prestataires", d'afficher la liste de ceux identifiés par l'[ADULLACT et](https://adullact.org) et par le [CNLL](https://cnll.fr/), deux acteurs de l'écosystème membres du [conseil logiciels libres](/fr/mission/conseil-logiciels-libres/) animé par le pôle logiciels libres.
 - `code.gouv.fr` propose enfin un nouvel onglet [Versions taguées](https://code.gouv.fr/sources/#/tags) pour suivre les mises à jour de certains dépôts : ceux qui ont un fichier `publiccode.yml`, un `CONTRIBUTING.md` ou ceux à partir desquels sont publiées des [bibliothèques](https://code.gouv.fr/sources/#/libs).
 
-Vos retours sur `code.gouv.fr` sont toujours les bienvenus par mail [privé](contact@code.gouv.fr) ou [public](https://lists.sr.ht/~codegouvfr/dev).
+Vos retours sur `code.gouv.fr` sont toujours les bienvenus par mail [privé](contact@code.gouv.fr) ou [via nos dépôts de code](https://github.com/codegouvfr/).
 
 ## Arrivée d'Hélène Jonin au pôle logiciels libres
 

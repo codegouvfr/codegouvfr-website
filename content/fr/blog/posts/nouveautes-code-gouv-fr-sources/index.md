@@ -44,7 +44,7 @@ Le standard [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) pe
 
 L'inventaire des codes sources contient désormais plus de 20000 dépôts : c'est beaucoup ! Comment les classer ? Le classement précédent par réutilisations n'était pas satisfaisant, car il s'appuyait sur des données qui disponibles seulement quand le projet était hébergé sur GitHub. Nous classons désormais les projets grâce à un score.
 
-Comment est calculé le score ?  En fonction de l'existence d'une licence identifiée, de savoir si le dépôt est un modèle (« template »), s'il a un fichier `publiccode.yml`, un fichier `README`, un fichier `CONTRIBUTING.md`, etc.  En bref : si l'ensemble des pratiques identifiables via ces tests permet de le rapprocher d'un projet qui pourrait intégrer la liste Awesome code.gouv.fr. Vous trouverez le calcul exact du score dans [ce fichier de code](https://git.sr.ht/~codegouvfr/codegouvfr-cli/tree/main/item/src/codegouvfr-output-data.clj) : n'hésitez pas à critiquer nos critères et à proposer des améliorations.
+Comment est calculé le score ?  En fonction de l'existence d'une licence identifiée, de savoir si le dépôt est un modèle (« template »), s'il a un fichier `publiccode.yml`, un fichier `README`, un fichier `CONTRIBUTING.md`, etc.  En bref : si l'ensemble des pratiques identifiables via ces tests permet de le rapprocher d'un projet qui pourrait intégrer la liste Awesome code.gouv.fr. Vous trouverez le calcul exact du score dans [ce fichier de code](https://github.com/codegouvfr/codegouvfr-cli/blob/main/src/codegouvfr-output-data.clj) : n'hésitez pas à critiquer nos critères et à proposer des améliorations.
 
 En plus de l'introduction de ce score, nous avons rendu la recherche plus fiable et ajouté une page dédiée pour chaque dépôt, chaque organisation, chaque projet Awesome.
 
@@ -70,4 +70,4 @@ Vous pouvez notamment explorer l'[API principale](https://ecosystem.code.gouv.fr
 
 *Last but not least*, nous avons rendu les [statistiques un peu plus parlantes](https://code.gouv.fr/sources/#/stats) : si vous en voulez d'autres, toutes les données présentées via l'interface web sont publiées dans ce [jeu de données data.gouv.fr](https://www.data.gouv.fr/fr/datasets/inventaire-des-codes-sources-de-logiciels-publies-par-des-organismes-publics/).
 
-Pour nous remonter des problèmes ou des suggestions, publiez un mail via [cette liste de discussion](https://lists.sr.ht/~codegouvfr/dev) ou écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
+Pour nous remonter des problèmes ou des suggestions, écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).

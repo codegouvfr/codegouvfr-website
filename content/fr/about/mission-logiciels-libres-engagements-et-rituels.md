@@ -36,11 +36,7 @@ Nous engagements vis-à-vis des ces interlocuteurs sont :
 - Documenter ce que nous faisons
 - Encourager et traiter les contributions
 
-Nous répondons à tous les emails reçus :
-
-- sur `contact@code.gouv.fr`
-- sur [~codegouvfr/logiciels-libres@lists.sr.ht](https://lists.sr.ht/~codegouvfr/logiciels-libres)
-- sur [~codegouvfr/dev@lists.sr.ht](~codegouvfr/dev@lists.sr.ht)
+Nous répondons à tous les emails envoyés à `contact@code.gouv.fr`.
 
 Nous ne répondons pas systématiquement aux sollicitations sur les réseaux sociaux.
 

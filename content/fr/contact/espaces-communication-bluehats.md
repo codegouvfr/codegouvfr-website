@@ -22,6 +22,6 @@ La [liste de discussion privée](https://groupes.renater.fr/sympa/info/bluehats)
 
 ## Espaces publics ouverts à toutes et tous
 
-- La [liste de discussion publique](https://lists.sr.ht/~codegouvfr/bluehats): chacun est libre de s'y abonner en écrivant à `~codegouvfr/bluehats+subscribe@lists.sr.ht` et d'y envoyer des courriels *en texte brut* à `~codegouvfr/bluehats@lists.sr.ht`. **Attention :** quand vous écrivez à la liste, celle-ci ne vous envoie pas de copie de vos propres mails.
+- La [liste de discussion publique](https://lists.sr.ht/~bluehats/fr): chacun est libre de s'y abonner en écrivant à `~bluehats/fr+subscribe@lists.sr.ht` et d'y envoyer des courriels à `~bluehats/fr@lists.sr.ht`. **Attention :** quand vous écrivez à la liste, celle-ci ne vous envoie pas de copie de vos propres mails.
 - Le canal public IRC `#bluehats` du serveur `irc.libera.chat`: vous pouvez [vous connecter via une interface web](https://web.libera.chat/#bluehats).
 

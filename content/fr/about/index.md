@@ -93,16 +93,10 @@ Les BlueHats sont toutes les personnes qui souhaitent montrer qu'elles contribue
 
 ## Les logiciels libres auxquels la mission contribue
 
-Les membres de la mission logiciels libres contribuent à des logiciels libres :
-
-- [git.sr.ht/~bzg/subscribe](https://git.sr.ht/~bzg/subscribe/)
-- [git.sr.ht/~bzg/choices](https://git.sr.ht/~bzg/choices)
-- [git.savannah.gnu.org/cgit/emacs/org-mode.git](https://git.savannah.gnu.org/cgit/emacs/org-mode.git/)
-
-<br/>
-
 Contributions passées :
 
+- [github.com/bzg/subscribe](https://github.com/bzg/subscribe/)
+- [github.com/bzg/choices](https://github.com/bzg/choices)
 - [github.com/hjonin/todoist-to-joplin](https://github.com/hjonin/todoist-to-joplin)
 - [github.com/hjonin/todoist-to-md](https://github.com/hjonin/todoist-to-md)
 - [github.com/InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web)
@@ -132,4 +126,4 @@ Contributions passées :
 
 ## La politique de contribution aux logiciels libres de l'Etat (2018-2021)
 
-Cette politique de contribution est en cours de remplacement par les [guides](/fr/doc/) de la mission logiciels libres mais elle est toujours valable et vous pouvez [la consulter](https://man.sr.ht/~codegouvfr/logiciels-libres/archives/pocos/index.md).
+Cette politique de contribution est en cours de remplacement par les [guides](/fr/doc/) de la mission logiciels libres.
