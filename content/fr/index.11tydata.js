@@ -27,7 +27,7 @@ module.exports = {
         {
             title: "Vous êtes une mission de service public et souhaitez référencer vos dépôts de code source ?",
             content: `
-<p>Pour ajouter une forge, un compte d'organisation GitHub ou un groupe GitLab, écrivez à <a href="mailto:contact@code.gouv.fr">contact@code.gouv.fr</a> ou envoyez un correctif sur <a href="https://git.sr.ht/~codegouvfr/codegouvfr-sources/tree/main/item/comptes-organismes-publics.yml" target="_blank">ce dépôt</a>.<p>
+<p>Pour ajouter une forge, un compte d'organisation GitHub ou un groupe GitLab, écrivez à <a href="mailto:contact@code.gouv.fr">contact@code.gouv.fr</a> ou envoyez un correctif pour <a href="https://github.com/codegouvfr/codegouvfr-data/blob/main/comptes-organismes-publics.yml" target="_blank">ce fichier</a>.<p>
 <p>Attention : Nous ne référençons pas les comptes personnels.</p>
 `
         },

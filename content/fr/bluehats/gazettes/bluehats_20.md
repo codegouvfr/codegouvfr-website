@@ -20,7 +20,7 @@ Le 28 octobre a eu lieu [un atelier BlueHats sur Trunk Data Platform](/fr/blueha
 
 La DINUM a signé pour 2023 une convention avec [OW2](https://www.ow2.org/), association indépendante spécialisée dans l'open source professionnel, pour mettre à disposition des acteurs publics les outils et approches méthodologiques préconisés par OW2 dans un cadre de professionnalisation du logiciel libre : l'[outil MRL](https://www.ow2.org/MRL/) (un indicateur d'utilisabilité professionnelle d'un logiciel open source) et la méthodologie [Good Governance Initiative](https://ospo.zone/ggi/) qui aide à mettre en place un *Open Source Program Office*, méthodologie élaborée au sein de l'[OSPO Alliance](https://ospo.zone/).
 
-`>>` [Lire la convention DINUM/OW2 en PDF](https://man.sr.ht/~codegouvfr/logiciels-libres/docs/Convention_OW2_Dinum_2022.pdf)
+`>>`[Lire la convention DINUM/OW2 en en PDF](/docs/Convention_OW2_Dinum_2022.pdf)
 
 ## Résultats de l’étude du marché open source 2022
 
