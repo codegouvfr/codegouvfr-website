@@ -29,19 +29,19 @@ La matinée a été consacrée à des présentations et des retours d'usage que 
 
 L'après-midi, les participants se sont répartis en ateliers, vous trouverez les notes dans les pads :
 
--   Organiser le **partage de composants Superset** ([pad](https://pad.numerique.gouv.fr/38QoDXqpREiYo2RoFUzuQg#))
--   Les ressources pour **s'approprier Superset** ([pad](https://pad.numerique.gouv.fr/7L6vJ7kbSvybL7rP8o_sBw#))
--   Démonstration des **fonctionnalités de Superset** ([pad](https://pad.numerique.gouv.fr/99ZDhML7TkyMlCKve281pA#))
--   Les questions à se poser **en amont d'une instance Superset** ([pad](https://pad.numerique.gouv.fr/XjL1O5EVSKqh9SlMWD9O6g?view#))
+-   Organiser le **partage de composants Superset** ([pad](https://pad.numerique.gouv.fr/38QoDXqpREiYo2RoFUzuQg#)).
+-   Les ressources pour **s'approprier Superset** ([pad](https://pad.numerique.gouv.fr/7L6vJ7kbSvybL7rP8o_sBw#)).
+-   Démonstration des **fonctionnalités de Superset** ([pad](https://pad.numerique.gouv.fr/99ZDhML7TkyMlCKve281pA#)).
+-   Les questions à se poser **en amont d'une instance Superset** ([pad](https://pad.numerique.gouv.fr/XjL1O5EVSKqh9SlMWD9O6g?view#)).
 
 {% imageContent "./bluehats-2024-04-30-1.jpg", "Travail en ateliers pour l'après-midi" %}
 
 # Ce qu'on a fait...
 
--   Une liste de mentors volontaires pour aider sur Superset a été partagée entre participants
--   Un dépôt va être ouvert sur <https://gitlab.mim-libre.fr> pour le partage des composants Superset
--   Un autre dépôt pour la documentation a été ouvert : <https://code.gouv.fr/superset-docs/#/>
--   Le groupe "Apache Superset Experts et Contributeurs" est constitué et discute dans un nouveau [salon Tchap](https://tchap.gouv.fr/#/room/!ZOqsMXhLQmyRSDSHCr:agent.education.tchap.gouv.fr?via=agent.interieur.tchap.gouv.fr&via=agent.education.tchap.gouv.fr&via=agent.externe.tchap.gouv.fr) en plus du salon dédié aux [utilisateurs](https://tchap.gouv.fr/#/room/#Programme10LoutildevisualisationdesdonnesdeltatPuvO4oGZW9:agent.interieur.tchap.gouv.fr)
+-   Une liste de mentors volontaires pour aider sur Superset a été partagée entre participants.
+-   Un dépôt va être ouvert sur <https://gitlab.mim-libre.fr> pour le partage des composants Superset.
+-   Un autre [dépôt pour la documentation](https://github.com/codegouvfr/superset-docs) a été ouvert.
+-   Le groupe "Apache Superset Experts et Contributeurs" est constitué et discute dans un nouveau [salon Tchap](https://tchap.gouv.fr/#/room/!ZOqsMXhLQmyRSDSHCr:agent.education.tchap.gouv.fr?via=agent.interieur.tchap.gouv.fr&via=agent.education.tchap.gouv.fr&via=agent.externe.tchap.gouv.fr) en plus du salon dédié aux [utilisateurs](https://tchap.gouv.fr/#/room/#Programme10LoutildevisualisationdesdonnesdeltatPuvO4oGZW9:agent.interieur.tchap.gouv.fr).
 
 <br>
 
