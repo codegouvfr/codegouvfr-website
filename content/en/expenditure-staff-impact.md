@@ -68,7 +68,7 @@ Our main products are widely reused:
 
 #### We're helping to drive the BlueHats movement 🧢
 
-- 30 BlueHats gazettes
-- 55 BlueHats workshops
-- 8 BlueHats meetings
+- 30 BlueHats newsletters
+- 55 BlueHats webinars
+- 8 BlueHats IRL meetings
 - 5 BlueHats days at the Open Source Experience exhibition
