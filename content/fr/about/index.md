@@ -95,21 +95,22 @@ Les BlueHats sont toutes les personnes qui souhaitent montrer qu'elles contribue
 
 Contributions passées :
 
-- [github.com/bzg/subscribe](https://github.com/bzg/subscribe/)
-- [github.com/bzg/choices](https://github.com/bzg/choices)
-- [github.com/hjonin/todoist-to-joplin](https://github.com/hjonin/todoist-to-joplin)
-- [github.com/hjonin/todoist-to-md](https://github.com/hjonin/todoist-to-md)
-- [github.com/InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web)
 - [github.com/InseeFrLab/keycloakify](https://github.com/InseeFrLab/keycloakify)
 - [github.com/InseeFrLab/onyxia-ui](https://github.com/InseeFrLab/onyxia-ui)
-- [github.com/garronej/tss-react](https://github.com/garronej/tss-react)
-- [github.com/garronej/ts-ci](https://github.com/garronej/ts-ci)
-- [github.com/garronej/redux-clean-architecture](https://github.com/garronej/redux-clean-architecture)
+- [github.com/InseeFrLab/onyxia-web](https://github.com/InseeFrLab/onyxia-web)
+- [github.com/bzg/choices](https://github.com/bzg/choices)
+- [github.com/bzg/subscribe](https://github.com/bzg/subscribe/)
+- [github.com/garronej/cra-envs](https://github.com/garronej/cra-envs)
 - [github.com/garronej/denoify](https://github.com/garronej/denoify)
 - [github.com/garronej/evt](https://github.com/garronej/evt)
-- [github.com/garronej/tsafe](https://github.com/garronej/tsafe)
-- [github.com/garronej/cra-envs](https://github.com/garronej/cra-envs)
 - [github.com/garronej/powerhooks](https://github.com/garronej/powerhooks)
+- [github.com/garronej/redux-clean-architecture](https://github.com/garronej/redux-clean-architecture)
+- [github.com/garronej/ts-ci](https://github.com/garronej/ts-ci)
+- [github.com/garronej/tsafe](https://github.com/garronej/tsafe)
+- [github.com/garronej/tss-react](https://github.com/garronej/tss-react)
+- [github.com/hjonin/eleventy-plugin-calendar](https://github.com/hjonin/eleventy-plugin-calendar)
+- [github.com/hjonin/todoist-to-joplin](https://github.com/hjonin/todoist-to-joplin)
+- [github.com/hjonin/todoist-to-md](https://github.com/hjonin/todoist-to-md)
 - [github.com/thieryw/gitlanding](https://github.com/thieryw/gitlanding)
 
 <br/>
