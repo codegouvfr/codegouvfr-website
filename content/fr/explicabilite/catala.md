@@ -28,19 +28,42 @@ Derrière le langage de surface, le compilateur de Catala assure la traduction v
 
 {% imageContent "./imagecatala1.png", "Architecture Catala" %}
 
-Pour plus de précisions sur le langage, vous pouvez vous reporter aux articles scientifiques suivants :
+Pour plus de précisions sur le contexte scientifique de création du langage, vous pouvez vous reporter aux documents suivants :
 
-- Pour les juristes: [_Traduire la loi en code grâce au langage de programmation Catala_](https://hal.inria.fr/hal-03128248) ;
-- Pour les informaticien·ne·s: [_Catala: A Programming Language for the Law_](https://hal.inria.fr/hal-03159939).
+- Pour les juristes (en français) : [_Traduire la loi en code grâce au langage de programmation Catala_](https://hal.inria.fr/hal-03128248) ;
+- Pour les informaticien·ne·s (en anglais) : [_Catala: A Programming Language for the Law_](https://hal.inria.fr/hal-03159939).
 
 ### Usage actuels par des administrations publiques
 
-Une expérimentation est en cours depuis juin 2023 avec la DGFiP qui vise à
-re-spécifier et ré-implémenter le calcul de l'impôt sur le revenu. Cependant, le
-code produit n'est pas en production. Cette expérimentation fait suite à
+Deux expérimentations ont été menées en conditions réelles pour évaluer
+l'adéquation de Catala aux besoins des administrations qui produisent des
+décisions automatisées sur des fondements juridiques.
+
+D'abord, la DGFiP a mené conjointement avec Inria une expérimentation de
+réécriture du calcul de l'impôt sur le revenu, dont le code source est
+disponible [librement](https://gitlab.adullact.net/dgfip/ir-catala). Cette
+expérimentation s'est déroulée de juin 2023 à juin 2024 et a impliqué deux ETP,
+un ingénieur côté Inria et une juriste côté DGFiP, qui ont travaillé en binôme
+de pair programming pour réécrire entre 5% et 10% du calcul total de l'impôt sur
+le revenu et de ses pénalités et majorations. Cette expérimentation fait suite à
 l'intervention des chercheurs impliqués dans Catala pour [aider la DGFiP à
 assurer la maintenance de l'infrastructure actuelle de calcul de l'impôt sur le
 revenu](https://www.inria.fr/fr/mlang-modernisation-calcul-impot-revenu).
+
+Ensuite, la CNAF a mené conjointement avec Inria une expérimentation de calcul
+et d'orchestration de plusieurs prestations sociales simplifiées, dans le cadre
+de l'étude d'alternatives pour le futur du logiciel CRISTAL qui assure
+actuellement la liquidation des prestations sociales pour le réseau des CAF.
+Cette expérimentation a eu lieu d'octobre 2024 à février 2025 et a mobilisé 
+1 ETP côté CNAF et 3 ETP côté Inria. 
+
+Les résultats de ces évaluations sont toujours en cours d'évaluation début 2025
+par la CNAF et la DGFiP, qui devront décider si elles poursuivent les travaux
+avec Catala vers une utilisation en production pour leurs systèmes informatique
+de liquidation des impôts et des prestations sociales. À noter que également
+début 2025, l'ADEME est en train d'instruire un potentielle utilisation de
+Catala pour la vérification de l'éligibilité et du montant maximal des
+subventions qu'elle distribue au titre de la transition énergétique.
 
 Catala a également été utilisé avec succès pour [découvrir des
 erreurs](https://hal.inria.fr/hal-03712130) et [suggérer des améliorations dans
@@ -60,8 +83,8 @@ Les deux avantages comparatifs de Catala par rapport à d'autres langages de pro
 
 L'approche scientifique de Catala et les détails conceptuels de sa conception et de son implémentation sont décrits dans les papiers de recherche cités plus haut. Néamoins Catala dispose également d'une documentation plus opérationnelle :
 
-- Tutoriel de Catala: [en anglais (complet)](https://catala-lang.org/en/examples/tutorial), [en français (moins souvent mis à jour)](https://catala-lang.org/fr/examples/tutoriel)
-- `CONTRIBUTING.md` : https://github.com/CatalaLang/catala/blob/master/CONTRIBUTING.md#writing-catala-code
+- Documentation de Catala (en anglais): [https://catalalang.github.io/catala-book/]
+- Exemples de programmes Catala : https://github.com/CatalaLang/catala-examples
 - Options ligne de commande du compilateur : https://catala-lang.org/en/doc/catala
 - Paquet opam (le langage est implémenté en OCaml): https://v3.ocaml.org/p/catala/latest
 - Pense-bête syntaxique : https://catalalang.github.io/catala/syntax.pdf
@@ -75,12 +98,18 @@ Un petit mail à contact@catala-lang.org est aussi efficace pour un conseil pers
 
 ### Qui développe l'outil (= qui a le contrôle sur les choix techniques)
 
-L'outil est développé par l'[équipe-projet PROSECCO](https://team.inria.fr/prosecco/) au sein du [centre de Paris de l'Inria](https://www.inria.fr/fr/centre-inria-de-paris), institut de recherche en informatique.
+L'outil est développé par
+[Inria](https://www.inria.fr/fr/centre-inria-de-paris), institut de recherche en
+informatique. Il fait partie du programme « Apollo » de l'agence de programmes
+dans le numérique d'Inria, et s'inscrit dans la mission d'appui aux politiques 
+publiques de l'institut.
 
-[Denis Merigoux](merigoux.ovh/), chercheur post-doctoral en est le co-créateur
-et chef de projet, et [Louis Gesbert](https://github.com/AltGr) est l'ingénieur
-de recherche chargé à temps plein de sa maintenance. Les modifications au
-langage sont décidées conjointement avec deux juristes : [Liane
+[Denis Merigoux](merigoux.ovh/), en est le co-créateur et chef de projet d'une
+équipe de maintenance comptant début 2025 trois ingénieurs de recherche : [Louis
+Gesbert](https://github.com/AltGr), [Romain
+Primet](https://www.linkedin.com/in/romain-primet-229b80b9) et [Vincent
+Botbol](https://www.linkedin.com/in/vincent-botbol-24355728b). Les modifications
+au langage sont décidées conjointement avec deux juristes : [Liane
 Huttner](https://univ-droit.fr/universitaires/48558-liane-huttner), maîtresse de
 conférences en droit du numérique et [Sarah
 Lawsky](https://www.law.northwestern.edu/faculty/profiles/sarahlawsky),
