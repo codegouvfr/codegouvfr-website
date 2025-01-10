@@ -131,5 +131,3 @@ Ce marché vise à procurer aux entités bénéficiaires des prestations d’exp
 - des études d’opportunité ;
 - des développements ;
 - du monitorat.
-
-Il durera 24 mois reconductible 2 fois par période de 12 mois. Il devrait donc durer de décembre 2020 à décembre 2024.
