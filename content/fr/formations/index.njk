@@ -1,0 +1,30 @@
+---
+title: "Offre de formations logiciels libres"
+description: Liste des formations logiciels libres par des organismes français
+layout: layouts/page.njk
+eleventyNavigation:
+  key: "Formations logiciels libres"
+  parent: Ressources
+  order: 5
+---
+
+{% from "components/component.njk" import component with context %}
+{{ component("callout", {
+  title: "Formations logiciels libres",
+  description: '<a class="fr-link fr-text--lead" href="mailto:contact@code.gouv.fr">Sollicitez-nous pour être référencés</a>.' | safe
+}) }}
+<div class="fr-my-6w">
+  <div class="fr-grid-row fr-grid-row--gutters">
+    {% asyncAll formation in formations %}
+    <div class="fr-col-12 fr-col-md-3">
+      {{ component("card_formation", {
+	externalUrl: formation.site_web,
+        title: formation.organisme,
+	description: formation.description,
+	formations: formation.formations,
+	email: formation.courriel
+      }) }}
+    </div>
+    {% endall %}
+  </div>
+</div>
