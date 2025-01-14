@@ -5,10 +5,9 @@ description: "Le vendredi 20 septembre 2024 à 14h nous avons eu une présentati
 video:
   src: https://tube.numerique.gouv.fr/videos/embed/2ba94dda-2439-4d28-9427-c38fa6a6bff8
   title: "Atelier BlueHats : présentation du portail métier de l'éducation nationale"
-
 ---
 
-{% imageContent "imgs/portail-education-nationale.png", "Forge de l'éducation nationale pour l’IT" %}
+{% imageContent "./portail-education-nationale.png", "Forge de l'éducation nationale pour l’IT" %}
 
 ## Résumé de la présentation
 
