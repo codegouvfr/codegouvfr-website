@@ -3,7 +3,7 @@ title: Gazette BlueHats 🧢 n°32
 date: 2025-01-16
 ---
 
-## 📢 Des nouvelles de la mission et des OSPOs
+## 📢 Des nouvelles de la DINUM et d'ailleurs
 
 Du côté de [La Suite](https://lasuite.numerique.gouv.fr/), décembre aura été le mois des [premiers succès de la coopération franco-allemande en faveur d’une administration numérique souveraine](https://www.numerique.gouv.fr/espace-presse/premiers-succes-cooperation-franco-allemande-administration-numerique-souveraine-collaboration-trilaterale-avec-royaume-des-pays-bas-signature-nouvelle-declaration-dintention-commune/). À suivre en 2025 !
 
@@ -28,7 +28,7 @@ Nous faisons une petite pause, les ateliers reprendront en mars.
 
 <br/>
 
-## 📅 Les événements à venir
+## 📅 Les événements à venir dans l'écosystème
 
 L'année commence sur les chapeaux de roue, beaucoup d'événements à l'horizon :
 
@@ -48,7 +48,7 @@ Et pour revoir les vidéos d'événements passés :
 
 <br/>
 
-## 👷‍♀️ Focus : sur le *Cyber Resilience Act*
+## 👷‍♀️ Focus sur le *Cyber Resilience Act*
 
 Beaucoup de discussions en cours sur le [Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act), voici quelques liens utiles collectés depuis la dernière gazette :
 
