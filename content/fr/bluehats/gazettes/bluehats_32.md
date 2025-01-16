@@ -33,13 +33,14 @@ Nous faisons une petite pause, les ateliers reprendront en mars.
 L'année commence sur les chapeaux de roue, beaucoup d'événements à l'horizon :
 
 - Du 28 janvier au 4 février : [EU Open Source Week](https://opensourceweek.eu/)  à Bruxelles
-- Le 29 janvier 2025 : [Software Heritage 2025 Symposium and Summit](https://www.softwareheritage.org/2024/11/19/software-heritage-2025-symposium-summit/?lang=fr) à l'UNESCO, Paris
-- Les 1 et 2 février 2025 : [FOSDEM 2025](https://fosdem.org/2025/) à Bruxelles (Belgique)
-- Le 20 février 2025 : [Alpes Open Source Software​](https://alposs.fr/) à la mairie d'Échirolles
-- Les 17 et 18 juin 2025 : [OW2Con 2025](https://www.ow2con.org/view/2025/) à Paris-Châtillon (voir [l'appel à présentation](https://lists.sr.ht/~bluehats/fr/%3C28D4E343-1AA0-43DE-87D9-19BE6EF48B46@ow2.org%3E))
-- Du 14 au 20 juillet 2025 : [DebConf](https://debconf25.debconf.org/about/debconf/) à Brest
-- Les 3 et 4 avril 2025 : [Journées du Réseau Français de la Recherche Reproductible](https://jrfrr-2025.sciencesconf.org/?lang=fr) à Lyon
-- Le 9 septembre 2025 : [Journée des logiciels libres en Archives, Bibliothèques et Centres de documentation](https://libreabc.ch)  au Musée d'ethnographie de Genève.
+- Le 29 janvier : [Software Heritage 2025 Symposium and Summit](https://www.softwareheritage.org/2024/11/19/software-heritage-2025-symposium-summit/?lang=fr) à l'UNESCO, Paris
+- Les 1 et 2 février : [FOSDEM 2025](https://fosdem.org/2025/) à Bruxelles
+- Le 20 février : [Alpes Open Source Software​](https://alposs.fr/) à la mairie d'Échirolles
+- Les 10 et 11 mars : [FOSS Backstage](https://25.foss-backstage.de/) à Berlin
+- Les 17 et 18 juin : [OW2Con 2025](https://www.ow2con.org/view/2025/) à Paris-Châtillon (voir [l'appel à présentation](https://lists.sr.ht/~bluehats/fr/%3C28D4E343-1AA0-43DE-87D9-19BE6EF48B46@ow2.org%3E))
+- Les 3 et 4 avril : [Journées du Réseau Français de la Recherche Reproductible](https://jrfrr-2025.sciencesconf.org/?lang=fr) à Lyon
+- Du 14 au 20 juillet : [DebConf](https://debconf25.debconf.org/about/debconf/) à Brest
+- Le 9 septembre : [Journée des logiciels libres en Archives, Bibliothèques et Centres de documentation](https://libreabc.ch)  au Musée d'ethnographie de Genève.
 
 <br/>
 
