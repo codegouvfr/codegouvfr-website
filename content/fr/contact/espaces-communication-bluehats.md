@@ -16,9 +16,10 @@ showBreadcrumb: true
 
 <br/>
 
-### Liste de discussion privée BlueHats
+### Listes de discussion privées BlueHats et OSPO-fr
 
-La [liste de discussion privée](https://groupes.renater.fr/sympa/info/bluehats) permet d'échanger avec des agents publics BlueHats.
+- La [liste de discussion privée](https://groupes.renater.fr/sympa/info/bluehats) permet d'échanger avec des agents publics BlueHats.
+- La [liste de discussion privée](https://groupes.renater.fr/sympa/info/ospo-fr) permet d'échanger avec des agents publics membres d'[OSPOs publics](https://code.gouv.fr/fr/ospos/).
 
 ## Espaces publics ouverts à toutes et tous
 
