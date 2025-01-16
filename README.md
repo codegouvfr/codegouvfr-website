@@ -20,7 +20,7 @@ Vous devrez utiliser `nodejs` >= 20.
 
 ## Déploiement
 
-Le site est déployé automatiquement en préproduction sur [preprod.codegouv.fr](http://preprod.codegouv.fr/fr/) depuis la branche `main` et en production sur [code.gouv.fr](https://code.gouv.fr/) depauis la branche `production`.
+Le site est déployé automatiquement en préproduction sur [code.gouv.fr/preprod/fr](http://code.gouv.fr/preprod/fr/) depuis la branche `main` et en production sur [code.gouv.fr](https://code.gouv.fr) depauis la branche `production`.
 
 # Contributions
 
