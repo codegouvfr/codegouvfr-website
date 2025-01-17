@@ -3,6 +3,8 @@ title: Gazette BlueHats 🧢 n°32
 date: 2025-01-16
 ---
 
+*Cette gazette est la dernière sous cette forme : à partir de mars, nous trouverons une autre manière d'informer les BlueHats.*
+
 ## 📢 Des nouvelles de la DINUM et d'ailleurs
 
 Du côté de [La Suite](https://lasuite.numerique.gouv.fr/), décembre aura été le mois des [premiers succès de la coopération franco-allemande en faveur d’une administration numérique souveraine](https://www.numerique.gouv.fr/espace-presse/premiers-succes-cooperation-franco-allemande-administration-numerique-souveraine-collaboration-trilaterale-avec-royaume-des-pays-bas-signature-nouvelle-declaration-dintention-commune/). À suivre en 2025 !
