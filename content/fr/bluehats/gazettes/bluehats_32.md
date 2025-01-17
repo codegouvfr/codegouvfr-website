@@ -57,10 +57,11 @@ Et pour revoir les vidéos d'événements passés :
 
 Beaucoup de discussions en cours sur le [Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/library/cyber-resilience-act), voici quelques liens utiles collectés depuis la dernière gazette :
 
-- [Webinar: Enabling SBOMs Across The Linux Foundation](https://openchainproject.org/news/2024/12/04/webinar-enabling-sboms-across-the-linux-foundation), openchainproject.org, Dec. 2024
-- [What the EU’s new software legislation means for developers](https://github.blog/open-source/maintainers/what-the-eus-new-software-legislation-means-for-developers/), github.blog, Dec. 2024
-- [Standards and the presumption of conformity](https://opensource.org/blog/standards-and-the-presumption-of-conformity), opensource.org, Dec. 2024
-- [Anticipating the Cyber Resilience Act - A Guide](https://speakerdeck.com/sfermigier/anticipating-the-cyber-resilience-act-a-guide-for-the-open-source-business-ecosystem), speakerdeck.com, Dec. 2024
+- [Être prêt pour intégrer le Cyber Resilience Act dans sa pratique Open Source (PDF)](https://cnll.fr/documents/95/CNLL_inno3_Guide-CRA_1.1.pdf), cnll.fr, Déc. 2024
+- [Webinar: Enabling SBOMs Across The Linux Foundation](https://openchainproject.org/news/2024/12/04/webinar-enabling-sboms-across-the-linux-foundation), openchainproject.org, Déc. 2024
+- [What the EU’s new software legislation means for developers](https://github.blog/open-source/maintainers/what-the-eus-new-software-legislation-means-for-developers/), github.blog, Déc. 2024
+- [Standards and the presumption of conformity](https://opensource.org/blog/standards-and-the-presumption-of-conformity), opensource.org, Déc. 2024
+- [Anticipating the Cyber Resilience Act - A Guide](https://speakerdeck.com/sfermigier/anticipating-the-cyber-resilience-act-a-guide-for-the-open-source-business-ecosystem), speakerdeck.com, Déc. 2024
 - [The EU Cyber Resilience Act - what you need to know](https://www.redhat.com/en/blog/eu-cyber-resilience-act-what-you-need-know), redhat.com, Nov. 2024
 
 <br/>
@@ -76,12 +77,12 @@ Et pour le plaisir d'explorer plus loin, voici notre habituelle revue de presse.
 - [La SNCF et l’Europe dans le train du logiciel libre](https://www.zdnet.fr/blogs/l-esprit-libre/la-sncf-et-leurope-dans-le-train-du-logiciel-libre-404319.htm), zdnet.fr, Jan. 2025
 - [L’open source, l’armée de l’ombre du logiciel… et de l’Intelligence artificielle](https://www.lemonde.fr/economie/article/2025/01/05/l-open-source-l-armee-de-l-ombre-du-logiciel-et-de-l-intelligence-artificielle_6482931_3234.html), lemonde.fr, Jan. 2025
 - [De Wikipédia à OpenAI, les communs numériques font de la résistance](https://www.lemonde.fr/economie/article/2025/01/05/de-wikipedia-a-openai-les-communs-numeriques-font-de-la-resistance_6482863_3234.html), lemonde.fr, Jan. 2025
-- [Gaël Varoquaux, vedette de l’intelligence artificielle et défenseur du logiciel libre](https://www.lemonde.fr/sciences/article/2024/12/14/gael-varoquaux-vedette-de-l-intelligence-artificielle-et-defenseur-du-logiciel-libre_6448689_1650684.html), lemonde.fr, Dec. 2024
+- [Gaël Varoquaux, vedette de l’intelligence artificielle et défenseur du logiciel libre](https://www.lemonde.fr/sciences/article/2024/12/14/gael-varoquaux-vedette-de-l-intelligence-artificielle-et-defenseur-du-logiciel-libre_6448689_1650684.html), lemonde.fr, Déc. 2024
 - [OpenNebula : un hyperviseur alternatif libre - 10 années d’usage au PCLL (PDF)](https://eole.ac-dijon.fr/presentations/2024%20d%c3%a9cembre%20-%20journ%c3%a9e%20blueHats%20openSource-eXperience/opennebula-hyperviseur-alternatif-libre-10-ann%c3%a9es-PCLL.pdf)
-- [La fondation Linux pointe les plus gros problèmes dans l’utilisation du logiciel libre](https://next.ink/160690/la-fondation-linux-pointe-les-plus-gros-problemes-dans-lutilisation-du-logiciel-libre/), next.ink, Dec. 2024
-- [Comment la Ville d’Échirolles pousse au maximum l’utilisation de logiciels libres ?](https://www.smartcitymag.fr/article/1542/comment-la-ville-d-echirolles-pousse-au-maximum-l-utilisation-de-logiciels-libres), smartcitymag.fr, Dec. 2024
-- [Cloud souverain : Comment l'Open source vient en appui des services publics](https://acteurspublics.fr/webtv/emissions/acteurs-publics-solutions/cloud-souverain-comment-lopen-source-vient-en-appui-des-services-publics), acteurspublics.fr, Dec. 2024
-- [Emmanuel Zimmert : « La Digitale est une merveilleuse porte d’entrée pour engager la discussion sur le logiciel libre et ses valeurs](https://cafepedagogique.net/2024/12/05/emmanuel-zimmert-la-digitale-est-une-merveilleuse-porte-dentree-pour-engager-la-discussion-sur-le-logiciel-libre-et-ses-valeurs/), cafepedagogique.net, Dec. 2025
+- [La fondation Linux pointe les plus gros problèmes dans l’utilisation du logiciel libre](https://next.ink/160690/la-fondation-linux-pointe-les-plus-gros-problemes-dans-lutilisation-du-logiciel-libre/), next.ink, Déc. 2024
+- [Comment la Ville d’Échirolles pousse au maximum l’utilisation de logiciels libres ?](https://www.smartcitymag.fr/article/1542/comment-la-ville-d-echirolles-pousse-au-maximum-l-utilisation-de-logiciels-libres), smartcitymag.fr, Déc. 2024
+- [Cloud souverain : Comment l'Open source vient en appui des services publics](https://acteurspublics.fr/webtv/emissions/acteurs-publics-solutions/cloud-souverain-comment-lopen-source-vient-en-appui-des-services-publics), acteurspublics.fr, Déc. 2024
+- [Emmanuel Zimmert : « La Digitale est une merveilleuse porte d’entrée pour engager la discussion sur le logiciel libre et ses valeurs](https://cafepedagogique.net/2024/12/05/emmanuel-zimmert-la-digitale-est-une-merveilleuse-porte-dentree-pour-engager-la-discussion-sur-le-logiciel-libre-et-ses-valeurs/), cafepedagogique.net, Déc. 2025
 - [Framasoft a 20 ans ! Episode 1 – Les 10 premières années – A. Kauffmann & P.Y Gosset](https://www.projets-libres.org/framasoft-20-ans-episode-1-10-premieres-annees/), projets-libres.org, Nov. 2024
 - [Les communs numériques, un levier d’innovation dans l’éducation](https://www.alliancy.fr/les-communs-numeriques-un-levier-dinnovation-dans-leducation), alliancy.fr, Nov. 2024
 - [La Fondation Eclipse et l’OSI s’associent pour façonner l’avenir de l’IA open source](https://www.actuia.com/actualite/la-fondation-eclipse-et-losi-sassocient-pour-faconner-lavenir-de-lia-open-source/), actuia.com, Nov. 2024
@@ -99,17 +100,17 @@ Et pour le plaisir d'explorer plus loin, voici notre habituelle revue de presse.
 - [NGI Commons webinar: Digital Commons towards digital sovereignty in Europe](https://commons.ngi.eu/event/digital-commons-towards-digital-sovereignty-in-europe/), commons.ngi.eu, Jan. 2025
 - [50 Free and Open Source Projects Selected for NGI Zero grants](https://nlnet.nl/news/2025/20250101-announcing-grantees-June-call.html), nlnet.nl, Jan. 2025
 - [Some things to expect in 2025](https://lwn.net/Articles/1003780/), lwn.net, Jan. 2025
-- [Updated country report on open source software in Hungary](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/updated-country-report-open-source-software-hungary), interoperable-europe.ec.europa.eu, Dec. 2024
-- [Measuring the Impacts of Public Funding on Open Source Software Development](https://commons.ngi.eu/2024/11/12/measuring-the-impacts-of-public-funding-on-open-source-software-development/), commons.ngi.eu, Dec. 2024
-- [ Code.europa.eu – a story of sharing code](https://interoperable-europe.ec.europa.eu/collection/ec-ospo/news/spotlight-projects), interoperable-europe.ec.europa.eu, Dec. 2024
-- [SHARE IT Act, backed by Rep. Nick Langworthy, R-N.Y. and William Timmons, R-S.C.](https://www.commerce.senate.gov/2024/1/sens-cruz-peters-introduce-share-it-act-to-require-government-agencies-to-share-code), commerce.senate.gov, Dec. 2024
+- [Updated country report on open source software in Hungary](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/updated-country-report-open-source-software-hungary), interoperable-europe.ec.europa.eu, Déc. 2024
+- [Measuring the Impacts of Public Funding on Open Source Software Development](https://commons.ngi.eu/2024/11/12/measuring-the-impacts-of-public-funding-on-open-source-software-development/), commons.ngi.eu, Déc. 2024
+- [ Code.europa.eu – a story of sharing code](https://interoperable-europe.ec.europa.eu/collection/ec-ospo/news/spotlight-projects), interoperable-europe.ec.europa.eu, Déc. 2024
+- [SHARE IT Act, backed by Rep. Nick Langworthy, R-N.Y. and William Timmons, R-S.C.](https://www.commerce.senate.gov/2024/1/sens-cruz-peters-introduce-share-it-act-to-require-government-agencies-to-share-code), commerce.senate.gov, Déc. 2024
 - [Announcing GitHub Secure Open Source Fund: Help secure the open source ecosystem for everyone](https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/), github.blog, Nov. 2024
 
 <br/>
 
 ### En allemand
 
-- [Open Source Strategie für Berlin: Senat beschließt Jahresbericht](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2024/pressem_itteilung.1514319.php), berlin.de, Dec. 2024
+- [Open Source Strategie für Berlin: Senat beschließt Jahresbericht](https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2024/pressem_itteilung.1514319.php), berlin.de, Déc. 2024
 - [Schleswig-holstein veröffentlicht Open-Source-Strategie](https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/I/_startseite/Artikel2024/IV/241125_open-source-strategie), schleswig-holstein.de, Nov. 2024
 - [Open Source in Kommunen. Teil 2: Aufbau einer Open-Source-Governance (18/2024) ](https://www.kgst.de/dokumentdetails?path=/documents/20181/11022390/B-18-2024_Open-Source-in-Kommunen-2.pdf/92b3ea80-524c-bb07-2c6c-4d35a5727624?t=1736780602699), kgst.de, Okt. 2024
 
