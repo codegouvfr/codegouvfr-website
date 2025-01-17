@@ -69,6 +69,7 @@ Et pour le plaisir d'explorer plus loin, voici notre habituelle revue de presse.
 
 ### En français
 
+- [Red Hat vise les migrations VMware avec un OpenShift sans conteneurs](https://www.silicon.fr/Thematique/business-1367/Breves/red-hat-migrations-vmware-openshift-conteneurs-466684.htm), silicon.fr, Jan. 2025
 - [Que deviennent OpenTofu et OpenBao, ces forks de produits HashiCorp ?](https://www.silicon.fr/Thematique/open-source-1375/Breves/opentofu-openbao-forks-produits-hashicorp-466558.htm), silicon.fr, Jan. 2025
 - [La SNCF et l’Europe dans le train du logiciel libre](https://www.zdnet.fr/blogs/l-esprit-libre/la-sncf-et-leurope-dans-le-train-du-logiciel-libre-404319.htm), zdnet.fr, Jan. 2025
 - [L’open source, l’armée de l’ombre du logiciel… et de l’Intelligence artificielle](https://www.lemonde.fr/economie/article/2025/01/05/l-open-source-l-armee-de-l-ombre-du-logiciel-et-de-l-intelligence-artificielle_6482931_3234.html), lemonde.fr, Jan. 2025
