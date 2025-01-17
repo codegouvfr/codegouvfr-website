@@ -96,6 +96,7 @@ Et pour le plaisir d'explorer plus loin, voici notre habituelle revue de presse.
 
 - [NGI Commons webinar: Digital Commons towards digital sovereignty in Europe](https://commons.ngi.eu/event/digital-commons-towards-digital-sovereignty-in-europe/), commons.ngi.eu, Jan. 2025
 - [50 Free and Open Source Projects Selected for NGI Zero grants](https://nlnet.nl/news/2025/20250101-announcing-grantees-June-call.html), nlnet.nl, Jan. 2025
+- [Some things to expect in 2025](https://lwn.net/Articles/1003780/), lwn.net, Jan. 2025
 - [Updated country report on open source software in Hungary](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/updated-country-report-open-source-software-hungary), interoperable-europe.ec.europa.eu, Dec. 2024
 - [Measuring the Impacts of Public Funding on Open Source Software Development](https://commons.ngi.eu/2024/11/12/measuring-the-impacts-of-public-funding-on-open-source-software-development/), commons.ngi.eu, Dec. 2024
 - [ Code.europa.eu – a story of sharing code](https://interoperable-europe.ec.europa.eu/collection/ec-ospo/news/spotlight-projects), interoperable-europe.ec.europa.eu, Dec. 2024
