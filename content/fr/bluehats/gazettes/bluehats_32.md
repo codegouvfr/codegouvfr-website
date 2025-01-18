@@ -37,6 +37,7 @@ L'année commence sur les chapeaux de roue, beaucoup d'événements à l'horizon
 - Du 28 janvier au 4 février : [EU Open Source Week](https://opensourceweek.eu/)  à Bruxelles
 - Le 29 janvier : [Software Heritage 2025 Symposium and Summit](https://www.softwareheritage.org/2024/11/19/software-heritage-2025-symposium-summit/?lang=fr) à l'UNESCO, Paris
 - Les 1 et 2 février : [FOSDEM 2025](https://fosdem.org/2025/) à Bruxelles
+- Les 10 et 11 février : challenge de certification à [scikit-learn](https://code.gouv.fr/sill/detail?name=scikit-learn) dans le cadre de la compétition de compétences en IA dans la fonction publique française 
 - Le 20 février : [Alpes Open Source Software​](https://alposs.fr/) à la mairie d'Échirolles
 - Les 10 et 11 mars : [FOSS Backstage](https://25.foss-backstage.de/) à Berlin
 - Le 13 mars : [SustainOSS Virtual Forum](https://opencollective.com/sustainoss/events/sustainoss-virtual-forum-348aa185)
