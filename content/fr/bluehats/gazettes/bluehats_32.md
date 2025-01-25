@@ -41,8 +41,9 @@ L'année commence sur les chapeaux de roue, beaucoup d'événements à l'horizon
 - Le 20 février : [Alpes Open Source Software​](https://alposs.fr/) à la mairie d'Échirolles
 - Les 10 et 11 mars : [FOSS Backstage](https://25.foss-backstage.de/) à Berlin
 - Le 13 mars : [SustainOSS Virtual Forum](https://opencollective.com/sustainoss/events/sustainoss-virtual-forum-348aa185)
-- Les 17 et 18 juin : [OW2Con 2025](https://www.ow2con.org/view/2025/) à Paris-Châtillon (voir [l'appel à présentation](https://lists.sr.ht/~bluehats/fr/%3C28D4E343-1AA0-43DE-87D9-19BE6EF48B46@ow2.org%3E))
 - Les 3 et 4 avril : [Journées du Réseau Français de la Recherche Reproductible](https://jrfrr-2025.sciencesconf.org/?lang=fr) à Lyon
+- Les 24 et 25 mai : [Journées du Logiciel Libre](https://jdll.org/) à Lyon, voir l'[appel à participation](https://pretalx.jdll.org/jdll2025/cfp)
+- Les 17 et 18 juin : [OW2Con 2025](https://www.ow2con.org/view/2025/) à Paris-Châtillon (voir [l'appel à présentation](https://lists.sr.ht/~bluehats/fr/%3C28D4E343-1AA0-43DE-87D9-19BE6EF48B46@ow2.org%3E))
 - Du 14 au 20 juillet : [DebConf](https://debconf25.debconf.org/about/debconf/) à Brest
 - Le 9 septembre : [Journée des logiciels libres en Archives, Bibliothèques et Centres de documentation](https://libreabc.ch)  au Musée d'ethnographie de Genève.
 
