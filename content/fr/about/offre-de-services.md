@@ -27,6 +27,8 @@ La documentation pour vous aider :
 - [code.gouv.fr/guides/codegouvfr-score](https://code.gouv.fr/guides/codegouvfr-score)
 - [code.gouv.fr/documentation](https://code.gouv.fr/documentation)
 
+<br/>
+
 ## Accompagnement à l'utilisation des logiciels libres
 
 ### Sur le socle interministériel de logiciels libres (SILL)
@@ -62,6 +64,8 @@ Les questions courantes sont :
 
 N'hésitez pas à écrire à [contact@code.gouv.fr](mailto:contact@code.gouv.fr) pour toutes ces questions.
 
+<br/>
+
 ## Accompagnement stratégique
 
 Si vous êtes *administrateur ministériel des données, des algorithmes et des codes sources* nous pouvons vous accompagner pour la définition et la mise en oeuvre de vos politiques de publication et d'utilisation des logiciels libres.
@@ -72,17 +76,25 @@ Si vous êtes *décideur pour l'utilisation et/ou le développement de logiciels
 
 Pour un premier contact, écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
 
+<br/>
+
 ## Culture générale
 
 Nous répondons par écrit aux questions de culture générale sur le logiciel libre mais nous ne proposons pas de rendez-vous.
+
+<br/>
 
 ## Mise en relation
 
 Nous pouvons par écrit vous aider à entrer en contact avec des communautés de l'administration actives autour des logiciels libres.  Voir [cette page](/fr/contact/espaces-communication-bluehats/).
 
+<br/>
+
 ## Formations
 
 La mission logiciels libres ne propose pas (encore) de formations liées aux logiciels libres dans l'administration.
+
+<br/>
 
 ## Nous ne répondons pas
 
