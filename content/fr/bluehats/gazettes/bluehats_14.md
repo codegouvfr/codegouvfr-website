@@ -37,7 +37,7 @@ Dans le cadre de ce programme, un partenariat a été signé entre la DINUM et l
 
 -   Le [communiqué de presse (PDF)](https://www.centralesupelec.fr/sites/default/files/cp_etalab_centralesupelec_-_131221.pdf) de CentraleSupélec
 -   Un [article de nextinpact.com](https://www.nextinpact.com/lebrief/49255/bluehats-semester-of-code-centralesupelec-sallie-avec-etalab-pour-developpement-logiciels-libres#/page/1) relayant ce partenariat
--   La [liste des propositions de contributions](https://github.com/blue-hats/bluehats-soc)
+-   La [liste des propositions de contributions](https://github.com/codegouvfr/bluehats-soc)
 
 Ce programme est ouvert : si vous travaillez dans une formation universitaire ou une école publique proposant des stages pour des contributions à des logiciels libres, n'hésitez pas à nous écrire !
 
