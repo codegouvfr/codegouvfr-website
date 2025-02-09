@@ -51,7 +51,7 @@ Le projet [Archifiltre](https://archifiltre.fabrique.social.gouv.fr/) recrute un
 
 ## Événements
 
--   En **septembre 2021**, retrouvez [les ateliers BlueHats](https://github.com/blue-hats/ateliers/blob/main/ateliers.org), avec notamment la présentation de la messagerie collaborative de l'État, les outils [Framasoft](https://framasoft.org) dans l’administration publique ainsi qu'une présentation de framaforms/Yakforms, et la présentation du Standard pour un code informatique public ([lien en anglais](https://standard.publiccode.net/)).
+-   En **septembre 2021**, retrouvez [les ateliers BlueHats](https://github.com/codegouvfr/ateliers/blob/main/ateliers.org), avec notamment la présentation de la messagerie collaborative de l'État, les outils [Framasoft](https://framasoft.org) dans l’administration publique ainsi qu'une présentation de framaforms/Yakforms, et la présentation du Standard pour un code informatique public ([lien en anglais](https://standard.publiccode.net/)).
 
 -   **9 septembre 2021** : Intervention de la DGFiP à la [journée annuelle *open source* du CRIP](https://www.crip-asso.fr/crip/event/detail.html/idConf/966).  « Lac de données et distribution Hadoop : suite au rachat d’Hortonworks par Cloudera, motivations et démarche de la DGFIP », par Su YANG, Responsable du pôle données DGFIP.
 

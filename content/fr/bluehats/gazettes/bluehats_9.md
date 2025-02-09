@@ -106,7 +106,7 @@ La particularité de cette opération ?  Elle s’appuie sur l’approche PROPRE
 
 Les ateliers #BlueHats continuent, avec des présentations de logiciels libres utilisés dans le secteur public.  Ces ateliers se tiennent en visioconférence les vendredi de 11h à 12h30, sur un rythme d'à peu près un atelier tous les quinze jours.
 
-Vous pouvez consulter la liste des ateliers via [ce dépôt](https://github.com/blue-hats/ateliers/) et, bien sûr, en [proposer de nouveaux](https://github.com/blue-hats/ateliers/issues/new?assignees=bzg&labels=Proposition&template=proposition-atelier.md&title=Proposition+%3A+).
+Vous pouvez consulter la liste des ateliers via [ce dépôt](https://github.com/codegouvfr/ateliers/) et, bien sûr, en [proposer de nouveaux](https://github.com/codegouvfr/ateliers/issues/new?assignees=bzg&labels=Proposition&template=proposition-atelier.md&title=Proposition+%3A+).
 
 ## Annonces FAST et EIG
 

@@ -36,7 +36,7 @@ L'Institut Géographique National a lancé une [concertation publique de l'IGN s
 
 ## Focus : Open Terms Archive
 
-*Une présentation de Clément Biron, développeur dans l'équipe de l'Ambassadeur pour le numérique. Clément a présenté le projet OTA lors d'un [atelier BlueHats](https://github.com/blue-hats/ateliers/blob/main/ateliers.org) que vous pouvez [revoir ici](https://tube.numerique.gouv.fr/w/cFugQMzvEcmQZGSMuLN2GF).*
+*Une présentation de Clément Biron, développeur dans l'équipe de l'Ambassadeur pour le numérique. Clément a présenté le projet OTA lors d'un [atelier BlueHats](https://github.com/codegouvfr/ateliers/blob/main/ateliers.org) que vous pouvez [revoir ici](https://tube.numerique.gouv.fr/w/cFugQMzvEcmQZGSMuLN2GF).*
 
 Quel contrat ai-je accepté en utilisant un service numérique ? Les conditions ont-elles changé depuis que j’utilise ces services ? Dans quel sens évoluent-elles ? Sont-elles conformes aux discours de ces acteurs et aux lois qui encadrent leurs pratiques ?
 
@@ -86,7 +86,7 @@ Le Museum National d'Histoire Naturel recrute [un développeur GeoNature (Postgr
 
 Les 8 et 9 juin derniers se sont tenues les matinées de découverte d'[utilitR](https://www.utilitr.org/conferences/decouverte-utilitr/), une communauté qui se forme autour du [langage R](https://fr.wikipedia.org/wiki/R_(langage)) et des outils qui gravitent autour.
 
-Le 25 juin prochain aura lieu la 2ème partie de l'atelier BlueHats sur [les motivations pour contribuer à des projets open source](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#25-juin--quelles-motivations-pour-contribuer-%C3%A0-des-projets-open-source--suite), présenté par Nicolas Jullien.  Vous pouvez [revoir la session précédente ici](https://tube.numerique.gouv.fr/w/3yDXM7A4p7WybEXAod6U5u).
+Le 25 juin prochain aura lieu la 2ème partie de l'atelier BlueHats sur [les motivations pour contribuer à des projets open source](https://github.com/codegouvfr/ateliers/blob/main/ateliers.org#25-juin--quelles-motivations-pour-contribuer-%C3%A0-des-projets-open-source--suite), présenté par Nicolas Jullien.  Vous pouvez [revoir la session précédente ici](https://tube.numerique.gouv.fr/w/3yDXM7A4p7WybEXAod6U5u).
 
 Les 9 et 10 novembre prochain aura lieu le salon [Open Source Expérience](https://www.opensource-experience.com/), un moment de rencontre important pour tout le secteur du logiciel libre.
 
