@@ -37,7 +37,7 @@ Dans le cadre de ce programme, un partenariat a été signé entre la DINUM et l
 
 -   Le [communiqué de presse (PDF)](https://www.centralesupelec.fr/sites/default/files/cp_etalab_centralesupelec_-_131221.pdf) de CentraleSupélec
 -   Un [article de nextinpact.com](https://www.nextinpact.com/lebrief/49255/bluehats-semester-of-code-centralesupelec-sallie-avec-etalab-pour-developpement-logiciels-libres#/page/1) relayant ce partenariat
--   La [liste des propositions de contributions](https://github.com/blue-hats/bluehats-soc)
+-   La [liste des propositions de contributions](https://github.com/codegouvfr/bluehats-soc)
 
 Ce programme est ouvert : si vous travaillez dans une formation universitaire ou une école publique proposant des stages pour des contributions à des logiciels libres, n'hésitez pas à nous écrire !
 
@@ -50,7 +50,7 @@ La liste des licences libres autorisées pour les publications de codes sources 
 -   La [liste des licences autorisées](https://www.data.gouv.fr/fr/pages/legal/licences/)
 -   Le [guide interactif](https://code.gouv.fr/guides/juridique/) pour la publication de codes sources
 
-Un atelier #BlueHats aura lieu [le 25 février à 11h](https://github.com/blue-hats/ateliers/blob/main/ateliers.org#25-f%C3%A9vrier--pr%C3%A9sentation-de-la-licence-european-union-public-licence) pour présenter la licence EUPL, ce sera l'occasion de venir poser vos questions !
+Un atelier #BlueHats aura lieu [le 25 février à 11h](https://github.com/codegouvfr/ateliers/blob/main/ateliers.org#25-f%C3%A9vrier--pr%C3%A9sentation-de-la-licence-european-union-public-licence) pour présenter la licence EUPL, ce sera l'occasion de venir poser vos questions !
 
 ### Ouverture des codes sources de FranceConnect+
 
