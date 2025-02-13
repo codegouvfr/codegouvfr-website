@@ -27,5 +27,6 @@ showBreadcrumb: true
 
 - La [liste de discussion publique](https://lists.sr.ht/~bluehats/fr): chacun est libre de s'y abonner en écrivant à `~bluehats/fr+subscribe@lists.sr.ht` et d'y envoyer des courriels à `~bluehats/fr@lists.sr.ht`. **Attention :** quand vous écrivez à la liste, celle-ci ne vous envoie pas de copie de vos propres mails.
 - Le canal public IRC `#bluehats` du serveur `irc.libera.chat`: vous pouvez [vous connecter via une interface web](https://web.libera.chat/#bluehats).
+- Le mouvement [#BlueHats Global](https://bluehats.global/connect/)
 
 <br/>
