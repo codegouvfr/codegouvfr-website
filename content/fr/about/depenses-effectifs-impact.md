@@ -72,7 +72,10 @@ Nos produits principaux sont fortement réutilisés :
 
 #### Nous contribuons à l'animation du mouvement BlueHats 🧢
 
+BlueHats est un [mouvement global](https://bluehats.global) mobilisant des agents publics pour la promotion des logiciels libres par/pour/dans les services publics. Voici nos contributions à ce mouvement depuis 2021 :
+
 - 30 gazette BlueHats
 - 55 ateliers BlueHats
 - 8 rencontres BlueHats
 - 5 journées BlueHats au salon Open Source Experience
+- De nombreuses participations à des événements internationaux
