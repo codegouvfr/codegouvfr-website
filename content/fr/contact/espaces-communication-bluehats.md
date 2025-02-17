@@ -1,4 +1,4 @@
-x---
+---
 title: Où échanger avec d'autres agents publics libristes de la communauté BlueHats ?
 layout: layouts/page.njk
 segments:
