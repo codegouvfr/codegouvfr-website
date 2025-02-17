@@ -1,5 +1,5 @@
 ---
-title: Où échanger avec d'autres agents publics libristes de la communauté BlueHats ?
+title: Où échanger avec d'autres agents publics libristes ?
 layout: layouts/page.njk
 segments:
   - url: /contact/
@@ -25,7 +25,7 @@ showBreadcrumb: true
 
 ## Espaces publics ouverts à toutes et tous
 
-- La [liste de discussion publique](https://lists.sr.ht/~bluehats/fr) du mouvement [#BlueHats Global](https://bluehats.global/connect/)
+- La [liste de discussion publique](https://lists.sr.ht/~bluehats/fr) du mouvement [#BlueHats Global 🧢](https://bluehats.global/connect/)
 - Le canal public IRC `#bluehats` du serveur `irc.libera.chat`: vous pouvez [vous connecter via une interface web](https://web.libera.chat/#bluehats).
 
 <br/>
