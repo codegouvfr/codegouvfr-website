@@ -1,6 +1,9 @@
 User-agent: *
 Allow: /
 
+User-agent: GPTBot
+Disallow: /
+
 Host: https://code.gouv.fr/
 
 Sitemap: https://code.gouv.fr/sitemap.xml
