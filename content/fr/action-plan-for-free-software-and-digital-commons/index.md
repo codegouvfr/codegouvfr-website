@@ -9,7 +9,7 @@ eleventyNavigation:
   order: 3
 ---
 
-*[Read the english version.](/en/action-plan-for-free-software-and-digital-commons/)*
+**⚠️ Ce plan d'action est obsolète, il est proposé ici à des fins d'archivage.**
 
 Le plan d’action « logiciels libres et communs numériques » a été conçu par le ministère de la Transformation et de la Fonction publiques à la suite de la publication de la [circulaire data](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire data - Lien externe") du Premier ministre n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
 

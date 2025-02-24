@@ -161,7 +161,7 @@ Attention : l'<a href="https://www.opensource-experience.com/creer-mon-badge/">
 <tr>
 <td class="org-left">17h30-18h</td>
 <td class="org-left">Plan d'action logiciels libres et communs numériques : un an plus tard</td>
-<td class="org-left"><a href="https://www.numerique.gouv.fr/">DINUM</a> (<a href="https://www.numerique.gouv.fr/">Pôle logiciels libres</a> et <a href="https://catalogue.numerique.gouv.fr/">LABEL</a>)</td>
+<td class="org-left"><a href="https://www.numerique.gouv.fr">DINUM</a> (<a href="https://www.numerique.gouv.fr">Pôle logiciels libres</a> et <a href="https://catalogue.numerique.gouv.fr">LABEL</a>)</td>
 </tr>
 </tbody>
 </table>
