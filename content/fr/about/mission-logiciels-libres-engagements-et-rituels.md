@@ -11,7 +11,7 @@ showBreadcrumb: true
 
 L'objectif de la mission logiciels libres est de renforcer l'utilisation de logiciels libres dans l'administration, d'accompagner l'ouverture des codes sources publics et de rendre l'Etat plus attractif auprès des talents numériques en s'appuyant sur le libre.
 
-La mission logiciels libres *pilote* le [plan d'action logiciels libres et communs numériques](/fr/plan-action-logiciels-libres-et-communs-numeriques/) et maintient [code.gouv.fr](/fr/).
+La mission logiciels libres maintient [code.gouv.fr](/fr/).
 
 Il *met en oeuvre* des [produits](/fr/mission/#les-produits-de-la-mission-logiciels-libres) pour mener à bien ce plan d'action, en particulier [code.gouv.fr/sources](https://code.gouv.fr/sources) et le [socle interministériel de logiciels libres](https://code.gouv.fr/sill).
 

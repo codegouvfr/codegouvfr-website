@@ -13,13 +13,11 @@ Vous souhaitez suivre les activités de la mission logiciels libres ?
 Voici des informations pour [organiser votre veille](/fr/contact/veille/).
 :::
 
-Ce site présente les ressources publiées et mises en oeuvre dans le cadre du [plan d'action logiciels libres et communs numériques](/fr/plan-action-logiciels-libres-et-communs-numeriques/).
+Ce site présente les ressources publiées et mises en oeuvre par la mission logiciels libres.
 
 Son code source est publié [sur ce dépôt](https://github.com/codegouvfr/codegouvfr-website).
 
 ## L'équipe de la mission logiciels libres
-
-Le plan d'action est piloté par la mission logiciels libres de la [direction interministérielle du numérique (DINUM)](https://www.numerique.gouv.fr/).
 
 [Voir la présentation en ligne](https://speakerdeck.com/bluehats/dinum){.fr-link .fr-fi-arrow-right-line .fr-link--icon-right}
 
@@ -56,11 +54,9 @@ La DINUM anime un groupe de travail logiciels libres pour les administrateurs mi
 
 ## Le Conseil d'expertise et de mobilisation logiciels libres (CLL)
 
-La DINUM anime un conseil d'expertise et de mobilisation autour du plan d'action logiciels libres et communs numériques. Ce conseil vise à favoriser l'entraide entre administrations et l'accès à des services proposés par l'écosystème.
+La DINUM anime un conseil d'expertise et de mobilisation logiciels libres. Ce conseil vise à favoriser l'entraide entre administrations et l'accès à des services proposés par l'écosystème.
 
 Il réunit d'un côté des agents publics d'administrations engagées dans l'utilisation et le développement de logiciels libres, de l'autre des acteurs de l'écosystème : associations et fondations rassemblant des citoyens, des collectivités et des entreprises.
-
-Son rôle est d'être un espace d'échange entre différents acteurs du logiciel libre visant ensemble la réussite du [plan d'action logiciels libres](/fr/plan-action-logiciels-libres-et-communs-numeriques/).
 
 Le conseil peut se saisir de toute question à l'intersection entre le logiciel libre et la transformation numérique de l'administration et remonter à la DINUM un avis consultatif que le conseil décide ou non de rendre public.  Si vous souhaitez présenter au conseil un sujet sur lequel celui-ci pourrait émettre un avis, vous pouvez l'envoyer par mail au pôle logiciels libres qui le relaiera.
 

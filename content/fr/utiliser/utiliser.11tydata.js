@@ -14,7 +14,7 @@ module.exports = {
         {
             url: "/fr/communs/",
             title: "Recourir et contribuer à des communs numériques",
-            description: "Le plan d'action encourage le recours à des communs numériques, suivez ce lien pour en apprendre plus."
+            description: "La DINUM encourage le recours à des communs numériques, suivez ce lien pour en apprendre plus."
         }
     ]
 };
