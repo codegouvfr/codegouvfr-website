@@ -3,10 +3,6 @@ title: Plan d’action logiciels libres et communs numériques
 layout: layouts/post.njk
 date: 2021-11-10
 slugOverride: plan action logiciels libres et communs numeriques
-eleventyNavigation:
-  key: Le plan d'action
-  parent: À propos
-  order: 3
 ---
 
 **⚠️ Ce plan d'action est obsolète, il est proposé ici à des fins d'archivage.**

@@ -1,9 +1,10 @@
 ---
-title: Ressources diverses
+title: Interventions
 layout: layouts/page.njk
-segments:
-  - url: /doc/
-    title: Documentation
+eleventyNavigation:
+  key: "Interventions de la mission"
+  parent: Ressources
+  order: 10
 showBreadcrumb: true
 ---
 

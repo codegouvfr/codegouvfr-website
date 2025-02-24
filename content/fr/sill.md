@@ -1,17 +1,8 @@
 ---
-title: Socle interministériel de logiciels libres
-layout: layouts/page.njk
-permalink: /fr/sill/
+eleventyNavigation:
+  key: Socle interministériel de logiciels libres
+  externalUrl: https://code.gouv.fr/sill
+  parent: Ressources
+  order: 1
+permalink: false
 ---
-
-L'application du socle interministériel de logiciels libres est
-temporairement hors ligne.
-
-Vous pouvez télécharger les données de la dernière version du SILL :
-
-- [au format .pdf](https://code.gouv.fr/data/sill.pdf)
-- [au format .tsv](https://code.gouv.fr/data/sill.tsv)
-
-<br/>
-
-Pour toute question, [contactez-nous](/fr/contact).

@@ -1,12 +1,13 @@
 ---
-title: "Soutenir les mainteneurs de logiciels libres critiques et fragiles"
-layout: layouts/post.njk
-eleventyNavigation:
-  key: Prix BlueHats
-  url: /fr/bluehats/prix-bluehats/
-  parent: BlueHats 🧢
-  order: 5
+title: "Lancement du Prix BlueHats"
+description: "Soutenir les mainteneurs de logiciels libres critiques et fragiles"
+date: 2024-01-21
 permalink: /fr/bluehats/prix-bluehats/
+image:
+  path: ./dependency.png
+  alt: Illustration pour le prix BlueHats - Dependency - https://xkcd.com/2347/ - CC by-nc 2.5
+  hide: True
+tags: bluehats
 ---
 
 Si vous nous suivez, il y a des chances pour que vous connaissiez déjà
