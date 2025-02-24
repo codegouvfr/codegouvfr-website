@@ -3,6 +3,6 @@ eleventyNavigation:
   key: Codes sources publics
   externalUrl: https://code.gouv.fr/sources
   parent: Ressources
-  order: 1
+  order: 2
 permalink: false
 ---
