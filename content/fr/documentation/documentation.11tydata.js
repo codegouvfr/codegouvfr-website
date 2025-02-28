@@ -32,7 +32,7 @@ module.exports = {
             url: false,
             externalUrl: "https://code.gouv.fr/guides/codegouvfr-score/",
             title: "Guide Awesome CodeGouvFr : votre projet est-il remarquable ?",
-            description: `Êtes-vous prêts à intégrer https://code.gouv.fr/fr/awesome/ ?`
+            description: `Êtes-vous prêts à intégrer la liste Awesome code.gouv.fr ?`
         }, {
             url: false,
             externalUrl: "https://code.gouv.fr/guides/ospo/",
