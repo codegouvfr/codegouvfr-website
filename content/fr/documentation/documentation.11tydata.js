@@ -14,6 +14,12 @@ module.exports = {
             externalUrl: "https://code.gouv.fr/presentation/",
             title: "Présentation du site code.gouv.fr",
             description: `Découvrir les ressources proposées par la mission logiciels libres.`
+        }, 
+	{
+            url: false,
+            externalUrl: "https://code.gouv.fr/faq/",
+            title: "FAQ Logiciels libres",
+            description: `Parcourir la FAQ de notre documentation.`
         }
     ],
     guides: [
