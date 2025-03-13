@@ -1,6 +1,6 @@
 ---
 title: "Présentation du rapport : « Modèles de valorisation socio-économique des productions numériques issues de la recherche publique dans un contexte de Science Ouverte » d’INRAE Transfert et INRAE"
-date: 2024-03-28
+date: 2025-03-28
 ---
 
 - Date : 28 mars 2025 de 11h à 12h30
