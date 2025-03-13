@@ -1,9 +1,9 @@
 ---
 title: "Présentation du rapport : « Modèles de valorisation socio-économique des productions numériques issues de la recherche publique dans un contexte de Science Ouverte » d’INRAE Transfert et INRAE"
-date: 2025-03-28
+date: 2024-03-28
 ---
 
-- Date : 24 mars 2025 de 11h à 12h30
+- Date : 28 mars 2025 de 11h à 12h30
 - Intervenantes : Orlane Gadet, Chargée des relations partenariales (INRAE) et Anne Brunner, Responsable du pôle Environnement & Agroécologie (INRAE Transfert)
 - Lien de visio : [salon BlueHats](https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf)
 
