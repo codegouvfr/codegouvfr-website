@@ -47,4 +47,4 @@ pour chacun de ces modèles, ce rapport présente leurs principales
 caractéristiques, leurs points forts et les points de vigilance
 associés à ces modèles de valorisation.
 
-👉 [Lire l'article en PDF](https://hal.inrae.fr/hal-04279988/document)
+📖 [Lire l'article en PDF](https://hal.inrae.fr/hal-04279988/document)
