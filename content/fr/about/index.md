@@ -32,7 +32,8 @@ Son code source est publié [sur ce dépôt](https://github.com/codegouvfr/codeg
 - La [gazette BlueHats](/fr/bluehats/tags/gazette/) vous informe sur les logiciels libres dans l'administration.
 - Les [ateliers BlueHats](/fr/bluehats/tags/atelier/) liste les wébinaires #BlueHats passés et à venir.
 - Les [guides](/fr/doc/) de la mission vous aident à vous approprier tous les sujets liés aux logiciels libres.
-- Vous pouvez aussi consulter nos [interventions](/fr/doc/ressources/#interventions-de-la-mission-logiciels-libres-en-francais) passées.
+- Nos [présentations](https://speakerdeck.com/bluehats) ou certaines faites par d'autres administrations lors d'ateliers BlueHats.
+- Nos [interventions](/fr/doc/ressources/#interventions-de-la-mission-logiciels-libres-en-francais) passées.
 
 <br/>
 
@@ -111,16 +112,8 @@ Contributions passées :
 
 <br/>
 
-## Les interventions de la mission logiciels libres
-
-[Voir la page dédiée](/fr/doc/ressources/){.fr-link .fr-fi-arrow-right-line .fr-link--icon-right}.
-
 ## Le programme `BlueHats Semester of Code` (2022-2023)
 
 `BlueHats Semester of Code` est un programme de stages de 6 mois permettant de contribuer à des logiciels libres utilisés dans les administrations.  Il est destiné aux étudiants de CentraleSupélec de 2ème année en césure.
 
 [Voir la page dédiée](/fr/bluehats/bluehats-semester-of-code/){.fr-link .fr-fi-arrow-right-line .fr-link--icon-right}
-
-## La politique de contribution aux logiciels libres de l'Etat (2018-2021)
-
-Cette politique de contribution est en cours de remplacement par les [guides](/fr/doc/) de la mission logiciels libres.
