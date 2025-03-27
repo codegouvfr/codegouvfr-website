@@ -1,7 +1,8 @@
 module.exports = {
     actions: [
         {
-            url: "/fr/utiliser/",
+            url: false,
+            externalUrl: "https://code.gouv.fr/sill",
             title: "Pour l'administration",
             description: "Mieux connaître, utiliser et concevoir les logiciels libres et les communs numériques.",
         },
