@@ -3,7 +3,7 @@ title: "Retour sur l’utilisation de LibreOffice dans l’administration"
 date: 2023-03-20
 ---
 
-**⚠️ Depuis le renouvellement du marché de support logiciels libres en octobre 2024, [code.gouv.fr/mimo](https://code.gouv.fr/mimo) ne propose plus de mises à jour de MIMO.**
+**⚠️ Faute de ressources parmi les administrations pour continuer le pilotage de la suite Mimo, plus aucune mise à jour ne sera proposée sur le site [code.gouv.fr/mimo](https://code.gouv.fr/mimo).**
 
 Le 20 mars 2023, à l'initiative d'un
 [#BlueHats](https://code.gouv.fr/fr/bluehats/) du ministère de
