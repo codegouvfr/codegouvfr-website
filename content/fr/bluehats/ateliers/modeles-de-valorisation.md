@@ -2,11 +2,15 @@
 title: "Les licences libres, un nouvel outil pour la valorisation socio-économique des logiciels produits par la recherche publique ?"
 description: "Présentation du rapport : « Modèles de valorisation socio-économique des productions numériques issues de la recherche publique dans un contexte de Science Ouverte » d’INRAE Transfert et INRAE"
 date: 2025-03-28
+video:
+  src: https://tube.numerique.gouv.fr/videos/embed/c03a8378-bd00-4e10-bd94-4494bd577fab
+  title: "Les licences libres, un nouvel outil pour la valorisation socio-économique des logiciels produits par la recherche publique ?"
+slides:
+  src: https://speakerdeck.com/player/d2b7a32f717d49aea9399142a89ea8d7
+  title: "Présentation du rapport : « Modèles de valorisation socio-économique des productions numériques issues de la recherche publique dans un contexte de Science Ouverte » d’INRAE Transfert et INRAE"
 ---
 
-- Date : 28 mars 2025 de 11h à 12h30
-- Intervenantes : Orlane Gadet, Responsable du pôle Environnement & Agroécologie (INRAE Transfert) et Anne Brunner, Chargée des relations partenariales (INRAE)
-- Lien de visio : [salon BlueHats](https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf)
+Intervenantes : Orlane Gadet, Responsable du pôle Environnement & Agroécologie (INRAE Transfert) et Anne Brunner, Chargée des relations partenariales (INRAE)
 
 <br/>
 
