@@ -25,7 +25,7 @@ module.exports = {
         },
         {
             title: "Vous êtes une mission de service public et souhaitez référencer vos dépôts de code source dans notre inventaire ?",
-            content: `<p>Pour ajouter une forge ou un compte d'organisation sur une forge existante, écrivez à <a href="mailto:contact@code.gouv.fr">contact@code.gouv.fr</a> ou envoyez un correctif pour <a href="https://github.com/codegouvfr/codegouvfr-data/blob/main/comptes-organismes-publics.yml" target="_blank">bce fichier</a>.<p><p>Attention : nous ne référençons pas les comptes personnels.</p>`
+            content: `<p>Pour ajouter une forge ou un compte d'organisation sur une forge existante, écrivez à <a href="mailto:contact@code.gouv.fr">contact@code.gouv.fr</a> ou envoyez un correctif pour <a href="https://github.com/codegouvfr/codegouvfr-data/blob/main/comptes-organismes-publics.yml" target="_blank">ce fichier</a>.<p><p>Attention : nous ne référençons pas les comptes personnels.</p>`
         },
         {
             title: "Vous êtes un BlueHat et souhaitez proposer un atelier ou une rencontre ?",
