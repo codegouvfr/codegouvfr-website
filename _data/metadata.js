@@ -20,7 +20,7 @@ module.exports = {
     description: "Recourir et contribuer aux logiciels libres et aux communs numériques",
     author: {
         name: "Mission logiciels libres de la DINUM",
-        email: "contact@code.gouv.fr",
+        email: "floss@numerique.gouv.fr",
         url: "https://code.gouv.fr/fr/mission/"
     },
     service: "Direction interministérielle du numérique"

@@ -18,7 +18,7 @@ C'est le catalogue historique des [logiciels libres](https://fr.wikipedia.org/wi
 
 ### Les nouveautés
 
-- **Tous les agents publics** peuvent se créer un compte sur le site [code.gouv.fr/sill](https://code.gouv.fr/sill) : si le nom de domaine de votre courriel professionnel n'est pas prévalidé, il suffit de [nous écrire](mailto:contact@code.gouv.fr).
+- **Tous les agents publics** peuvent se créer un compte sur le site [code.gouv.fr/sill](https://code.gouv.fr/sill) : si le nom de domaine de votre courriel professionnel n'est pas prévalidé, il suffit de [nous écrire](mailto:floss@numerique.gouv.fr).
 
 - Une fois inscrit, un agent public peut accéder aux courriels des référents d'un logiciel libre : il peut ainsi les solliciter directement pour un avis.
   
@@ -58,4 +58,4 @@ La liste des logiciels que vous pouvez tester va évoluer au fil des semaines à
 
 - Nous sommes passés à la dernière version 1.5.1 du [système de design de l'État](https://www.systeme-de-design.gouv.fr/) et le site est désormais totalement conforme au référentiel général d'amélioration de l'accessibilité 4.1.
 
-Il se peut qu'il y ait ça et là encore un peu de peinture fraîche : si vous rencontrez le moindre souci avec le SILL ou code.gouv.fr, n'hésitez pas à [nous écrire](mailto:contact@code.gouv.fr).
+Il se peut qu'il y ait ça et là encore un peu de peinture fraîche : si vous rencontrez le moindre souci avec le SILL ou code.gouv.fr, n'hésitez pas à [nous écrire](mailto:floss@numerique.gouv.fr).

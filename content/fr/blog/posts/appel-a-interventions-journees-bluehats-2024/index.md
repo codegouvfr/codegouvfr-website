@@ -38,7 +38,7 @@ collaboration fructueuse avec un éditeur ?
 Nous attendons *tous* vos retours d'expérience !
 
 Envoyez **vos propositions d'interventions de 5 à 20 minutes d'ici le
-15 novembre 23h59** à [bluehats@code.gouv.fr](bluehats@code.gouv.fr) :
+15 novembre 23h59** à [floss@numerique.gouv.fr](floss@numerique.gouv.fr) :
 indiquez-nous votre administration de rattachement, le sujet de votre
 intervention et la durée souhaitée (entre 5 et 30 minutes). En cas de
 doute sur la pertinence de votre proposition, écrivez-nous et nous en
@@ -47,7 +47,7 @@ parlerons.
 Nous vous répondrons avant le 22 novembre et publierons le programme
 le 29 novembre. La DINUM ne peut pas prendre en charge vos éventuels
 frais de transport ou d'hébergement ; si votre présentation est retenue
-et que vous avez besoin d'une invitation officielle, [écrivez-nous](mailto:contact@code.gouv.fr).
+et que vous avez besoin d'une invitation officielle, [écrivez-nous](mailto:floss@numerique.gouv.fr).
 
 {% imageContent "./appel-a-interventions-bluehats-2024.png", "Image relayant l'appel à intervention", [1000] %}
 
@@ -63,7 +63,7 @@ Pour participer à cette journée #BlueHats, il est indispensable de vous inscri
 
 Pour en savoir plus sur la communauté #BlueHats voir [notre page dédiée](/fr/bluehats/).
 
-Et pour toute question, n'hésitez pas à [nous écrire](mailto:bluehats@code.gouv.fr).
+Et pour toute question, n'hésitez pas à [nous écrire](mailto:floss@numerique.gouv.fr).
 
 ## Les éditions passées
 

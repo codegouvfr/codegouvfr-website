@@ -11,7 +11,7 @@ Nous en avons aussi profité pour créer deux espaces : l'un consacré aux proj
 
 Si vous êtes développeur, l'espace de référence pour suivre nos travaux est le compte [GitHub](https://github.com/codegouvfr/).
 
-Notre adresse de contact a changé aussi, vous pouvez nous joindre pour toute question à `contact@code.gouv.fr`.
+Notre adresse de contact a changé aussi, vous pouvez nous joindre pour toute question à `floss@numerique.gouv.fr`.
 
 ## Travail de refonte pour code.gouv.fr/sill
 

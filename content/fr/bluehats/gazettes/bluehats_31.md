@@ -21,7 +21,7 @@ La mission logiciels libres animera un « village secteur public » durant les
 
 Dans ce village, vous aurez aussi le plaisir de retrouver l'[ANSSI](https://cyber.gouv.fr), la [DGFiP](https://www.economie.gouv.fr/dgfip), [France Travail](https://francetravail.io), [l'incubateur des territoires](https://incubateur.anct.gouv.fr), l'[IGN](https://www.ign.fr), les ministères de [l'Éducation nationale et de la jeunesse](https://www.education.gouv.fr) et de [l'enseignement supérieur et de la recherche](https://www.enseignementsup-recherche.gouv.fr/fr).
 
-Le 4 décembre, la DINUM vous accueille en matinée pour des démos autour de [La Suite](https://lasuite.numerique.gouv.fr) et toute l'après-midi pour des interventions d'agents publics de plusieurs ministères qui partageront leur expérience d'utilisation et/ou de développement de logiciels libres.  Si vous êtes agent public et souhaitez faire une intervention de moins de 10 minutes, il reste un peu de place, [écrivez-nous](mailto:bluehats@code.gouv.fr) !
+Le 4 décembre, la DINUM vous accueille en matinée pour des démos autour de [La Suite](https://lasuite.numerique.gouv.fr) et toute l'après-midi pour des interventions d'agents publics de plusieurs ministères qui partageront leur expérience d'utilisation et/ou de développement de logiciels libres.  Si vous êtes agent public et souhaitez faire une intervention de moins de 10 minutes, il reste un peu de place, [écrivez-nous](mailto:floss@numerique.gouv.fr) !
 
 L'inscription est [libre et gratuite](https://www.opensource-experience.com/creer-mon-badge/?payment_promo_code=E-DINUMOSXP24).
 
@@ -99,7 +99,7 @@ Si vous travaillez dans l'enseignement supérieur et la recherche, ne manquez pa
 
 À signaler cette parution en février 2024 : [Migrer son système d'information vers les logiciels libres - Un défi politique et technique pour les collectivités](https://boutique.territorial.fr/migrer-systeme-information-logiciels-libres.html).
 
-Si un BlueHats le lit et veut partager une recension, qu'il n'hésite pas à [nous contacter](mailto:contact@code.gouv.fr).
+Si un BlueHats le lit et veut partager une recension, qu'il n'hésite pas à [nous contacter](mailto:floss@numerique.gouv.fr).
 
 ## 📰 La revue de presse
 ### En français

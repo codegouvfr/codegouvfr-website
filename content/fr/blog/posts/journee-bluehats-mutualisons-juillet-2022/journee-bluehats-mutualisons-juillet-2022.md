@@ -44,4 +44,4 @@ Pour ceux qui ont rempli le [formulaire de demande de particiption](https://fram
 
 La journée sera animée par [La dérivation](https://dérivation.fr).
 
-Pour toute question sur cet événement, n'hésitez pas à [nous écrire](mailto:contact@code.gouv.fr).
+Pour toute question sur cet événement, n'hésitez pas à [nous écrire](mailto:floss@numerique.gouv.fr).

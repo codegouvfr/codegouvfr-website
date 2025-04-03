@@ -9,7 +9,7 @@ date: 2024-09-27
 Unies](https://code.gouv.fr/fr/blog/mission-logiciels-libres-nations-unies-2024/),
 nous souhaitons mettre en valeur les autres *Open Source Programme
 Offices* du secteur public.  Nous consolidons des informations dans
-[ce fichier .yml](https://github.com/codegouvfr/codegouvfr-data/blob/main/fr-public-sector-ospo.yml).  Vous connaissez une entitée dédiée aux logiciels libres dans votre administration ?  [Dites-le nous](mailto:contact@code.gouv.fr) !
+[ce fichier .yml](https://github.com/codegouvfr/codegouvfr-data/blob/main/fr-public-sector-ospo.yml).  Vous connaissez une entitée dédiée aux logiciels libres dans votre administration ?  [Dites-le nous](mailto:floss@numerique.gouv.fr) !
 - Nous préparons une mise à jour de notre [inventaire des codes sources publiés par des organismes publics](https://code.gouv.fr/sources/).  N'hésitez pas à vous inscrire à [ce sondage](https://framadate.org/LOGzGWVpxGvg75zz) pour rejoindre les webinaires où nous écouterons vos suggestions.  Voir aussi notre [appel à contributions sur la liste publique #BlueHats](https://lists.sr.ht/~bluehats/fr/%3C878qvys1rl.fsf@bzg.fr%3E).
 
 <br/>
@@ -78,7 +78,7 @@ le 13 septembre 2024.
 
 - Notre [proposition](https://github.com/publicodes/publicodes/pull/563) d'ajouter des informations de financement au standard `publiccode.yml` a été acceptée.
 - La [mission numérique écoresponsable](https://ecoresponsable.numerique.gouv.fr/) publie un podcast d'une rencontre à laquelle la mission logiciels libres a participé.  Le thème ?  « Innovation et empreinte environnementale ». [À écouter](https://ecoresponsable.numerique.gouv.fr/posts/lancement-podcast-juillet2024/) !
-- La mission publie un jeu de données sur [les structures proposant des formations aux logiciels libres](https://www.data.gouv.fr/fr/datasets/structures-proposant-des-formations-aux-logiciels-libres/) : pour enrichir ce jeu de données, [écrivez-nous](mailto:contact@code.gouv.fr) ou [contribuez directement](https://github.com/codegouvfr/codegouvfr-data/blob/main/CONTRIBUTING.md).
+- La mission publie un jeu de données sur [les structures proposant des formations aux logiciels libres](https://www.data.gouv.fr/fr/datasets/structures-proposant-des-formations-aux-logiciels-libres/) : pour enrichir ce jeu de données, [écrivez-nous](mailto:floss@numerique.gouv.fr) ou [contribuez directement](https://github.com/codegouvfr/codegouvfr-data/blob/main/CONTRIBUTING.md).
 
 <br/>
 

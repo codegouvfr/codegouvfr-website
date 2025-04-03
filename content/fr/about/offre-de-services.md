@@ -11,7 +11,7 @@ showBreadcrumb: true
 
 Pour toute demande concernant l'ouverture des codes sources, veuillez vous adresser à votre administrateur ministériel des données, des algorithmes et des codes sources ([voir la liste](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees/)).
 
-Vous pouvez mettre l'adresse `contact@code.gouv.fr` en copie de façon à ce que nous puissions répondre et/ou suivre la demande.
+Vous pouvez mettre l'adresse `floss@numerique.gouv.fr` en copie de façon à ce que nous puissions répondre et/ou suivre la demande.
 
 Les questions courantes sont :
 
@@ -33,7 +33,7 @@ La documentation pour vous aider :
 
 ### Sur le socle interministériel de logiciels libres (SILL)
 
-Pour toute question concernant le SILL, écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
+Pour toute question concernant le SILL, écrivez à [floss@numerique.gouv.fr](mailto:floss@numerique.gouv.fr).
 
 Les questions courantes sont :
 
@@ -46,7 +46,7 @@ Avant de nous écrire, veuillez lire [cette page de documentation du SILL](/fr/d
 
 ### Sur les marchés interministériels de support et d'expertise
 
-Si vous avez des questions sur les [marchés interministériels de support et d'expertise logiciels libres](/fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/), vous pouvez nous écrire à `contact@code.gouv.fr`.
+Si vous avez des questions sur les [marchés interministériels de support et d'expertise logiciels libres](/fr/utiliser/marches-interministeriels-support-expertise-logiciels-libres/), vous pouvez nous écrire à `floss@numerique.gouv.fr`.
 
 Voir [la liste des établissements bénéficiaires des deux marchés](/fr/utiliser/marches-logiciels-libres/) et la [liste des logiciels libres concernés par le marché de support](/fr/utiliser/marches-logiciels-libres-liste-logiciels/).
 
@@ -62,7 +62,7 @@ Les questions courantes sont :
 - Dois-je exiger la cession de la propriété intellectuelle sur les codes sources spécifiques qui seront développés dans le marché ?
 - Dois-je préciser sous quelle licence libre je souhaite publier les développements spécifiques faits dans le cadre du marché ?
 
-N'hésitez pas à écrire à [contact@code.gouv.fr](mailto:contact@code.gouv.fr) pour toutes ces questions.
+N'hésitez pas à écrire à [floss@numerique.gouv.fr](mailto:floss@numerique.gouv.fr) pour toutes ces questions.
 
 <br/>
 
@@ -74,7 +74,7 @@ Cet accompagnement peut se faire par écrit, par rendez-vous ou via le [groupe d
 
 Si vous êtes *décideur pour l'utilisation et/ou le développement de logiciels dans un organisme public*, nous pouvons aussi vous aider par écrit ou par rendez-vous à définir et mettre en oeuvre une stratégie de publication et d'utilisation pour votre établissement.
 
-Pour un premier contact, écrivez à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
+Pour un premier contact, écrivez à [floss@numerique.gouv.fr](mailto:floss@numerique.gouv.fr).
 
 <br/>
 

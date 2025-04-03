@@ -62,7 +62,7 @@ Nous avons aussi constaté que chaque OSPO cherchait **les bons équilibres** en
 
 Côté DINUM, nous souhaitons que la mission logiciels libres continue d'aider les ministères et les opérateurs publics à se mobiliser autour des logiciels libres et nous voulons donner de la visibilité aux OSPOs existants dans le secteur public.
 
-Nous construisons une [base de données sommaire de ces OSPOs](https://github.com/codegouvfr/codegouvfr-data/blob/main/fr-public-sector-ospo.yml). Si vous avez connaissance d'entités dédiées aux logiciels libres dans une administration, n'hésitez pas à [nous contacter](mailto:contact@code.gouv.fr) pour enrichir cette base !
+Nous construisons une [base de données sommaire de ces OSPOs](https://github.com/codegouvfr/codegouvfr-data/blob/main/fr-public-sector-ospo.yml). Si vous avez connaissance d'entités dédiées aux logiciels libres dans une administration, n'hésitez pas à [nous contacter](mailto:floss@numerique.gouv.fr) pour enrichir cette base !
 
 {% imageContent "./ospo-2023-bluehats.png", "Un bonjour des participants de l'édition 2023, avec un BlueHats 🧢 parmi eux !" %}
 

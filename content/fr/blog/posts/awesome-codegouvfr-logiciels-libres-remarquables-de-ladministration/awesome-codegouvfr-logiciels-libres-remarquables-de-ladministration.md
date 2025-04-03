@@ -49,4 +49,4 @@ Ces données sont présentées sur une [page dédiée de notre site web](https:/
 
 ## Awesome NG
 
-Cette liste est en construction et nous vous appelons à y contribuer si vous pensez que votre projet répond aux critères ! Pour cela, [contactez-nous](mailto:contact@code.gouv.fr) ou [proposez directement une *issue*](https://github.com/codegouvfr/awesome-codegouvfr/issues/new/choose).
+Cette liste est en construction et nous vous appelons à y contribuer si vous pensez que votre projet répond aux critères ! Pour cela, [contactez-nous](mailto:floss@numerique.gouv.fr) ou [proposez directement une *issue*](https://github.com/codegouvfr/awesome-codegouvfr/issues/new/choose).

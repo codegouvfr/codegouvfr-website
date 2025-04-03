@@ -10,7 +10,7 @@ segments:
 showBreadcrumb: true
 ---
 
-Pour le détail des versions inclues dans le marché, sollicitez votre coordinateur ministériel.  Si vous ne connaissez pas votre coordinateur ministériel, envoyez un mail à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
+Pour le détail des versions inclues dans le marché, sollicitez votre coordinateur ministériel.  Si vous ne connaissez pas votre coordinateur ministériel, envoyez un mail à [floss@numerique.gouv.fr](mailto:floss@numerique.gouv.fr).
 
 ## Logiciels libres au marché de support
 

@@ -21,7 +21,7 @@ L’audit de conformité réalisé par [DesignGouv](https://design.numerique.gou
 
 La DINUM s’engage à prendre les moyens nécessaires afin de donner accès, dans un délai raisonnable, aux informations et fonctionnalités recherchées par la personne handicapée, que le contenu fasse l’objet d’une dérogation ou non.
 
-La DINUM invite les personnes qui rencontreraient des difficultés à la contacter par courriel à `contact@code.gouv.fr` afin qu’une assistance puisse être apportée (alternative accessible, information et contenu donnés sous une autre forme).
+La DINUM invite les personnes qui rencontreraient des difficultés à la contacter par courriel à `floss@numerique.gouv.fr` afin qu’une assistance puisse être apportée (alternative accessible, information et contenu donnés sous une autre forme).
 
 ## Défenseur des droits
 

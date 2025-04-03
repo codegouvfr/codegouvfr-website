@@ -2,7 +2,7 @@
 layout: layouts/page.njk
 title: Contacts
 ---
-Pour toute demande d'information et d'accompagnement, n'hésitez pas à écrire à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
+Pour toute demande d'information et d'accompagnement, n'hésitez pas à écrire à [floss@numerique.gouv.fr](mailto:floss@numerique.gouv.fr).
 
 La mission logiciels libres est à votre écoute tous les lundi de 17h à 18h sur le [canal IRC #bluehats](https://web.libera.chat) et, pour les agents publics, sur le [salon Tchap BlueHats](https://www.tchap.gouv.fr/#/room/#BlueHats21LW8XE:agent.dinum.tchap.gouv.fr) tous les jeudis de 11h à 12h.
 
