@@ -10,7 +10,7 @@ segments:
 showBreadcrumb: true
 ---
 
-Si votre établissement est bénéficiaire de l'un des deux marchés et si vous ne connaissez pas le courriel de contact de votre coordinateur, vous pouvez nous le demander en écrivant à [contact@code.gouv.fr](mailto:contact@code.gouv.fr).
+Si votre établissement est bénéficiaire de l'un des deux marchés et si vous ne connaissez pas le courriel de contact de votre coordinateur, vous pouvez nous le demander en écrivant à [floss@numerique.gouv.fr](mailto:floss@numerique.gouv.fr).
 
 Nous publions aussi la [liste des logiciels libres pour lesquels vous pouvez demander du support](../marches-logiciels-libres-liste-logiciels/) ainsi que la [liste des contributions faites aux projets libres](../marches-logiciels-libres-liste-contributions/) via le marché.
 

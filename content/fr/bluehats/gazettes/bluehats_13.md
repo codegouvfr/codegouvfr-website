@@ -9,7 +9,7 @@ Le département Etalab de la DINUM sera présent au salon de l'Open Source Exper
 
 Une salle est spécialement réservée au sein du salon afin de réunir toutes celles et ceux qui souhaitent assister à cette rencontre. Au programme, des retours d'expérience sous forme de présentations courtes (lightning talks) autour de logiciels libres développés et/ou utilisés dans la sphère publique.
 
-Si vous êtes agent public, nous vous invitons à intervenir et à nous proposer des sujets de présentations courtes à l'adresse contact@code.gouv.fr.
+Si vous êtes agent public, nous vous invitons à intervenir et à nous proposer des sujets de présentations courtes à l'adresse floss@numerique.gouv.fr.
 
 `>>` [Toutes les informations sur la journée #BlueHats](https://www.numerique.gouv.fr/agenda/journee-bluehats-lors-du-salon-open-source-experience/).
 

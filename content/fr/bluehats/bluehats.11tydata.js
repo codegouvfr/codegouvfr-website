@@ -30,13 +30,13 @@ module.exports = {
         {
             title: "Vous souhaitez participer à la gazette BlueHats ?",
             content: `
-<p>N'hésitez pas à <a href="https://code.gouv.fr/newsletters/subscribe/bluehats@mail.codegouv.fr">vous inscrire</a> à la gazette BlueHats et à proposer des informations en nous <a href="mailto:bluehats@code.gouv.fr">envoyant un courriel</a>.</p>`
+<p>N'hésitez pas à <a href="https://code.gouv.fr/newsletters/subscribe/bluehats@mail.codegouv.fr">vous inscrire</a> à la gazette BlueHats et à proposer des informations en nous <a href="mailto:floss@numerique.gouv.fr">envoyant un courriel</a>.</p>`
         },
         {
             title: "Vous souhaitez participer à un atelier BlueHats ?",
             content: `
 <p>Tout le monde peut y accéder en ligne via <a href="https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf" target="_blank">ce lien</a>.  Ils sont aussi visibles en rediffusion sur <a href="https://tube.numerique.gouv.fr/a/logicielslibres/video-channels" target="_blank">la chaîne BlueHats de la mission logiciels libres</a>.</p>
-<p>Vous souhaitez proposer un atelier BlueHats 🧢 ?  <a href="mailto:bluehats@code.gouv.fr">Contactez-nous !</a></p>`
+<p>Vous souhaitez proposer un atelier BlueHats 🧢 ?  <a href="mailto:floss@numerique.gouv.fr">Contactez-nous !</a></p>`
         },
 {
             title: "Vous souhaitez organiser un atelier ou événement BlueHats ?",

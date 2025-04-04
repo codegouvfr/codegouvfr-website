@@ -71,7 +71,7 @@ La présentation ci-dessus détaille sa composition et les attentes des parties 
 
 Les [ateliers BlueHats](/fr/bluehats/tags/atelier/) animés par la mission logiciels libres permettent de découvrir des solutions libres déployées dans des administrations.
 
-Chaque agent public est invité à proposer un atelier BlueHats en [nous écrivant](mailto:contact@code.gouv.fr).
+Chaque agent public est invité à proposer un atelier BlueHats en [nous écrivant](mailto:floss@numerique.gouv.fr).
 
 ## Les marchés interministériels de support et d'expertise logiciels libres
 

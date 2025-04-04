@@ -34,7 +34,7 @@ Vous pouvez suivre les dépôts de codes sources de la mission logiciels libres 
 Pour nous contacter directement :
 
 - Nous contacter via [le salon #BlueHats](https://web.libera.chat/#bluehats) sur le serveur IRC libera.chat
-- Nous écrire à [contact@code.gouv.fr](mailto:contact@code.gouv.fr)
+- Nous écrire à [floss@numerique.gouv.fr](mailto:floss@numerique.gouv.fr)
 
 <br/>
 

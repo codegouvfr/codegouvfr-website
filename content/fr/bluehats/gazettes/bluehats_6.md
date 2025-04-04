@@ -11,7 +11,7 @@ Les ateliers #BlueHats auront lieu un vendredi sur deux de 11h à 12h30 en visio
 
 Le premier atelier aura lieu le vendredi 17 juillet portera sur le logiciel libre [Matomo](https://code.gouv.fr/sill/detail?name=Matomo) et sera animé par Ronan Chardonneau, formateur Matomo.
 
-`>>` Les ateliers #BlueHats sont ouverts à tout agent public souhaitant partager ses connaissances : n'hésitez pas à [nous contacter](mailto:contact@code.gouv.fr) pour nous proposer une intervention !
+`>>` Les ateliers #BlueHats sont ouverts à tout agent public souhaitant partager ses connaissances : n'hésitez pas à [nous contacter](mailto:floss@numerique.gouv.fr) pour nous proposer une intervention !
 
 ## Focus sur Piaf: Pour des IA francophones
 
@@ -61,7 +61,7 @@ Le [Comptoir du Libre](https://comptoir-du-libre.org) est une plateforme de réf
 
 Depuis la parution du SILL 2020, de nouveaux logiciels ont été ajoutés au [Socle Interministériel de Logiciels Libres](https://code.gouv.fr/sill) - voici la liste : Color Contrast Analyser, Démarches simplifiées, FusionDirectory, JOSM, Moodle, Open EDX, Pentaho CE, Esup-Pod, SPIP, Tracim, Xwiki, Pycharm CE, Chamilo.
 
-`>>` Vous êtes agent public d'une administration et souhaitez être [référent](https://disic.github.io/sill/index.html) pour un logiciel libre que vous utilisez ?  [Contactez-nous](mailto:sill@code.gouv.fr) !
+`>>` Vous êtes agent public d'une administration et souhaitez être [référent](https://disic.github.io/sill/index.html) pour un logiciel libre que vous utilisez ?  [Contactez-nous](mailto:floss@numerique.gouv.fr) !
 
 ## De nouvelles ouvertures de codes sources
 

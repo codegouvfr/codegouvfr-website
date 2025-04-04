@@ -36,7 +36,7 @@ Nous engagements vis-à-vis des ces interlocuteurs sont :
 - Documenter ce que nous faisons
 - Encourager et traiter les contributions
 
-Nous répondons à tous les emails envoyés à `contact@code.gouv.fr`.
+Nous répondons à tous les emails envoyés à `floss@numerique.gouv.fr`.
 
 Nous ne répondons pas systématiquement aux sollicitations sur les réseaux sociaux.
 

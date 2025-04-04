@@ -50,4 +50,4 @@ Un point qui nous tient à cœur : il nous faut trouver un nom qui parle pour u
 
 Si vous connaissez l'histoire du SILL et des groupes MIM, deux espaces demandent un peu d'amour : [l'article Wikipédia dédié SILL](https://fr.wikipedia.org/wiki/Socle_interminist%C3%A9riel_de_logiciels_libres) et [celui dédié aux groupes MIM](https://fr.wikipedia.org/wiki/Mutualisation_interminist%C3%A9rielle_pour_un_environnement_de_travail_ouvert).
 
-Et si vous êtes agent public et que vous souhaitez nous faire des retours critiques et des suggestions, envoyez-nous un [mail](mailto:sill@code.gouv.fr).
+Et si vous êtes agent public et que vous souhaitez nous faire des retours critiques et des suggestions, envoyez-nous un [mail](mailto:floss@numerique.gouv.fr).
