@@ -5,7 +5,9 @@ module.exports = {
             title: "OpenStreetMap",
             description: `
 OpenStreetMap est une carte coopérative librement réutilisable et à laquelle les administrations sont invitées à contribuer.<br><br>Vous pouvez vous rapprocher de l'association OpenStreetMap France pour plus d'information.`
-        }, {
+        },
+
+	{
             url: "https://fr.openfoodfacts.org",
             title: "Open Food Facts",
             description: `
@@ -30,6 +32,24 @@ L’association Infoclimat produit, collecte et met à disposition des données 
             title: "Panoramax",
             description: `
 Panoramax est l'alternative libre pour photo-cartographier les territoires.  Le projet a été initié en 2022 par OpenStreetMap France et L'IGN.`
+        },
+	{
+            url: "https://pyronear.org",
+            title: "Pyronear",
+            description: `
+Pyronear est une solution de détection précoce de départs de feu, basée sur un algorithme et une solution “hardware” ouverts. Pyronear permet ainsi aux Services Départements d’Incendie et de Secours (SDIS) de s’outiller à moindre coût avec solution conçue pour l’intérêt général.`
+        },
+	{
+            url: "https://primtux.fr",
+            title: "PrimTux",
+            description: `
+Développée par une équipe bénévole de professeurs d’école et passionnés depuis 2015, PrimTux est une solution numérique d’apprentissage pour les 3-10 ans qui propose un grand nombre d’exercices dans toutes les matières et selon la logique du programme scolaire à chaque niveau.`
+        },
+	{
+            url: "https://umap.openstreetmap.fr",
+            title: "uMap",
+            description: `
+uMap a été créé en 2012 pour permettre à des personnes sans compétence technique de créer des cartes en ligne.`
         }],
     admCommunsNumeriques: [
         {
