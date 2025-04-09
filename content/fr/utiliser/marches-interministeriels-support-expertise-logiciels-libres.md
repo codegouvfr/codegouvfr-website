@@ -113,12 +113,13 @@ Au regard de l’historique et selon les décisions qui seront prises par la com
 
 Le marché d’expertise est un marché à bon de commande divisé en plusieurs lots :
 
-- Lot 1 : prestations d’expertises « génériques » – Titulaire Linagora ;
-- Lot 2 : Drupal et ses logiciels associés – Titulaire Linagora ;
-- Lot 3 : Samba - infructueux
-- Lot 4 : PostgreSQL et ses logiciels associés – Titulaire Dalibo ;
-- Lot 5 : Openstack et ses logiciels associés – Titulaire LinkByNet ;
-- Lot 6 : Moodle et ses logiciels associés – Titulaire Sopra-Steria
+- Lot 1 : prestations d’expertises « génériques » – Titulaire Linagora ; 
+- Lot 2 : Drupal et ses logiciels associés – Titulaire Smile ; 
+- Lot 3 : PostgreSQL et ses logiciels associés – Titulaire Dalibo ; 
+- Lot 4 : Openstack et ses logiciels associés – Titulaire Worteks ; 
+- Lot 5 : Moodle et ses logiciels associés – En attente de notification ;
+- Lot 6 : Service DATA et ses logiciels associés – Titulaire CGI – ADALTAS ;
+- Lot 7 : Solutions collaboratives et ses logiciels associés – Groupement Arawa/Worteks. 
 
 Le lot 1 dit « générique » porte au départ sur 200 logiciels, mais ce périmètre est extensible au fur et à mesure des besoins nouveaux de l’administration (à l’exception des logiciels faisant l’objet d’un lot spécifique).
 
