@@ -24,7 +24,8 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - ANT
 - Antlr
 - Apache Commons
-- apache Hadoop
+- Apache Hadoop
+- Apache Hive
 - Apache HTTP Server
 - apache kafka
 - apache Spark
@@ -41,12 +42,12 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - bootstrap
 - BouncyCastle
 - Bugzilla
+- c-icap
 - Cargo
 - Castor
 - Centreon
 - CEPH
 - cglib
-- c-icap
 - Cilium
 - ClamAV
 - Cobbler
@@ -67,17 +68,16 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - Eclipse
 - ehcache
 - EJBCA
+- ElasticSearch
+- ETCD
 - Explorer++
 - Falco
 - Filezilla client
-- Filezilla serveur
-- Firebird
 - Firefox
 - Fluentd
 - FOP
 - FPDF
 - FPDI
-- Framadate
 - FreeFileSync
 - Freeradius
 - Fusion Forge
@@ -102,6 +102,7 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - HAVP
 - heartbeat
 - Hibernate
+- Hue
 - ImageMagick
 - InfluxDB
 - Information System Designer
@@ -113,9 +114,9 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - ITSM-NG
 - Jasperreports
 - JasperStudio
+- JAX-WS RI
 - jaxen
 - jaxrpc
-- JAX-WS RI
 - JBoss
 - Jenkins
 - Jersey
@@ -128,6 +129,7 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - jsch
 - JSTL
 - Junit
+- Jupyter Hub
 - Kanboard
 - Keepalived
 - Keepass
@@ -153,6 +155,7 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - Mantis
 - MariaDB
 - Matomo (Ex. Piwik)
+- Mattermost
 - Maven et plugins
 - MBeanMonitor
 - MediaWiki
@@ -160,14 +163,15 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - Metabase
 - Metricbeat
 - Metrics
+- Midpoint
 - MinIO
 - MIT Kerberos
+- MongoDB
 - Moodle
 - MyFaces
 - MySQL
 - NAGIOS
-- Nats.io
-- Neo4j
+- Neo4j 
 - Neo4J-OGM
 - Nextcloud
 - Nexus
@@ -182,10 +186,10 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - Ntp
 - NVDA
 - OCS inventory NG
+- Open Jdk
 - OpenDKIM
 - OpenDMARC
 - OpenFire (anciennement Wildfire)
-- Open Jdk
 - OpenLDAP
 - OpenLDAP ltb
 - OpenNebula
@@ -202,15 +206,16 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - OWASP CSRF Guard
 - OWASP Dependency-Check
 - Owasp Java HTML Sanitizer
+- Packer
 - Papyrus
 - Passbolt CE
 - Patroni
 - Pdftk
 - Peertube
 - Pentaho CE
+- Percona
 - Perl
 - PgAdmin
-- pgbouncer
 - pgpool
 - PHP
 - phpBB
@@ -218,7 +223,7 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - pmd
 - portainer
 - Postfix
-- PostgreSQL
+- PostgreSQL 
 - PowerDNS
 - PrimeFace
 - PrivacyIDEA
@@ -239,6 +244,7 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - R
 - RabbitMQ
 - Rancher
+- Redis
 - Redmine
 - regexp
 - Repmgr
@@ -246,7 +252,6 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - Rocky Linux
 - Roundcube
 - rrdtool
-- RShiny
 - rspamd
 - RStudio
 - rsync
@@ -259,6 +264,8 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - Selenium plugin
 - Sendmail
 - ServiceMix
+- Shibboleth IdP
+- Shibboleth SP
 - Shorewall
 - ShredOS
 - Sl4j
@@ -277,8 +284,8 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - Spring Framework
 - Squash TM
 - SQUID
-- SQUIDGUARD
 - StatusNet
+- Strongswan
 - Struts 1
 - Struts 2
 - Stunnel
@@ -294,9 +301,11 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - Talend Open Studio
 - Tanaguru
 - tcpdump
+- Terraform
 - TestLink
 - The Hive
 - Thunderbird
+- Tomcat
 - Tortoise SVN
 - Trinio
 - Trivy
@@ -304,6 +313,7 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - Tuleap
 - UltraVNC
 - Varnish
+- VAULT
 - Velero
 - Veyon
 - vsftpd
@@ -320,12 +330,12 @@ Pour le détail des versions inclues dans le marché, sollicitez votre coordinat
 - Xdoclet
 - Xerces2 Java
 - XMLBeans
-- XMLsec
 - xmltask
 - XRDP
 - XWiki
+- Z-Push
 - Zabbix
 - Zend engine
 - Zentyal
 - ZooKeeper
-- Z-Push
+
