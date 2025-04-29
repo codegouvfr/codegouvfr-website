@@ -1,10 +1,11 @@
 ---
-title: Socle interministériel de logiciels libres - indisponible
+title: Le SILL est en pause
 layout: layouts/page.njk
 permalink: /fr/sill/
 ---
 
-L'application du socle interministériel de logiciels libres est indisponible.
+Le socle interministériel de logiciels libres, le catalogue des
+logiciels libres de référence de l'administration est indisponible.
 
 Vous pouvez télécharger les données de la dernière version du SILL :
 
