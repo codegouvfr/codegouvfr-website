@@ -1,7 +1,7 @@
 {
   "name": "code.gouv.fr",
   "version": "1.1.0",
-  "description": "Mission logiciels libres et communs numériques",
+  "description": "Pôle open source et communs numériques",
   "scripts": {
     "build": "npx @11ty/eleventy",
     "build-production": "npx @11ty/eleventy",
@@ -16,7 +16,7 @@
     "url": "git@github.com:codegouvfr/codegouvfr-website.git"
   },
   "author": {
-    "name": "Mission logiciels libres (DINUM)",
+    "name": "Pôle open source et communs numériques (DINUM)",
     "email": "floss@numerique.gouv.fr",
     "url": "https://code.gouv.fr/mission/"
   },
