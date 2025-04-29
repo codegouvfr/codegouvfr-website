@@ -1,5 +1,5 @@
 module.exports = {
-    title: "Mission logiciels libres et communs numériques",
+    title: "Pôle open source et communs numériques",
     url: "https://code.gouv.fr",
     newsletter: [
         {
@@ -19,7 +19,7 @@ module.exports = {
     language: "fr",
     description: "Recourir et contribuer aux logiciels libres et aux communs numériques",
     author: {
-        name: "Mission logiciels libres de la DINUM",
+        name: "Pôle open source et communs numériques de la DINUM",
         email: "floss@numerique.gouv.fr",
         url: "https://code.gouv.fr/fr/mission/"
     },
