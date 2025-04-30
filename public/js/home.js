@@ -25,21 +25,21 @@
         sillSoftwareImg.alt = logoAltTemplate`${randomSoftware.name}`;
     });
 
-    const awesomeProjectTitleLink = document.querySelector(".awesome .fr-card__title a");
-    const awesomeProjectImg = document.querySelector(".awesome .fr-card__header img");
+    // const awesomeProjectTitleLink = document.querySelector(".awesome .fr-card__title a");
+    // const awesomeProjectImg = document.querySelector(".awesome .fr-card__header img");
 
-    const awesomeUrl = `${window.location.origin}/fr/awesome`;
+    // const awesomeUrl = `${window.location.origin}/fr/awesome`;
 
-    const getAwesome = async () => {
-        const response = await fetch(`https://code.gouv.fr/data/awesome-codegouvfr.json`);
-        return await response.json();
-    }
+    // const getAwesome = async () => {
+    //     const response = await fetch(`https://code.gouv.fr/data/awesome-codegouvfr.json`);
+    //     return await response.json();
+    // }
 
-    getAwesome().then(awesomeProjects => {
-        const randomProject= random(awesomeProjects);
-        awesomeProjectTitleLink.textContent = randomProject.name;
-        awesomeProjectTitleLink.href = awesomeUrl;
-        awesomeProjectImg.src = randomProject.logo;
-        awesomeProjectImg.alt = logoAltTemplate`${randomProject.name}`;
-    });
+    // getAwesome().then(awesomeProjects => {
+    //     const randomProject= random(awesomeProjects);
+    //     awesomeProjectTitleLink.textContent = randomProject.name;
+    //     awesomeProjectTitleLink.href = awesomeUrl;
+    //     awesomeProjectImg.src = randomProject.logo;
+    //     awesomeProjectImg.alt = logoAltTemplate`${randomProject.name}`;
+    // });
 })();
