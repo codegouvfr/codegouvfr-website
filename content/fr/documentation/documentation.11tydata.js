@@ -8,13 +8,13 @@ module.exports = {
             externalUrl: "https://code.gouv.fr/documentation/",
             title: "Documentation principale",
             description: `Documentation sur les logiciels libres dans l'administration publique : utiliser, publier, contribuer.`
-        }, 
+        },
 	{
             url: false,
             externalUrl: "https://code.gouv.fr/presentation/",
             title: "Présentation du site code.gouv.fr",
             description: `Découvrir les ressources proposées par la mission logiciels libres.`
-        }, 
+        },
 	{
             url: false,
             externalUrl: "https://code.gouv.fr/faq/",
@@ -28,12 +28,13 @@ module.exports = {
             externalUrl: "https://code.gouv.fr/guides/juridique/",
             title: "Guide juridique interactif : quels codes sources ouvrir ?",
             description: `En répondant à quelques questions, faites un point sur vos obligations.`
-        }, {
-            url: false,
-            externalUrl: "https://code.gouv.fr/guides/codegouvfr-score/",
-            title: "Guide Awesome CodeGouvFr : votre projet est-il remarquable ?",
-            description: `Êtes-vous prêts à intégrer la liste Awesome code.gouv.fr ?`
-        }, {
+        }, // {
+        //     url: false,
+        //     externalUrl: "https://code.gouv.fr/guides/codegouvfr-score/",
+        //     title: "Guide Awesome CodeGouvFr : votre projet est-il remarquable ?",
+        //     description: `Êtes-vous prêts à intégrer la liste Awesome code.gouv.fr ?`
+        // },
+	{
             url: false,
             externalUrl: "https://code.gouv.fr/guides/ospo/",
             title: "Guide OSPO : comment créer votre Open Source Programme Office ?",
