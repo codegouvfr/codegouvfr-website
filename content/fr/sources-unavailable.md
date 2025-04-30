@@ -1,5 +1,5 @@
 ---
-title: Inventaire des codes sources publics - indisponible
+title: L'inventaire des codes sources publics est en pause
 layout: layouts/page.njk
 permalink: /fr/sources/
 ---
