@@ -29,7 +29,7 @@ auront des défis similaires aux vôtres.
 ## Espaces publics ouverts à toutes et tous
 
 - La [liste de discussion publique](https://lists.sr.ht/~bluehats/fr) du mouvement [#BlueHats Global 🧢](https://bluehats.global/connect/).
-- Le salon Matrix [BlueHats discuss](https://matrix.to/#/#bluehats-discuss:matrix.org)
+- Le salon Matrix [BlueHats discuss](https://matrix.to/#/#bluehats:matrix.org)
 - Le canal IRC `#bluehats` du serveur `irc.libera.chat` : vous pouvez [vous connecter via une interface web](https://web.libera.chat/#bluehats).
 
 <br/>
