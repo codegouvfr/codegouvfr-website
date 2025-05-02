@@ -93,9 +93,9 @@ pour approbation publique à la DINUM.
 
 ### Réunions à venir
 
-- Le 23/06 de 16h30 à 18h : réunion de l'écosystème logiciels libres
-- Le 06/10 de 16h30 à 18h : réunion de l'écosystème logiciels libres
-- Le 08/12 de 16h à 18h : réunion en plénière (administrations et écosystème logiciels libres) la DINUM
+- Le 23 juin 2025 de 16h30 à 18h : réunion de l'écosystème logiciels libres
+- Le 6 octobre 2025 de 16h30 à 18h : réunion de l'écosystème logiciels libres
+- Le 8 décembre 2025 de 16h à 18h : réunion en plénière (administrations et écosystème logiciels libres) la DINUM
 
 ### Réunions passées
 
