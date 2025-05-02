@@ -68,7 +68,7 @@ pour approbation publique à la DINUM.
 
 - **1er février 2023** : « Pensez-vous que de rendre possible
   l'installation d'un système d'exploitation libre augmente la
-  durabilité des ordinateurs (portables ou non) et des smartphones ? »
+  durabilité des ordinateurs (portables ou non) et des smartphones ? »
   Avis soutenu par la majorité des membres du conseil « écosystème »
   et **soutenu par la DINUM**.
 
@@ -93,7 +93,9 @@ pour approbation publique à la DINUM.
 
 ### Réunions à venir
 
-En construction.
+- Le 23/06 de 16h30 à 18h : réunion de l'écosystème logiciels libres
+- Le 06/10 de 16h30 à 18h : réunion de l'écosystème logiciels libres
+- Le 08/12 de 16h à 18h : réunion en plénière (administrations et écosystème logiciels libres) la DINUM
 
 ### Réunions passées
 
