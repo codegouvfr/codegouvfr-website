@@ -7,29 +7,11 @@ segments:
 showBreadcrumb: true
 ---
 
-## Accompagnement à l'ouverture des codes sources
+## Accompagnement des équipes produit de l'opérateur de la DINUM
 
-Pour toute demande concernant l'ouverture des codes sources, veuillez vous adresser à votre administrateur ministériel des données, des algorithmes et des codes sources ([voir la liste](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees/)).
+Vous êtes membre d'une équipe de l'opérateur de la DINUM qui développe un produit et vous avez besoin d'aide sur les aspects *open source* du produit?  N'hésitez pas à [nous contacter](/fr/contact/).
 
-Vous pouvez mettre l'adresse `floss@numerique.gouv.fr` en copie de façon à ce que nous puissions répondre et/ou suivre la demande.
-
-Les questions courantes sont :
-
-- Sous quelle licence libre publier mon code source ?
-- Comment savoir si j'ai le droit de publier mon code ?
-- Où publier un code source ?
-- Sous quelle licence publier un code source ?
-
-La documentation pour vous aider :
-
-- [code.gouv.fr/guides/juridique](https://code.gouv.fr/guides/juridique)
-- [code.gouv.fr/guides/ospo](https://code.gouv.fr/guides/ospo)
-- [code.gouv.fr/guides/codegouvfr-score](https://code.gouv.fr/guides/codegouvfr-score)
-- [code.gouv.fr/documentation](https://code.gouv.fr/documentation)
-
-<br/>
-
-## Accompagnement à l'utilisation des logiciels libres
+## Accompagnement des organismes publics pour utiliser des logiciels libres
 
 ### Sur le socle interministériel de logiciels libres (SILL)
 
@@ -62,44 +44,17 @@ Les questions courantes sont :
 - Dois-je exiger la cession de la propriété intellectuelle sur les codes sources spécifiques qui seront développés dans le marché ?
 - Dois-je préciser sous quelle licence libre je souhaite publier les développements spécifiques faits dans le cadre du marché ?
 
-N'hésitez pas à écrire à [floss@numerique.gouv.fr](mailto:floss@numerique.gouv.fr) pour toutes ces questions.
+N'hésitez pas à écrire à [floss@numerique.gouv.fr](mailto:floss@numerique.gouv.fr) pour ces questions.
+
+## Accompagnement des *Open Source Programme Offices* du secteur public
+
+Nous recensons les *Open Source Programme Offices* du secteur public via la page [code.gouv.fr/fr/ospos](https://code.gouv.fr/fr/ospos/): y figurent des entités administratives ou équipes dédiées aux logiciels libres.
+
+Nous mettons à disposition [une liste de discussion privée OSPO-fr](https://groupes.renater.fr/sympa/info/ospo-fr) pour échanger entre membres d'OSPOs publics.
+
+## Mise en relation avec la communauté BlueHats 🧢
+
+Pour entrer en contact avec des communautés de l'administration actives autour des logiciels libres.  Voir [cette page](/fr/contact/espaces-communication-bluehats/).
 
 <br/>
 
-## Accompagnement stratégique
-
-Si vous êtes *administrateur ministériel des données, des algorithmes et des codes sources* nous pouvons vous accompagner pour la définition et la mise en oeuvre de vos politiques de publication et d'utilisation des logiciels libres.
-
-Cet accompagnement peut se faire par écrit, par rendez-vous ou via le [groupe de travail logiciels libres au sein du réseau des AMDAC](/fr/mission/gtt-ll-amdac/).
-
-Si vous êtes *décideur pour l'utilisation et/ou le développement de logiciels dans un organisme public*, nous pouvons aussi vous aider par écrit ou par rendez-vous à définir et mettre en oeuvre une stratégie de publication et d'utilisation pour votre établissement.
-
-Pour un premier contact, écrivez à [floss@numerique.gouv.fr](mailto:floss@numerique.gouv.fr).
-
-<br/>
-
-## Culture générale
-
-Nous répondons par écrit aux questions de culture générale sur le logiciel libre mais nous ne proposons pas de rendez-vous.
-
-<br/>
-
-## Mise en relation
-
-Nous pouvons par écrit vous aider à entrer en contact avec des communautés de l'administration actives autour des logiciels libres.  Voir [cette page](/fr/contact/espaces-communication-bluehats/).
-
-<br/>
-
-## Formations
-
-La mission logiciels libres ne propose pas (encore) de formations liées aux logiciels libres dans l'administration.
-
-<br/>
-
-## Nous ne répondons pas
-
-- Aux demandes qui n'entrent dans aucune des catégories listées ci-dessus.
-- Aux demandes de formation (celles-ci n'existent pas encore).
-- Aux demandes de promotion d'un logiciel (libre ou non) dans l'administration.
-- Aux demandes techniques sur la mise en oeuvre de systèmes d'information.
-- Aux demandes techniques sur des logiciels libres ou non libres particuliers.
