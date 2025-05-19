@@ -1,5 +1,5 @@
 ---
-title: Suivre les activités de la mission logiciels libres
+title: Suivre les activités du pôle Open Source et Communs Numériques
 layout: layouts/page.njk
 segments:
   - url: /contact/
@@ -14,7 +14,7 @@ Pour des informations générales :
 
 <br/>
 
-Pour suivre les contributions de la mission logiciels libres au mouvement [BlueHats](/fr/bluehats/) :
+Pour suivre les contributions du pôle au mouvement [BlueHats](/fr/bluehats/) :
 
 - Vous abonner [au flux RSS des mises à jour "BlueHats"](/feed/feed.xml) du site `code.gouv.fr`, vous informant des gazettes parues et des ateliers à venir et passés.
 
@@ -27,7 +27,7 @@ Pour connaître les nouveaux logiciels libres recommandés pour et développés 
 
 <br/>
 
-Vous pouvez suivre les dépôts de codes sources de la mission logiciels libres via [notre compte GitHub](https://github.com/codegouvfr/).
+Vous pouvez suivre nos dépôts de codes sources via [notre compte GitHub](https://github.com/codegouvfr/).
 
 <br/>
 

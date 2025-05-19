@@ -1,5 +1,5 @@
 ---
-title: Offre de services de la mission logiciels libres
+title: Offre de services du pôle Open Source et Communs Numériques
 layout: layouts/page.njk
 segments:
   - url: /mission/
