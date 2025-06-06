@@ -19,7 +19,7 @@ Il réunit d'un côté des agents publics d'administrations engagées dans l'uti
 
 Son rôle est d'être un espace d'échange entre différents acteurs du logiciel libre afin d'aider les administrations à mettre les logiciels libres au coeur de leur transformation numérique.
 
-Le conseil peut se saisir de toute question à l'intersection entre le logiciel libre et la transformation numérique de l'administration et remonter à la DINUM un avis consultatif que le conseil décide ou non de rendre public. Si vous souhaitez présenter au conseil un sujet sur lequel celui-ci pourrait émettre un avis, vous pouvez [l'envoyer à la mission logiciels libres](/fr/contact/) qui le relaiera.
+Le conseil peut se saisir de toute question à l'intersection entre le logiciel libre et la transformation numérique de l'administration et remonter à la DINUM un avis consultatif que le conseil décide ou non de rendre public. Si vous souhaitez présenter au conseil un sujet sur lequel celui-ci pourrait émettre un avis, vous pouvez [l'envoyer au pôle Open Source](/fr/contact/) qui le relaiera.
 
 <br/>
 

@@ -6,7 +6,7 @@ showBreadcrumb: true
 ---
 ## Éditeur
 
-Le site `code.gouv.fr` est édité par la mission logiciels libres au sein de la direction interministérielle du numérique (DINUM).
+Le site `code.gouv.fr` est édité par le pôle Open Source et Communs Numériques au sein de la direction interministérielle du numérique (DINUM).
 
 Coordonnées :
 
