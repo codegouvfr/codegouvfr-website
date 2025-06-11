@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>OSPOmeta YAML Generator</title>
+    <style>
+     /* Base styles */
+     body {
+         font-family: monospace;
+         max-width: 800px;
+         margin: 20px auto;
+     }
+
+     /* Form components */
+     .form__group {
+         margin-bottom: 10px;
+     }
+     .form__label {
+         display: inline-block;
+         width: 160px;
+         font-weight: bold;
+     }
+     .form__input {
+         width: 610px;
+         padding: 5px;
+     }
+     .form__input--textarea {
+         height: 100px;
+         vertical-align: top;
+     }
+     .form__input--invalid {
+         border: 1px solid red;
+         background-color: #ffeeee;
+     }
+     .form__error {
+         color: red;
+         font-size: 0.8em;
+         margin-left: 170px;
+         display: none;
+     }
+
+     /* Output area */
+     .output {
+         border: 1px solid #ddd;
+         padding: 10px;
+         margin-top: 20px;
+         min-height: 200px;
+         white-space: pre;
+         font-family: monospace;
+         background-color: #f5f5f5;
+     }
+
+     /* Action buttons */
+     .button-container {
+         margin-top: 10px;
+         text-align: right;
+     }
+     .button {
+         padding: 8px 15px;
+         background-color: #4CAF50;
+         color: white;
+         border: none;
+         border-radius: 4px;
+         cursor: pointer;
+	 font-size: 16px;
+     }
+     .button:hover {
+	 background-color: #45a049;
+     }
+    </style>
+  </head>
+  <body>
+    <h1>OSPOmeta YAML Generator</h1>
+
+    <p>OSPOmeta aims at providing a minimal metadata schema for Open Source Programme Offices. See <a href="https://github.com/Bluehats/ospometa">this repo for more</a>.</p>
+    
+    <br/>
+
+    <div id="form-container">
+      <!-- Form fields will be dynamically generated here -->
+    </div>
+
+    <h2>Generated YAML for this OSPO</h2>
+    <div id="result-div" class="output">
+      # YAML will be generated here as you type
+    </div>
+    <div class="button-container">
+      <button id="email-button" class="button">Send YAML by Email</button>
+    </div>
+
+    <script>
+     // Constants for validation messages and other strings
+     const MESSAGES = {
+       URL_ERROR: 'Please enter a valid URL',
+       EMAIL_ERROR: 'Please enter a valid email address',
+       DATE_ERROR: 'Please enter a valid ISO 8601 date (YYYY-MM-DD)',
+       CODE_ERROR: 'One or more URLs are invalid',
+       EMPTY_URL: '# Enter a URL to generate YAML',
+       EMAIL_SUBJECT: 'New yml entry for the list of public sector OSPOs',
+       EMAIL_RECIPIENT: 'floss@numerique.gouv.fr'
+     };
+
+     // Form field configuration - single source of truth
+     const formFields = [
+       {
+         id: 'url-input',
+         type: 'text',
+         label: 'URL',
+         placeholder: 'The main URL of the OSPO',
+         validation: 'url',
+         errorMsg: MESSAGES.URL_ERROR,
+         yamlKey: null // Special case - used as identifier
+       },
+       {
+         id: 'name-input',
+         type: 'text',
+         label: 'Name',
+         placeholder: 'The name of the OSPO',
+         yamlKey: 'name'
+       },
+       {
+	 id: 'country-input',
+	 type: 'text',
+	 label: 'Country',
+         placeholder: 'Country code (e.g., FR, US, DE)',
+         validation: 'countryCode',
+         errorMsg: 'Please enter a valid 2-letter country code',
+         yamlKey: 'country'
+       },
+       {
+         id: 'description-input',
+         type: 'text',
+         label: 'Description',
+         placeholder: 'The description of the OSPO',
+         yamlKey: 'description'
+       },
+       {
+         id: 'email-input',
+         type: 'email',
+         label: 'Email',
+         placeholder: 'The contact email',
+	 validation: 'email',
+	 errorMsg: MESSAGES.EMAIL_ERROR,
+	 yamlKey: 'email'
+       },
+       {
+	 id: 'created-input',
+	 type: 'text',
+	 label: 'Created',
+	 placeholder: 'The creation date of the OSPO (e.g., 2023-05-17)',
+	 validation: 'date',
+	 errorMsg: MESSAGES.DATE_ERROR,
+	 yamlKey: 'created'
+       },
+       {
+	 id: 'floss-policy-input',
+	 type: 'text',
+	 label: 'FLOSS policy',
+	 placeholder: 'The URL of the FLOSS policy published by the OSPO',
+	 validation: 'url',
+	 errorMsg: MESSAGES.URL_ERROR,
+	 yamlKey: 'floss_policy'
+       },
+       {
+	 id: 'code-input',
+	 type: 'textarea',
+	 label: 'Code',
+	 placeholder: 'A list of source code organizations/groups (one per line)',
+	 validation: 'codeUrls',
+	 errorMsg: MESSAGES.CODE_ERROR,
+	 yamlKey: 'code',
+	 list: true
+       }
+     ];
+
+     // Cache DOM references
+     const domElements = {
+       form: document.getElementById('form-container'),
+       result: document.getElementById('result-div'),
+       emailButton: document.getElementById('email-button')
+     };
+
+     // Validation functions
+     const validators = {
+       url: function(value) {
+	 if (!value) return true; // Empty is valid
+	 try {
+	   // First check with built-in URL parser
+	   const url = new URL(value);
+
+	   // Additional validation checks
+	   // 1. Must be http or https protocol
+	   if (url.protocol !== 'http:' && url.protocol !== 'https:') {
+	     return false;
+	   }
+
+	   // 2. Must have a valid hostname
+	   if (!url.hostname || url.hostname.indexOf('.') === -1) {
+	     return false;
+	   }
+
+	   // 3. The URL should be properly formed
+	   // This regex checks for a basic URL pattern with protocol and domain
+	   const urlPattern = /^(https?:\/\/)(www\.)?[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+(\/[a-zA-Z0-9-_.~%/]*)*$/;
+	   return urlPattern.test(value);
+
+	 } catch (e) {
+	   return false;
+	 }
+       },
+
+       email: function(value) {
+	 if (!value) return true; // Empty is valid
+	 const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+	 return regex.test(value);
+       },
+
+       date: function(value) {
+	 if (!value) return true; // Empty is valid
+	 const regex = /^\d{4}-\d{2}-\d{2}$/;
+	 if (!regex.test(value)) return false;
+
+	 const date = new Date(value);
+	 return date instanceof Date && !isNaN(date) &&
+		date.toISOString().slice(0, 10) === value;
+       },
+
+       codeUrls: function(value) {
+	 if (!value) return true; // Empty is valid
+	 const urls = value.split('\n').filter(item => item.trim());
+         return urls.every(url => validators.url(url.trim()));
+       },
+
+       countryCode: function(value) {
+	 if (!value) return true; // Empty is valid
+	 const regex = /^[A-Z]{2}$/;
+	 return regex.test(value);
+       }
+     };
+
+     // Generate HTML for the form
+     function generateFormHTML() {
+       let html = '';
+
+       formFields.forEach(field => {
+         html += `
+        <div class="form__group">
+          <label for="${field.id}" class="form__label">${field.label}:</label>
+          ${field.type === 'textarea'
+          ? `<textarea id="${field.id}" class="form__input form__input--textarea" placeholder="${field.placeholder}" aria-describedby="${field.id}-error"></textarea>`
+          : `<input type="${field.type}" id="${field.id}" class="form__input" placeholder="${field.placeholder}" aria-describedby="${field.id}-error">`
+          }
+          ${field.validation
+          ? `<div id="${field.id}-error" class="form__error">${field.errorMsg}</div>`
+          : ''
+          }
+        </div>
+	  `;
+       });
+
+       return html;
+     }
+
+     // Validate a specific field
+     function validateField(fieldId) {
+       const field = formFields.find(f => f.id === fieldId);
+       if (!field || !field.validation) return true;
+
+       const input = document.getElementById(fieldId);
+       const errorElement = document.getElementById(`${fieldId}-error`);
+       const isValid = validators[field.validation](input.value.trim());
+
+       input.classList.toggle('form__input--invalid', !isValid);
+       if (errorElement) {
+	 errorElement.style.display = isValid ? 'none' : 'block';
+       }
+
+       return isValid;
+     }
+
+     // Validate all fields
+     function validateAllFields() {
+       return formFields
+	 .filter(field => field.validation)
+	 .every(field => validateField(field.id));
+     }
+
+     // Get all form values
+     function getFormValues() {
+       const values = {};
+
+       formFields.forEach(field => {
+	 const element = document.getElementById(field.id);
+	 if (element) {
+	   values[field.id] = element.value.trim();
+	 }
+       });
+
+       return values;
+     }
+
+     // Generate YAML from form values
+     function generateYaml() {
+       const values = getFormValues();
+       const url = values['url-input'];
+
+       if (!url) {
+	 return MESSAGES.EMPTY_URL;
+       }
+
+       let yaml = `${url}:\n`;
+
+       formFields.forEach(field => {
+         if (field.yamlKey && values[field.id]) {
+           if (field.list) {
+             yaml += `  ${field.yamlKey}:\n`;
+             const items = values[field.id].split('\n').filter(item => item.trim());
+             items.forEach(item => {
+               yaml += `    - ${item.trim()}\n`;
+             });
+           } else if (field.yamlKey === 'description') {
+             yaml += `  ${field.yamlKey}:\n    en: ${values[field.id]}\n`;
+           } else {
+             yaml += `  ${field.yamlKey}: ${values[field.id]}\n`;
+           }
+         }
+       });
+
+       return yaml;
+     }
+
+     // Update the YAML display
+     function updateYaml() {
+       domElements.result.textContent = generateYaml();
+     }
+
+     // Initialize the form
+     function initForm() {
+       // Generate form HTML
+       domElements.form.innerHTML = generateFormHTML();
+
+       // Set up event delegation for form inputs
+       domElements.form.addEventListener('input', function(e) {
+	 if (e.target.matches('input, textarea')) {
+	   updateYaml();
+	 }
+       });
+
+       domElements.form.addEventListener('blur', function(e) {
+	 if (e.target.matches('input, textarea')) {
+	   validateField(e.target.id);
+	 }
+       }, true);
+
+       // Set up email button
+       domElements.emailButton.addEventListener('click', function() {
+	 if (!validateAllFields()) {
+	   alert('Please correct the validation errors before sending the email.');
+	   return;
+	 }
+
+	 const yaml = generateYaml();
+	 if (yaml === MESSAGES.EMPTY_URL) {
+	   alert('Please enter at least a URL before sending the email.');
+	   return;
+	 }
+
+	 const subject = encodeURIComponent(MESSAGES.EMAIL_SUBJECT);
+	 const body = encodeURIComponent(yaml);
+	 window.location.href = `mailto:${MESSAGES.EMAIL_RECIPIENT}?subject=${subject}&body=${body}`;
+       });
+
+       // Initial YAML generation
+       updateYaml();
+     }
+
+     // Initialize the application
+     initForm();
+    </script>
+  </body>
+</html>
