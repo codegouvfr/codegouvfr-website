@@ -10,6 +10,34 @@
          margin: 20px auto;
      }
 
+     /* Language switcher */
+     .language-switcher {
+         position: absolute;
+         top: 20px;
+         right: 20px;
+         display: flex;
+         gap: 10px;
+     }
+     .lang-button {
+         padding: 5px 10px;
+         border: 1px solid #ddd;
+         background: white;
+         cursor: pointer;
+         border-radius: 3px;
+         font-family: monospace;
+     }
+     .lang-button.active {
+         background: #4CAF50;
+         color: white;
+         border-color: #4CAF50;
+     }
+     .lang-button:hover {
+         background: #f0f0f0;
+     }
+     .lang-button.active:hover {
+         background: #45a049;
+     }
+
      /* Form components */
      .form__group {
          margin-bottom: 10px;
@@ -69,17 +97,24 @@
     </style>
   </head>
   <body>
-    <h1>OSPOmeta YAML Generator</h1>
 
-    <p>OSPOmeta aims at providing a minimal metadata schema for Open Source Programme Offices. See <a href="https://github.com/Bluehats/ospometa">this repo for more</a>.</p>
-    
+    <!-- FIXME: Please uncomment this if you need to provide FR and EN explicitely -->
+    <!-- <div class="language-switcher"> -->
+    <!--   <button class="lang-button active" data-lang="en">EN</button> -->
+    <!--   <button class="lang-button" data-lang="fr">FR</button> -->
+    <!-- </div> -->
+
+    <h1 id="main-title">OSPOmeta YAML Generator</h1>
+
+    <p id="description">OSPOmeta aims at providing a minimal metadata schema for Open Source Programme Offices. See <a href="https://github.com/Bluehats/ospometa">this repo for more</a>.</p>
+
     <br/>
 
     <div id="form-container">
       <!-- Form fields will be dynamically generated here -->
     </div>
 
-    <h2>Generated YAML for this OSPO</h2>
+    <h2 id="yaml-header">Generated YAML for this OSPO</h2>
     <div id="result-div" class="output">
       # YAML will be generated here as you type
     </div>
@@ -88,14 +123,115 @@
     </div>
 
     <script>
+     // Translations
+     const translations = {
+       en: {
+         title: 'OSPOmeta YAML Generator',
+         description: 'OSPOmeta aims at providing a minimal metadata schema for Open Source Programme Offices. See <a href="https://github.com/Bluehats/ospometa">this repo for more</a>.',
+         yamlHeader: 'Generated YAML for this OSPO',
+         emailButton: 'Send YAML by Email',
+         urlError: 'Please enter a valid URL',
+         emailError: 'Please enter a valid email address',
+         dateError: 'Please enter a valid ISO 8601 date (YYYY-MM-DD)',
+         codeError: 'One or more URLs are invalid',
+         countryError: 'Please enter a valid 2-letter ISO 3166-1 country code in uppercase (e.g., FR, US, DE, CA, GB)',
+         emptyUrl: '# Enter a URL to generate YAML',
+         emailSubject: 'New yml entry for the list of public sector OSPOs',
+         validationAlert: 'Please correct the validation errors before sending the email.',
+         emptyUrlAlert: 'Please enter at least a URL before sending the email.',
+         yamlComment: '# YAML will be generated here as you type',
+         fields: {
+           url: {
+             label: 'URL',
+             placeholder: 'The main URL of the OSPO'
+           },
+           name: {
+             label: 'Name',
+             placeholder: 'The name of the OSPO'
+           },
+           country: {
+             label: 'Country',
+             placeholder: 'Country code (e.g., FR, US, DE)'
+           },
+           description: {
+             label: 'Description',
+             placeholder: 'The description of the OSPO'
+           },
+           email: {
+             label: 'Email',
+             placeholder: 'The contact email'
+           },
+           created: {
+             label: 'Created',
+             placeholder: 'The creation date of the OSPO (e.g., 2023-05-17)'
+           },
+           flossPolicy: {
+             label: 'FLOSS policy',
+             placeholder: 'The URL of the FLOSS policy published by the OSPO'
+           },
+           code: {
+             label: 'Code',
+             placeholder: 'A list of source code organizations/groups (one per line)'
+           }
+         }
+       },
+       fr: {
+         title: 'Générateur YAML OSPOmeta',
+         description: 'OSPOmeta vise à fournir un schéma de métadonnées minimal pour les Bureaux de Programmes Open Source. Voir <a href="https://github.com/Bluehats/ospometa">ce dépôt pour plus d\'informations</a>.',
+         yamlHeader: 'YAML généré pour cet OSPO',
+         emailButton: 'Envoyer le YAML par Email',
+         urlError: 'Veuillez saisir une URL valide',
+         emailError: 'Veuillez saisir une adresse email valide',
+         dateError: 'Veuillez saisir une date ISO 8601 valide (AAAA-MM-JJ)',
+         codeError: 'Une ou plusieurs URLs sont invalides',
+         countryError: 'Veuillez saisir un code pays ISO 3166-1 valide à 2 lettres en majuscules (ex: FR, US, DE, CA, GB)',
+         emptyUrl: '# Saisissez une URL pour générer le YAML',
+         emailSubject: 'Nouvelle entrée yml pour la liste des OSPOs du secteur public',
+         validationAlert: 'Veuillez corriger les erreurs de validation avant d\'envoyer l\'email.',
+         emptyUrlAlert: 'Veuillez saisir au moins une URL avant d\'envoyer l\'email.',
+         yamlComment: '# Le YAML sera généré ici au fur et à mesure de votre saisie',
+         fields: {
+           url: {
+             label: 'URL',
+             placeholder: 'L\'URL principale de l\'OSPO'
+           },
+           name: {
+             label: 'Nom',
+             placeholder: 'Le nom de l\'OSPO'
+           },
+           country: {
+             label: 'Pays',
+             placeholder: 'Code pays (ex: FR, US, DE)'
+           },
+           description: {
+             label: 'Description',
+             placeholder: 'La description de l\'OSPO'
+           },
+           email: {
+             label: 'Email',
+             placeholder: 'L\'email de contact'
+           },
+           created: {
+             label: 'Créé',
+             placeholder: 'La date de création de l\'OSPO (ex: 2023-05-17)'
+           },
+           flossPolicy: {
+             label: 'Politique FLOSS',
+             placeholder: 'L\'URL de la politique FLOSS publiée par l\'OSPO'
+           },
+           code: {
+             label: 'Code',
+             placeholder: 'Une liste d\'organisations/groupes de code source (un par ligne)'
+           }
+         }
+       }
+     };
+
+     // Current language
+     let currentLang = 'en';
+
      // Constants for validation messages and other strings
      const MESSAGES = {
-       URL_ERROR: 'Please enter a valid URL',
-       EMAIL_ERROR: 'Please enter a valid email address',
-       DATE_ERROR: 'Please enter a valid ISO 8601 date (YYYY-MM-DD)',
-       CODE_ERROR: 'One or more URLs are invalid',
-       EMPTY_URL: '# Enter a URL to generate YAML',
-       EMAIL_SUBJECT: 'New yml entry for the list of public sector OSPOs',
        EMAIL_RECIPIENT: 'floss@numerique.gouv.fr'
      };
 
@@ -104,71 +240,57 @@
        {
          id: 'url-input',
          type: 'text',
-         label: 'URL',
-         placeholder: 'The main URL of the OSPO',
+         fieldKey: 'url',
          validation: 'url',
-         errorMsg: MESSAGES.URL_ERROR,
          yamlKey: null // Special case - used as identifier
        },
        {
          id: 'name-input',
          type: 'text',
-         label: 'Name',
-         placeholder: 'The name of the OSPO',
+         fieldKey: 'name',
          yamlKey: 'name'
        },
        {
-	 id: 'country-input',
-	 type: 'text',
-	 label: 'Country',
-         placeholder: 'Country code (e.g., FR, US, DE)',
-         validation: 'countryCode',
-         errorMsg: 'Please enter a valid 2-letter country code',
+         id: 'country-input',
+         type: 'text',
+         fieldKey: 'country',
+         validation: 'country',
          yamlKey: 'country'
        },
        {
          id: 'description-input',
          type: 'text',
-         label: 'Description',
-         placeholder: 'The description of the OSPO',
+         fieldKey: 'description',
          yamlKey: 'description'
        },
        {
          id: 'email-input',
          type: 'email',
-         label: 'Email',
-         placeholder: 'The contact email',
-	 validation: 'email',
-	 errorMsg: MESSAGES.EMAIL_ERROR,
-	 yamlKey: 'email'
+         fieldKey: 'email',
+         validation: 'email',
+         yamlKey: 'email'
        },
        {
-	 id: 'created-input',
-	 type: 'text',
-	 label: 'Created',
-	 placeholder: 'The creation date of the OSPO (e.g., 2023-05-17)',
-	 validation: 'date',
-	 errorMsg: MESSAGES.DATE_ERROR,
-	 yamlKey: 'created'
+         id: 'created-input',
+         type: 'text',
+         fieldKey: 'created',
+         validation: 'date',
+         yamlKey: 'created'
        },
        {
-	 id: 'floss-policy-input',
-	 type: 'text',
-	 label: 'FLOSS policy',
-	 placeholder: 'The URL of the FLOSS policy published by the OSPO',
-	 validation: 'url',
-	 errorMsg: MESSAGES.URL_ERROR,
-	 yamlKey: 'floss_policy'
+         id: 'floss-policy-input',
+         type: 'text',
+         fieldKey: 'flossPolicy',
+         validation: 'url',
+         yamlKey: 'floss_policy'
        },
        {
-	 id: 'code-input',
-	 type: 'textarea',
-	 label: 'Code',
-	 placeholder: 'A list of source code organizations/groups (one per line)',
-	 validation: 'codeUrls',
-	 errorMsg: MESSAGES.CODE_ERROR,
-	 yamlKey: 'code',
-	 list: true
+         id: 'code-input',
+         type: 'textarea',
+         fieldKey: 'code',
+         validation: 'codeUrls',
+         yamlKey: 'code',
+         list: true
        }
      ];
 
@@ -176,64 +298,107 @@
      const domElements = {
        form: document.getElementById('form-container'),
        result: document.getElementById('result-div'),
-       emailButton: document.getElementById('email-button')
+       emailButton: document.getElementById('email-button'),
+       title: document.getElementById('main-title'),
+       description: document.getElementById('description'),
+       yamlHeader: document.getElementById('yaml-header')
      };
+
+     // Language detection
+     function detectLanguage() {
+       const browserLang = navigator.language || navigator.userLanguage;
+       return browserLang.startsWith('fr') ? 'fr' : 'en';
+     }
+
+     // Get current translation
+     function t(key) {
+       const keys = key.split('.');
+       let value = translations[currentLang];
+       for (const k of keys) {
+         value = value?.[k];
+       }
+       return value || translations.en[key] || key;
+     }
+
+     // Update UI language
+     function updateLanguage() {
+       // Update static elements
+       domElements.title.textContent = t('title');
+       domElements.description.innerHTML = t('description');
+       domElements.yamlHeader.textContent = t('yamlHeader');
+       domElements.emailButton.textContent = t('emailButton');
+
+       // Update form
+       generateFormHTML();
+
+       // Update YAML
+       updateYaml();
+
+       // Update language buttons
+       document.querySelectorAll('.lang-button').forEach(btn => {
+         btn.classList.toggle('active', btn.dataset.lang === currentLang);
+       });
+
+       // Update document language
+       document.documentElement.lang = currentLang;
+       document.title = t('title');
+     }
 
      // Validation functions
      const validators = {
        url: function(value) {
-	 if (!value) return true; // Empty is valid
-	 try {
-	   // First check with built-in URL parser
-	   const url = new URL(value);
+         if (!value) return true; // Empty is valid
+         try {
+           // First check with built-in URL parser
+           const url = new URL(value);
 
-	   // Additional validation checks
-	   // 1. Must be http or https protocol
-	   if (url.protocol !== 'http:' && url.protocol !== 'https:') {
-	     return false;
-	   }
+           // Additional validation checks
+           // 1. Must be http or https protocol
+           if (url.protocol !== 'http:' && url.protocol !== 'https:') {
+             return false;
+           }
 
-	   // 2. Must have a valid hostname
-	   if (!url.hostname || url.hostname.indexOf('.') === -1) {
-	     return false;
-	   }
+           // 2. Must have a valid hostname
+           if (!url.hostname || url.hostname.indexOf('.') === -1) {
+             return false;
+           }
 
-	   // 3. The URL should be properly formed
-	   // This regex checks for a basic URL pattern with protocol and domain
-	   const urlPattern = /^(https?:\/\/)(www\.)?[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+(\/[a-zA-Z0-9-_.~%/]*)*$/;
-	   return urlPattern.test(value);
+           // 3. The URL should be properly formed
+           // This regex checks for a basic URL pattern with protocol and domain
+           const urlPattern = /^(https?:\/\/)(www\.)?[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)+(\/[a-zA-Z0-9-_.~%/]*)*$/;
+           return urlPattern.test(value);
 
-	 } catch (e) {
-	   return false;
-	 }
+         } catch (e) {
+           return false;
+         }
        },
 
        email: function(value) {
-	 if (!value) return true; // Empty is valid
-	 const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-	 return regex.test(value);
+         if (!value) return true; // Empty is valid
+         const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+         return regex.test(value);
        },
 
        date: function(value) {
-	 if (!value) return true; // Empty is valid
-	 const regex = /^\d{4}-\d{2}-\d{2}$/;
-	 if (!regex.test(value)) return false;
+         if (!value) return true; // Empty is valid
+         const regex = /^\d{4}-\d{2}-\d{2}$/;
+         if (!regex.test(value)) return false;
 
-	 const date = new Date(value);
-	 return date instanceof Date && !isNaN(date) &&
-		date.toISOString().slice(0, 10) === value;
+         const date = new Date(value);
+         return date instanceof Date && !isNaN(date) &&
+                date.toISOString().slice(0, 10) === value;
        },
 
        codeUrls: function(value) {
-	 if (!value) return true; // Empty is valid
-	 const urls = value.split('\n').filter(item => item.trim());
+         if (!value) return true; // Empty is valid
+         const urls = value.split('\n').filter(item => item.trim());
          return urls.every(url => validators.url(url.trim()));
        },
 
-       countryCode: function(value) {
-	 if (!value) return true; // Empty is valid
-	 const regex = /^[A-Z]{2}$/;
-	 return regex.test(value);
+       country: function(value) {
+         if (!value) return true; // Empty is valid
+         const regex = /^[A-Z]{2}$/;
+         return regex.test(value);
        }
      };
 
@@ -242,22 +407,25 @@
        let html = '';
 
        formFields.forEach(field => {
+         const fieldTranslation = t(`fields.${field.fieldKey}`);
+         const errorMsg = field.validation ? t(field.validation + 'Error') : '';
+
          html += `
         <div class="form__group">
-          <label for="${field.id}" class="form__label">${field.label}:</label>
+          <label for="${field.id}" class="form__label">${fieldTranslation.label}:</label>
           ${field.type === 'textarea'
-          ? `<textarea id="${field.id}" class="form__input form__input--textarea" placeholder="${field.placeholder}" aria-describedby="${field.id}-error"></textarea>`
-          : `<input type="${field.type}" id="${field.id}" class="form__input" placeholder="${field.placeholder}" aria-describedby="${field.id}-error">`
+          ? `<textarea id="${field.id}" class="form__input form__input--textarea" placeholder="${fieldTranslation.placeholder}" aria-describedby="${field.id}-error"></textarea>`
+          : `<input type="${field.type}" id="${field.id}" class="form__input" placeholder="${fieldTranslation.placeholder}" aria-describedby="${field.id}-error">`
           }
           ${field.validation
-          ? `<div id="${field.id}-error" class="form__error">${field.errorMsg}</div>`
+          ? `<div id="${field.id}-error" class="form__error">${errorMsg}</div>`
           : ''
           }
         </div>
-	  `;
+          `;
        });
 
-       return html;
+       domElements.form.innerHTML = html;
      }
 
      // Validate a specific field
@@ -271,7 +439,8 @@
 
        input.classList.toggle('form__input--invalid', !isValid);
        if (errorElement) {
-	 errorElement.style.display = isValid ? 'none' : 'block';
+         errorElement.style.display = isValid ? 'none' : 'block';
+         errorElement.textContent = t(field.validation + 'Error');
        }
 
        return isValid;
@@ -280,8 +449,8 @@
      // Validate all fields
      function validateAllFields() {
        return formFields
-	 .filter(field => field.validation)
-	 .every(field => validateField(field.id));
+         .filter(field => field.validation)
+         .every(field => validateField(field.id));
      }
 
      // Get all form values
@@ -289,10 +458,10 @@
        const values = {};
 
        formFields.forEach(field => {
-	 const element = document.getElementById(field.id);
-	 if (element) {
-	   values[field.id] = element.value.trim();
-	 }
+         const element = document.getElementById(field.id);
+         if (element) {
+           values[field.id] = element.value.trim();
+         }
        });
 
        return values;
@@ -304,7 +473,7 @@
        const url = values['url-input'];
 
        if (!url) {
-	 return MESSAGES.EMPTY_URL;
+         return t('emptyUrl');
        }
 
        let yaml = `${url}:\n`;
@@ -318,7 +487,7 @@
                yaml += `    - ${item.trim()}\n`;
              });
            } else if (field.yamlKey === 'description') {
-             yaml += `  ${field.yamlKey}:\n    en: ${values[field.id]}\n`;
+             yaml += `  ${field.yamlKey}:\n    ${currentLang}: ${values[field.id]}\n`;
            } else {
              yaml += `  ${field.yamlKey}: ${values[field.id]}\n`;
            }
@@ -335,42 +504,53 @@
 
      // Initialize the form
      function initForm() {
+       // Set initial language based on browser
+       currentLang = detectLanguage();
+
        // Generate form HTML
-       domElements.form.innerHTML = generateFormHTML();
+       generateFormHTML();
 
        // Set up event delegation for form inputs
        domElements.form.addEventListener('input', function(e) {
-	 if (e.target.matches('input, textarea')) {
-	   updateYaml();
-	 }
+         if (e.target.matches('input, textarea')) {
+           updateYaml();
+         }
        });
 
        domElements.form.addEventListener('blur', function(e) {
-	 if (e.target.matches('input, textarea')) {
-	   validateField(e.target.id);
-	 }
+         if (e.target.matches('input, textarea')) {
+           validateField(e.target.id);
+         }
        }, true);
+
+       // Set up language switcher
+       document.querySelectorAll('.lang-button').forEach(button => {
+         button.addEventListener('click', function() {
+           currentLang = this.dataset.lang;
+           updateLanguage();
+         });
+       });
 
        // Set up email button
        domElements.emailButton.addEventListener('click', function() {
-	 if (!validateAllFields()) {
-	   alert('Please correct the validation errors before sending the email.');
-	   return;
-	 }
+         if (!validateAllFields()) {
+           alert(t('validationAlert'));
+           return;
+         }
 
-	 const yaml = generateYaml();
-	 if (yaml === MESSAGES.EMPTY_URL) {
-	   alert('Please enter at least a URL before sending the email.');
-	   return;
-	 }
+         const yaml = generateYaml();
+         if (yaml === t('emptyUrl')) {
+           alert(t('emptyUrlAlert'));
+           return;
+         }
 
-	 const subject = encodeURIComponent(MESSAGES.EMAIL_SUBJECT);
-	 const body = encodeURIComponent(yaml);
-	 window.location.href = `mailto:${MESSAGES.EMAIL_RECIPIENT}?subject=${subject}&body=${body}`;
+         const subject = encodeURIComponent(t('emailSubject'));
+         const body = encodeURIComponent(yaml);
+         window.location.href = `mailto:${MESSAGES.EMAIL_RECIPIENT}?subject=${subject}&body=${body}`;
        });
 
-       // Initial YAML generation
-       updateYaml();
+       // Initial setup
+       updateLanguage();
      }
 
      // Initialize the application
