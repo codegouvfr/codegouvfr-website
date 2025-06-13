@@ -15,7 +15,7 @@ Le pôle Open Source et Communs Numériques maintient [code.gouv.fr](/fr/).
 
 Il *met en oeuvre* des [produits](/fr/mission/#les-produits-de-la-mission-logiciels-libres) pour mener à bien ce plan d'action, en particulier [code.gouv.fr/sources](https://code.gouv.fr/sources) et le [socle interministériel de logiciels libres](https://code.gouv.fr/sill).
 
-Il *contribue* au mouvement BlueHats : les ateliers, la gazette et le programme BlueHats Semester of Code.
+Il *contribue* au mouvement BlueHats : les wébinaires, la gazette et le programme BlueHats Semester of Code.
 
 Il *anime* le [conseil d'expertise et de mobilisation logiciels libres](/fr/mission/conseil-logiciels-libres/), qui réunit des administrations et des acteurs de l'écosystème du logiciel libre, et qui doit contribuer à la réussite du plan d'action.
 

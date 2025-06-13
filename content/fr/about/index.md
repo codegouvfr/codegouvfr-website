@@ -21,9 +21,9 @@ Son code source est publié [sur ce dépôt](https://github.com/codegouvfr/codeg
 
 - [code.gouv.fr/sill](https://code.gouv.fr/sill) vous aide à trouver des logiciels libres recommandés aux administrations.
 - La [gazette BlueHats](/fr/bluehats/tags/gazette/) vous informe sur les logiciels libres dans l'administration.
-- Les [ateliers BlueHats](/fr/bluehats/tags/atelier/) liste les wébinaires #BlueHats passés et à venir.
+- Les [wébinaires BlueHats](/fr/bluehats/tags/webinaire/) liste les wébinaires #BlueHats passés et à venir.
 - Les [guides](/fr/doc/) de la mission vous aident à vous approprier tous les sujets liés aux logiciels libres.
-- Nos [présentations](https://speakerdeck.com/bluehats) ou certaines faites par d'autres administrations lors d'ateliers BlueHats.
+- Nos [présentations](https://speakerdeck.com/bluehats) ou certaines faites par d'autres administrations lors d'wébinaires BlueHats.
 
 <br/>
 
@@ -51,11 +51,11 @@ La présentation ci-dessus détaille sa composition et les attentes des parties 
 
 [Voir la page dédiée pour plus de détails](/fr/mission/conseil-logiciels-libres/){.fr-link .fr-fi-arrow-right-line .fr-link--icon-right}
 
-## Les ateliers BlueHats animés ou accueillis par le pôle
+## Les wébinaires BlueHats animés ou accueillis par le pôle
 
-Les [ateliers BlueHats](/fr/bluehats/tags/atelier/) permettent de découvrir des solutions libres déployées dans des administrations.
+Les [wébinaires BlueHats](/fr/bluehats/tags/webinaire/) permettent de découvrir des solutions libres déployées dans des administrations.
 
-Chaque agent public est invité à proposer un atelier BlueHats en [nous écrivant](mailto:floss@numerique.gouv.fr).
+Chaque agent public est invité à proposer un wébinaire BlueHats en [nous écrivant](mailto:floss@numerique.gouv.fr).
 
 ## Les marchés interministériels de support et d'expertise logiciels libres
 

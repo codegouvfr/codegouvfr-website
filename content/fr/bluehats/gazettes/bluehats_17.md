@@ -63,7 +63,7 @@ Les auteurs reviennent sur l’utilisation historique des logiciels libres jusqu
 
 Vendredi 10 juin, Thomas Magnin-Feysot et Emmanuelle Helly ont présenté l'outil libre GeoRivière. Il vise à organiser les données et à accompagner les techniciens dans leurs tâches courantes de gestion et de suivi des cours d'eau.  Les intervenants ont présenté l'outil et ses différentes fonctionnalités, ainsi que des possibilités de déploiement et d’utilisation sur votre territoire.
 
-`>>` Voir [cette page](/fr/bluehats/georiviere/) pour le revoir cet atelier ou [celle-ci](/fr/bluehats/tags/atelier/) pour voir tous les autres
+`>>` Voir [cette page](/fr/bluehats/georiviere/) pour le revoir ce wébinaire ou [celle-ci](/fr/bluehats/tags/webinaire/) pour voir tous les autres
 
 **Ne manquez pas le prochain atelier du 24 juin !**
 
