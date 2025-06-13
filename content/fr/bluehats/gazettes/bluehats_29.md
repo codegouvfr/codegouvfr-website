@@ -9,7 +9,7 @@ date: 2024-07-27
 - Un nouveau logiciel libre est entré dans le catalogue [Awesome](https://code.gouv.fr/fr/awesome/) :  [Recomandations Collaboratives (Recoco)](https://github.com/betagouv/recommandations-collaboratives/) 
 - [code.gouv.fr](https://code.gouv.fr/fr/communs/) référence un nouveau commun numérique : le [référentiel national des bâtiments](https://rnb.beta.gouv.fr)
 - Voici un nouveau [guide interactif pour déterminer le *awesome score* de votre projet libre](https://code.gouv.fr/guides/awesome/)
-- Le prochain atelier #BlueHats du 13 septembre présentera des forges peu connues : [Forgejo, Fordj et SourceHut](https://code.gouv.fr/fr/bluehats/autres-forges/)
+- Le prochain wébinaire #BlueHats du 13 septembre présentera des forges peu connues : [Forgejo, Fordj et SourceHut](https://code.gouv.fr/fr/bluehats/autres-forges/)
 
 <br/>
 
