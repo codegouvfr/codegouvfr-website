@@ -119,6 +119,7 @@
       # YAML will be generated here as you type
     </div>
     <div class="button-container">
+      <p id="open_mail_client_warning">This will open your mail client and prepare an email to send.</p>
       <button id="email-button" class="button">Send YAML by Email</button>
     </div>
 
@@ -134,7 +135,7 @@
          emailError: 'Please enter a valid email address',
          dateError: 'Please enter a valid ISO 8601 date (YYYY-MM-DD)',
          codeError: 'One or more URLs are invalid',
-         countryError: 'Please enter a valid 2-letter ISO 3166-1 country code in uppercase (e.g., FR, US, DE, CA, GB)',
+         countryError: 'Please enter a valid 2-letter ISO 3166-1 country code in uppercase (e.g., JP, BR, ZA, IN)',
          emptyUrl: '# Enter a URL to generate YAML',
          emailSubject: 'New yml entry for the list of public sector OSPOs',
          validationAlert: 'Please correct the validation errors before sending the email.',
@@ -151,7 +152,7 @@
            },
            country: {
              label: 'Country',
-             placeholder: 'Country code (e.g., FR, US, DE)'
+             placeholder: 'Country code (e.g., JP, BR, ZA, IN, etc., INT for International, EU for Europe, etc.)'
            },
            description: {
              label: 'Description',
@@ -178,13 +179,14 @@
        fr: {
          title: 'Générateur YAML OSPOmeta',
          description: 'OSPOmeta vise à fournir un schéma de métadonnées minimal pour les <em>Open Source Programme Offices</em>. Voir <a href="https://github.com/Bluehats/ospometa">ce dépôt pour plus d\'informations</a>.',
+         open_mail_client_warning: 'Cliquer ici pour ouvrir votre client de messagerie et envoyer le mail.',
          yamlHeader: 'YAML généré pour cet OSPO',
          emailButton: 'Envoyer le YAML par Email',
          urlError: 'Veuillez saisir une URL valide',
          emailError: 'Veuillez saisir une adresse email valide',
          dateError: 'Veuillez saisir une date ISO 8601 valide (AAAA-MM-JJ)',
          codeError: 'Une ou plusieurs URLs sont invalides',
-         countryError: 'Veuillez saisir un code pays ISO 3166-1 valide à 2 lettres en majuscules (ex: FR, US, DE, CA, GB)',
+         countryError: 'Veuillez saisir un code pays ISO 3166-1 valide à 2 lettres en majuscules (ex: JP, BR, ZA, IN)',
          emptyUrl: '# Saisissez une URL pour générer le YAML',
          emailSubject: 'Nouvelle entrée yml pour la liste des OSPOs du secteur public',
          validationAlert: 'Veuillez corriger les erreurs de validation avant d\'envoyer l\'email.',
@@ -232,7 +234,7 @@
 
      // Constants for validation messages and other strings
      const MESSAGES = {
-       EMAIL_RECIPIENT: 'floss@numerique.gouv.fr'
+       EMAIL_RECIPIENT: 'bzg@bzg.fr'
      };
 
      // Form field configuration - single source of truth
@@ -301,6 +303,7 @@
        emailButton: document.getElementById('email-button'),
        title: document.getElementById('main-title'),
        description: document.getElementById('description'),
+       open_mail_client_warning: document.getElementById('open_mail_client_warning'),
        yamlHeader: document.getElementById('yaml-header')
      };
 
@@ -325,6 +328,7 @@
        // Update static elements
        domElements.title.textContent = t('title');
        domElements.description.innerHTML = t('description');
+       domElements.open_mail_client_warning.innerHTML = t('open_mail_client_warning');
        domElements.yamlHeader.textContent = t('yamlHeader');
        domElements.emailButton.textContent = t('emailButton');
 
