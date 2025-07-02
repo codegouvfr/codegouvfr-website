@@ -3,7 +3,7 @@ title: "L’agglomération de La Rochelle réinvente la gouvernance territoriale
 date: 2025-09-05
 description: "Découvrons Terreze, une plateforme numérique lancée en 2024 dans le cadre de la trajectoire de neutralité carbone de La Rochelle. L’outil open source et écoconçu par un consortium public-privé centralise les données des acteurs du territoire pour repérer les sources d’émissions, mesurer les économies possibles et orienter les actions à engager."
 ---
-Rendez-vous le **5 septembre de 11h à 12h30** via [ce lien de visio](https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf).
+Rendez-vous le **5 septembre de 11h à 12h30** via [ce lien de visio](https://webinaire.numerique.gouv.fr/meeting/signin/invite/59864/creator/31968/hash/bfc858df434fecffc1c18d4492f9b56213160441).
 
 Intervenants :
 

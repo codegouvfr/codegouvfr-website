@@ -37,6 +37,6 @@ module.exports = {
             hours: 1,
             minutes: 30
         },
-        location: "https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf"
+        location: "https://webinaire.numerique.gouv.fr/meeting/signin/invite/59864/creator/31968/hash/bfc858df434fecffc1c18d4492f9b56213160441"
     }
 };

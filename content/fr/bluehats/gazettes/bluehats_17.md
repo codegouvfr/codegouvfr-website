@@ -69,7 +69,7 @@ Vendredi 10 juin, Thomas Magnin-Feysot et Emmanuelle Helly ont présenté l'outi
 
 Le vendredi 24 juin, Bruno Gaschet (DGFiP) animera un atelier de "Présentation des marchés de support et d’expertise logiciels libres".
 
-`>>` Pour y participer, connectez-vous vendredi 24 juin à 11h sur le [lien suivant](https://webinaire.numerique.gouv.fr/meeting/signin/invite/362/creator/369/hash/14eb55bd230aa1a8b8a98e0ee35b056d0196afcf).
+`>>` Pour y participer, connectez-vous vendredi 24 juin à 11h sur le [lien suivant](https://webinaire.numerique.gouv.fr/meeting/signin/invite/59864/creator/31968/hash/bfc858df434fecffc1c18d4492f9b56213160441).
 
 ## Événements
 
