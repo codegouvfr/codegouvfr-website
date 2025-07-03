@@ -21,6 +21,9 @@ Terreze s’inscrit dans la continuité des portails open data, tout en élargis
 
 Ce nouvel outil est conçu comme un « commun » numérique qui désigne une ressource partagée, entretenue et gouvernée collectivement par une communauté dans un objectif d’intérêt général.
 
+Plus d'infos : [datarchipel.org](https://datarchipel.org)
+Forge : [forge.naos-cluster.tech/terreze/projet](https://forge.naos-cluster.tech/terreze/projet)
+
 <br/>
 <img class="fr-responsive-img" alt="Capture d'écran de Terreze montrant un graphique" src="/img/bluehats/terreze2.png" />
 <br/>
