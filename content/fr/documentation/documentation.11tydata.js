@@ -19,13 +19,13 @@ module.exports = {
             url: false,
             externalUrl: "https://code.gouv.fr/faq/",
             title: "FAQ Logiciels libres",
-            description: `Parcourir la FAQ de notre documentation.`
+            description: "Parcourir la FAQ de notre documentation."
         },
 	{
             url: false,
             externalUrl: "https://mentor.gouv.fr/catalog/1754",
-            title: "Capsule Mentor"
-	    description: "Aborder en confiance les logiciels libres dans l'administration"
+            title: "Capsule Mentor",
+	    description: `Aborder en confiance les logiciels libres dans l'administration`
         }
     ],
     guides: [
