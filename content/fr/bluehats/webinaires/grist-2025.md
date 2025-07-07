@@ -1,9 +1,9 @@
 ---
 title: "Grist - Le tableur collaboratif pour structurer vos bases de données."
-date: 2025-07-11
+date: 2025-07-10
 description: "À la croisée des chemins entre un tableur, un outil de gestion de bases de données, et une application « no-code », Grist vous permet de collaborer sur des jeux de données et de construire des outils métiers sans avoir à coder."
 ---
-Rendez-vous le **11 juillet de 11h à 12h** via [ce lien de visio](https://webinaire.numerique.gouv.fr/meeting/signin/invite/59864/creator/31968/hash/bfc858df434fecffc1c18d4492f9b56213160441).
+Rendez-vous le **10 juillet de 11h à 12h** via [ce lien de visio](https://webinaire.numerique.gouv.fr/meeting/signin/invite/59864/creator/31968/hash/bfc858df434fecffc1c18d4492f9b56213160441).
 
 Intervenant : Vincent Viers, responsable produit Grist
 
