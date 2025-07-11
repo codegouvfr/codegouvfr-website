@@ -6,16 +6,18 @@ video:
   src: https://tube.numerique.gouv.fr/videos/embed/8wZpkqt5K9wN2zbe1uvkZA
   title: "Wébinaire BlueHats : présentation de Grist"
 ---
-Intervenant : Vincent Viers, responsable produit Grist
+Intervenant : Vincent Viers, responsable produit Grist à la DINUM.
+
+👉 **Support de la présentation** : [lien Docs](https://docs.numerique.gouv.fr/docs/a9627f25-883b-44c2-8a60-e034fb457b01/)
 
 L'ANCT et la DINUM contribuent activement au logiciel libre
 [Grist](https://www.getgrist.com) et s'efforcent d'en faire un commun
 numérique déployé notamment dans le cadre de La Suite Numérique.
 
-Ce wébinaire vous présentera quelques cas d'usages de
+Ce wébinaire présente quelques cas d'usages de
 [Grist](https://grist.numerique.gouv.fr) dans la fonction publique et
-explorera le modèle et les challenges liés à la contribution sans
-"fork" à ce logiciel libre.
+explore le modèle et les challenges liés à la contribution sans "fork"
+à ce logiciel libre.
 
 <br/>
 <img class="fr-responsive-img" alt="Capture d'écran de Grist sur le site de La Suite" src="/img/bluehats/grist-2025.png" />
