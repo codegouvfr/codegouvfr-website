@@ -2,9 +2,13 @@
 title: "L’agglomération de La Rochelle réinvente la gouvernance territoriale des données grâce à la plateforme Terreze"
 date: 2025-09-05
 description: "Découvrons Terreze, une plateforme numérique lancée en 2024 dans le cadre de la trajectoire de neutralité carbone de La Rochelle. L’outil open source et écoconçu par un consortium public-privé centralise les données des acteurs du territoire pour repérer les sources d’émissions, mesurer les économies possibles et orienter les actions à engager."
+video:
+  src: https://tube.numerique.gouv.fr/videos/embed/r1JgHKCJgnApcMKsh78duJ
+  title: "Wébinaire BlueHats : la gouvernance territoriale des données grâce à la plateforme Terreze"
+slides:
+  src: https://speakerdeck.com/player/33fed973de4f48f881237fabe5ed0054
+  title: "La gouvernance territoriale des données grâce à la plateforme Terreze"
 ---
-Rendez-vous le **5 septembre de 11h à 12h30** via [ce lien de visio](https://webinaire.numerique.gouv.fr/meeting/signin/invite/59864/creator/31968/hash/bfc858df434fecffc1c18d4492f9b56213160441).
-
 Intervenants :
 
 - David Berthiaud - Directeur du pôle numérique responsable - Agglomération de La Rochelle
