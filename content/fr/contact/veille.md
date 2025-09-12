@@ -8,7 +8,6 @@ showBreadcrumb: true
 ---
 
 - Vous abonner au compte Mastodon [@codegouvfr](https://social.numerique.gouv.fr/@codegouvfr)
-- Vous abonner à la [gazette BlueHats](https://code.gouv.fr/infolettre/)
 - Vous abonner [au flux RSS des mises à jour "BlueHats"](/feed/feed.xml) de ce site
 - [Entrer en contact avec la communauté BlueHats](/fr/contact/espaces-communication-bluehats/)
 - Suivre nos dépôts de codes sources via [notre compte GitHub](https://github.com/codegouvfr/)

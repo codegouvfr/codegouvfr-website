@@ -28,11 +28,6 @@ module.exports = {
 <p>Utilisez l'un des <a href="/fr/contact/espaces-communication-bluehats/" target="_blank">canaux de communication</a>.</p>`
         },
         {
-            title: "Vous souhaitez participer à la gazette BlueHats ?",
-            content: `
-<p>N'hésitez pas à <a href="https://code.gouv.fr/infolettre/">vous inscrire</a> à la gazette BlueHats et à proposer des informations en nous <a href="mailto:floss@numerique.gouv.fr">envoyant un courriel</a>.</p>`
-        },
-        {
             title: "Vous souhaitez participer à un wébinaire BlueHats ?",
             content: `
 <p>Tout le monde peut y accéder en ligne via <a href="https://webinaire.numerique.gouv.fr/meeting/signin/invite/59864/creator/31968/hash/bfc858df434fecffc1c18d4492f9b56213160441" target="_blank">ce lien</a>.  Ils sont aussi visibles en rediffusion sur <a href="https://tube.numerique.gouv.fr/a/logicielslibres/video-channels" target="_blank">la chaîne BlueHats du pôle Open Source</a>.</p>
