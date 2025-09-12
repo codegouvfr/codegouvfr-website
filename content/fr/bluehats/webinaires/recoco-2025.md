@@ -3,9 +3,7 @@ title: "Recommandations-collaboratives : un logiciel libre pour mieux vous coor
 date: 2025-09-12
 description: "Ce webinaire s’adresse à toutes celles et ceux qui souhaitent découvrir *Recommandations-collaboratives*, un outil collaboratif libre pour le conseil et le suivi de projets."
 ---
-Rendez-vous le **12 septembre de 11h à 12h30** via [ce lien de visio](https://webinaire.numerique.gouv.fr/meeting/signin/invite/59864/creator/31968/hash/bfc858df434fecffc1c18d4492f9b56213160441).
-
-**Intervenante** : Salomé Deschênes, Product manager de Recommandations-collaboratives et UrbanVitaliz
+**Intervenantes** : Perrine Rutkowski, cheffe de groupe Données et Incubation de Produits Innovants, Incubateur Accélérema (Cerema) et intrapreneuse Recommandations-collaboratives et UrbanVitaliz, et Amélie Quillet, chargée de déploiement Recommandations-collaboratives et UrbanVitaliz
 
 Ce webinaire s’adresse à toutes celles et ceux qui souhaitent découvrir *Recommandations-collaboratives*, un outil collaboratif libre pour le conseil et le suivi de projets.
 
