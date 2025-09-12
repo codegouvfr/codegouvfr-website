@@ -39,7 +39,7 @@ module.exports = {
     share_by_email: "Partager par email",
     share_link_on: "Partage d'un lien sur",
     sitemap: "Plan du site",
-    subscribe: "S'abonner",
+    subscribe: "Lire les dernières",
     subscribe_newsletter: "Abonnez-vous à notre lettre d’information",
     system: "Système",
     tags: "Catégories",

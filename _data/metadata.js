@@ -3,7 +3,7 @@ module.exports = {
     url: "https://code.gouv.fr",
     newsletter: [
         {
-            url: "https://code.gouv.fr/infolettre/",
+            url: "https://code.gouv.fr/fr/bluehats/tags/gazette/",
             title: "Gazette BlueHats",
             description: "Votre lettre d'information sur les logiciels libres par et pour les administrations."
         }
