@@ -1,7 +1,7 @@
 ---
 title: "Recommandations-collaboratives : un logiciel libre pour mieux vous coordonner dans le conseil et le suivi de projets"
 date: 2025-09-12
-description: "Ce webinaire s’adresse à toutes celles et ceux qui souhaitent découvrir *Recommandations-collaboratives*, un outil collaboratif libre pour le conseil et le suivi de projets."
+description: "Ce webinaire s’adresse à toutes celles et ceux qui souhaitent découvrir Recommandations-collaboratives, un outil collaboratif libre pour le conseil et le suivi de projets."
 ---
 **Intervenantes** : Perrine Rutkowski, cheffe de groupe Données et Incubation de Produits Innovants, Incubateur Accélérema (Cerema) et intrapreneuse Recommandations-collaboratives et UrbanVitaliz, et Amélie Quillet, chargée de déploiement Recommandations-collaboratives et UrbanVitaliz
 
