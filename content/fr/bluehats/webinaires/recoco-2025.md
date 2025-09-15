@@ -17,7 +17,7 @@ Ce webinaire s’adresse à toutes celles et ceux qui souhaitent découvrir *Rec
 
 Proposer à votre équipe une solution numérique robuste pour renforcer la coordination humaine dans l’accompagnement de projets — et ainsi en améliorer les résultats.
 
-Développé en logiciel libre au sein de l’incubateur beta.gouv.fr, en collaboration avec le Cerema, *Recommandations-collaboratives* a déjà été adopté par 12 équipes aux profils variés (experts en urbanisme, accompagnateurs d’AAP/AMI, réseau Sorbonne Université, association de tiers-lieux, etc.), leur permettant de s’outiller rapidement pour :
+Développé en logiciel libre par le Cerema en partenariat avec l’incubateur beta.gouv.fr, *Recommandations-collaboratives* a déjà été adopté par 12 équipes aux profils variés (experts en urbanisme, accompagnateurs d’AAP/AMI, réseau Sorbonne Université, association de tiers-lieux, etc.), leur permettant de s’outiller rapidement pour :
 
 - offrir aux porteurs de projets un guichet unique pour solliciter de l’aide ;
 - se coordonner efficacement entre plusieurs partenaires et conseillers autour d’un projet ;
