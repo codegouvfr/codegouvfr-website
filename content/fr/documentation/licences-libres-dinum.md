@@ -38,7 +38,7 @@ Et une reconnue seulement par l'OSI :
 
 - [CeCILL Free Software License Agreement v2.1](https://spdx.org/licenses/CECILL-2.1.html)
 
-## Licences libres additionnelles valables pour tout les logiciels libres référencés dans le SILL
+## Les logiciels libres pouvant intégrer le SILL peuvent aussi être sous les licences suivantes
 
 - [Academic Free License v1.1](https://spdx.org/licenses/AFL-1.1.html)
 - [Academic Free License v1.2](https://spdx.org/licenses/AFL-1.2.html)
