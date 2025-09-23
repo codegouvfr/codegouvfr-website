@@ -11,7 +11,7 @@ showBreadcrumb: true
 
 Les licences listées sur cette page correspondent aux licences reconnues libres *à la fois* par la Free Software Foundation et l'Open Source Initiative, à l'exception de quelques licences CeCILL, lesquelles sont reconnues soit par la FSF soit par l'OSI.
 
-Nous nous sommes appuyés sur la page [spdx.org/licenses](https://spdx.org/licenses) pour la constituer.
+Nous nous appuyons sur la page [spdx.org/licenses](https://spdx.org/licenses) pour la constituer.
 
 ## Licences libres reconnues par la FSF et l'OSI pour publier les codes sources produits par l'administration
 
@@ -44,7 +44,11 @@ Et une reconnue seulement par l'OSI :
 
 <br/>
 
-## Les logiciels libres pouvant intégrer le SILL peuvent aussi être sous les licences suivantes
+## Licences sous lesquels doit être publié un logiciel pour intégrer le SILL
+
+Tout logiciel candidat au référencement dans le SILL doit être publié
+sous l'une des licences indiquées dans la section précédente ou sous
+l'une des licences suivantes :
 
 - [Academic Free License v1.1](https://spdx.org/licenses/AFL-1.1.html)
 - [Academic Free License v1.2](https://spdx.org/licenses/AFL-1.2.html)
