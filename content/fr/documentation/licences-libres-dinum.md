@@ -29,14 +29,20 @@ Voir [la page dédiée](https://www.data.gouv.fr/fr/pages/legal/licences/) sur `
 - [MIT License](https://spdx.org/licenses/MIT.html)
 - [Mozilla Public License 2.0](https://spdx.org/licenses/MPL-2.0.html)
 
+<br/>
+
 À ces licences s'en ajoutent deux reconnues seulement par la FSF :
 
 - [CeCILL-B Free Software License Agreement](https://spdx.org/licenses/CECILL-B.html)
 - [CeCILL-C Free Software License Agreement](https://spdx.org/licenses/CECILL-C.html)
 
+<br/>
+
 Et une reconnue seulement par l'OSI :
 
 - [CeCILL Free Software License Agreement v2.1](https://spdx.org/licenses/CECILL-2.1.html)
+
+<br/>
 
 ## Les logiciels libres pouvant intégrer le SILL peuvent aussi être sous les licences suivantes
 
