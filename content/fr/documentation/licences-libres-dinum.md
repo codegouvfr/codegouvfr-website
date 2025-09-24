@@ -46,9 +46,9 @@ Et une reconnue seulement par l'OSI :
 
 ## Licences sous lesquels doit être publié un logiciel pour intégrer le SILL
 
-Tout logiciel candidat au référencement dans le SILL doit être publié
-sous l'une des licences indiquées dans la section précédente ou sous
-l'une des licences suivantes :
+Tout logiciel référencé dans le SILL doit être publié sous l'une des
+licences indiquées dans la section précédente ou sous l'une des
+licences suivantes :
 
 - [Academic Free License v1.1](https://spdx.org/licenses/AFL-1.1.html)
 - [Academic Free License v1.2](https://spdx.org/licenses/AFL-1.2.html)
